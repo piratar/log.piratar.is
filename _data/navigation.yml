@@ -1,0 +1,14 @@
+main:
+  - title: "Stefna"
+    url: /stefna
+
+umpirata:
+  - title: "Um Pírata"
+    url: /um-pirata/
+adildarfelog:
+  - title: "Reykjavík"
+    url: /reykjavik
+languages:
+  - title: "English"
+    url: /en/
+
