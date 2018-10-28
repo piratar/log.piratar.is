@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lög Pírata Norðausturkjördæmi
+title: Lög Pírata Norðausturlandi
 ---
 
 Nafn félagsins er Píratar á Norðausturlandi.  Varnarþing þess er Héraðsdómur Norðurlands eystra.
