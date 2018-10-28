@@ -1,11 +1,8 @@
 ---
 layout: page
 title: Lög Pírata Reykjavík
+image: reykjavik.jpg
 ---
-
-<div class="text-center my-4">
-  <img width="600" src="assets/images/reykjavik.jpg" class="img-fluid" alt="" >
-</div>
 
 Svæðisbundna aðildarfélagið Píratar í Reykjavík ber meðal annars ábyrgð á framboðum í nafni Pírata á sveitarstjórnarstigi í Reykjavík og til þingkosninga.
 

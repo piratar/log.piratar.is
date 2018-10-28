@@ -1,11 +1,9 @@
 ---
 layout: page
 title: Lög Pírata Seltjarnarnesi
+image: seltjarnarnes.jpg
 ---
 
-<div class="text-center my-4">
-  <img width="600" src="assets/images/seltjarnarnes.jpg" class="img-fluid" alt="" >
-</div>
 
 Svæðisbundna aðildarfélagið Píratar á Seltjarnarnesi ber meðal annars ábyrgð á framboðum í nafni Pírata á sveitarstjórnarstigi á Seltjarnarnesi.
 

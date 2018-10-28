@@ -1,11 +1,9 @@
 ---
 layout: page
 title: Lög Pírata Suðurnesjum
+image: sudurnes.jpg
 ---
 
-<div class="text-center my-4">
-  <img width="600" src="assets/images/sudurnes.jpg" class="img-fluid text-center" alt="" >
-</div>
 
 
 Píratar á Suðurnesjum eru svæðisbundið aðildarfélag Pírata og ber ábyrgð á að kynna málefni flokksins fyrir íbúum Suðurnesja (og víðar), standa fyrir kynningum og málefnafundum á svæðinu og að standa fyrir framboðum í nafni Pírata á sveitarstjórnarstigi innan starfssvæðisins.
