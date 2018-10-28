@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Lög Pírata Hafnarfirði
+image: hafnarfjordur.jpg
 ---
 
 Svæðisbundna aðildarfélagið Píratar í Hafnarfirði ber meðal annars ábyrgð á framboðum í nafni Pírata á sveitarstjórnarstigi í Hafnarfirði.

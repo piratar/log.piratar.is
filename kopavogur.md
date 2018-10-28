@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Lög Pírata Kópavogi 
+title: Lög Pírata Kópavogi
+image: kopavogur.jpg
 ---
 Svæðisbundna aðildarfélagið Píratar í Kópavogi ber meðal annars ábyrgð á framboðum í nafni Pírata á sveitarstjórnarstigi í Kópavogi.
 
