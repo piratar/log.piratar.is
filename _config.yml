@@ -20,6 +20,7 @@ baseurl: "/log.piratar.is" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: pirataris
 github_username:  piratar
+repository: "https://github.com/piratar/log.piratar.is"
 
 # Build settings
 markdown: kramdown
