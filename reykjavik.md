@@ -26,14 +26,13 @@ Til vara eru: Hermann Björgvin og Þórlaug.
   <ul>
     <li><a href="http://www.piratar.is/taka-thatt/vidburdir/">Fundadagskrá Pírata</a></li>
     <li><a href="http://www.piratar.is/category/piratar-i-reykjavik/">Fréttir um Pírata í Reykjavík</a></li>
-    <li><a href="http://www.piratar.is/log-pirata/log-pirata-reykjavik/">Lög félagsins</a></li>
     <li><a href="http://piratar.is/fundargerdir/reykjavik/">Fundargerðir og gögn</a></li>
     <li><a href="http://bambuser.com/channel/piratafundir">Netútsendingar funda</a></li>
     <li><a href="https://www.facebook.com/PiratarReykjavik/">Píratar í Reykjavík á Facebook</a></li>
     <li><a href="https://www.facebook.com/groups/339983356117434/?fref=ts">Umræðuhópur Pírata í Reykjavík á Facebook</a></li>
     <li><a href="https://www.facebook.com/groups/143509982500002/">Sveitarstjórnarmál Pírata á FB</a></li>
     <li><a href="https://x.piratar.is/polity/102/">Stefnumál Pírata í Reykjavík</a></li>
-    <li><strong><a href="http://piratar.is/adildarfelogin/stefnumal-pirata-reykjavik/">Stefna;Pírata í Reykjavík</a> </strong></li>
+    <li><strong><a href="http://piratar.is/adildarfelogin/stefnumal-pirata-reykjavik/">Stefna Pírata í Reykjavík</a> </strong></li>
   </ul>
 </div>
 
