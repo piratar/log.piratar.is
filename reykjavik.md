@@ -39,25 +39,28 @@ Stjórn PíR 2018, kafteinn stjórnar er Rúnar Björn Herrera Þorkelsson. Rita
 
 
 
-1. Heiti félagsins
+# Lög Pírata í Reykjavík
+
+
+## 1. Heiti félagsins
 
 1.1. Heiti félagsins er Píratar í Reykjavík. Aðsetur þess og varnarþing er í Reykjavík.
 
-2. Hlutverk félagsins
+## 2. Hlutverk félagsins
 
 2.1. Félagið er aðildarfélag stjórnmálaflokksins Pírata. Starfssvæði þess er Reykjavík.
 
 2.2. Félagið setur sér stefnu í opnu ferli og vinnur að framgangi hennar og stefnu Pírata með öllum þeim aðferðum sem því standa til boða. Félagið ber ábyrgð á framboði undir nafnið Pírata til sveitarstjórnarkosninga á starfssvæði sínu. Félagið ber einnig ábyrgð á framboði undir nafni Pírata til Alþingiskosninga í Reykjavíkurkördæmi Suður og Reykjavíkurkjördæmi Norður.
 
 
-3. Aðild að félaginu
+## 3. Aðild að félaginu
 
 3.1. Hver sem er 16 ára á árinu eða eldri og hefur lögheimili eða fasta búsetu í Reykjavík getur fengið fulla aðild að félaginu.
 
 3.2. Félagi í félaginu er sjálfkrafa aðili að Pírötum.
 
 
-4. Stjórn félagsins
+## 4. Stjórn félagsins
 
 4.1. Stjórn félagsins annast almenna stjórn og rekstur félagsins. Firmaritun er í höndum meirihluta stjórnar.
 
@@ -76,7 +79,7 @@ Stjórn PíR 2018, kafteinn stjórnar er Rúnar Björn Herrera Þorkelsson. Rita
 4.8. Kjörgengur til stjórnar félagsins er hver sá aðili sem skráður er í félagið og gegnir ekki kjörnum embættum til sveitarstjórnar eða Alþingis.
 
 
-5. Aðalfundur
+## 5. Aðalfundur
 
 5.1. Boða skal til aðalfundar með þriggja vikna fyrirvara og með sannanlegum hætti. Aðalfundur er löglegur, sé rétt til hans boðað. Aðalfundur Pírata skal hafa rétt til þess að boða aðalfund í félaginu.
 
@@ -114,7 +117,7 @@ Stjórn Pírata í Reykjavík skal skila gögnum aðalfundar, fundargerð, árss
 5.8. Á aðalfundi skulu kosnir tveir skoðunarmenn reikninga.
 
 
-6. Lög, stefnumál og atkvæðagreiðslur
+## 6. Lög, stefnumál og atkvæðagreiðslur
 
 6.1. Félagið telst starfhæft svo lengi sem ekki meira en 18 mánuðir hafa liðið frá því að síðasti aðalfundur þess var haldinn og að auki séu engir kjörnir fulltrúar starfandi í embættum af hálfu félagsins.
 
@@ -137,7 +140,7 @@ Stjórn Pírata í Reykjavík skal skila gögnum aðalfundar, fundargerð, árss
 6.10. Stefna félagsins má aldrei ganga gegn grunnstefnu Pírata.
 
 
-7. Félagsfundur
+## 7. Félagsfundur
 
 7.1. Fundir félagsins skulu að jafnaði vera opnir öllum.
 
@@ -153,7 +156,7 @@ Félagsfundur má taka ákvörðun um að tillaga einhvers utan fundarins sé af
 7.5. Félagsfundi má eingöngu halda á starfssvæði félagsins nema brýn nauðsyn krefjist að félagsfundur fari fram utan þess.
 
 
-8. Framboð
+## 8. Framboð
 
 8.1. Ákvarðanir samkvæmt þessum kafla má taka með ákvörðun stjórnar eða með ályktun félagsfundar nema annað sé sérstaklega tilgreint. Staðfesta skal allar ályktanir félagsfunda í rafrænu kosningakerfi Pírata.
 
@@ -172,7 +175,7 @@ Félagsfundur má taka ákvörðun um að tillaga einhvers utan fundarins sé af
 8.8. Við framkvæmd kosninganna skal að öðru leyti fara eftir lögum Pírata um framboðslistakosningar.
 
 
-9. Ágreiningur
+## 9. Ágreiningur
 
 9.1. Ágreining um túlkun laga þessara og grunnstefnu Pírata má bera undir úrskurðarnefnd Pírata. Um starfshætti úrskurðarnefndar Pírata fer eftir hennar eigin reglum sem og lögum Pírata og grunnstefnu. Til hennar má einnig áfrýja ákvörðunum fundarstjóra og stjórnar félagsins er varðar formskilyrði.
 
@@ -181,7 +184,7 @@ Félagsfundur má taka ákvörðun um að tillaga einhvers utan fundarins sé af
 9.3 Sé misræmi milli þessara laga og laga Pírata skulu lög Pírata gilda.
 
 
-10. Innkoma og rekstraratriði
+## 10. Innkoma og rekstraratriði
 
 10.1. Félaginu er heimilt að safna og taka á móti styrkjum ásamt því að stunda sölu á vörum og þjónustu eftir því sem landslög leyfa.
 
@@ -192,7 +195,7 @@ Félagsfundur má taka ákvörðun um að tillaga einhvers utan fundarins sé af
 10.4. Skipti félagið starfsemi sinni frekar skal framkvæmdaráði Pírata gerð grein fyrir þeirri skiptingu að því leyti sem hún hefur áhrif á félagaskráningu.
 
 
-11. Slit félagsins
+## 11. Slit félagsins
 
 11.1. Á félagsfundi skv. 7. kafla má bera upp tillögu um slit félagsins. Hún skal eingöngu afgreidd hafi hún verið tilkynnt í fundarboði. Samþykki aukinn meirihluti viðstaddra fundarmanna tillöguna skal kosið um hana í rafrænu kosningakerfi Pírata í 7 sólarhringa þar sem þarf aukinn meirihluta greiddra atkvæða til að slitin skoðist samþykkt.
 
