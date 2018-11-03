@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lög Pírata Seltjarnarnesi
+title: Lög Pírata Suðurlandi
 image: sudurland.jpg
 ---
 
