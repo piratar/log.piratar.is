@@ -1,5 +1,6 @@
  ## Lög Pírata í Norðvesturkjördæmi 
 (samþykkt á stofnfundi 29.2.2020) 
+(Beðið samþykktar framkvæmdaráðs Pírata)
 
 **1. Heiti félagsins**
 
