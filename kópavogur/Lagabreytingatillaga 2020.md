@@ -19,16 +19,6 @@ Stjórn Pírata í Kópavogi leggur eftirfarandi lagabreytingar fyrir aðalfund 
 
  
 
-**Gr. 4.3 breytist** 
-
-*Var*
-
-Stjórn félagsins skal kosin á aðalfundi að  fimm varamanna til stjórnar. Kosning skal fara fram með Schulze aðferð.
-
-*Verður*
-
-Stjórn félagsins skal kosin á aðalfundi auk allt að  fimm varamanna til stjórnar. Kosning skal fara fram með Schulze aðferð.
-
 **Gr. 4.5 Fellur burt** 
 
 Aðrir liðir færist til samræmis
