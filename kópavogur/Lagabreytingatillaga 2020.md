@@ -29,4 +29,4 @@ Missi stjórnarmaður kjörgengi og ekki sé varamaður sem geti tekið sæti þ
 
 **Við Gr. 7.5 bætist**
 
-Auk þess er heimilt að halda fundi félagsis í Tortuga. 
+Auk þess er heimilt að halda fundi félagsis í Höfuðstöðvum Pírata. 
