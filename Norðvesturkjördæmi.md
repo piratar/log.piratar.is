@@ -1,6 +1,10 @@
  ## Lög Pírata í Norðvesturkjördæmi 
-(samþykkt á stofnfundi 29.2.2020) 
+
+(samþykkt á stofnfundi 29.2.2020)
+
 (Beðið samþykktar framkvæmdaráðs Pírata)
+
+(framkvæmdaráð samþykkti á fundi sínum 10. mars aðilf PíNK að Pírötum, með fyrirvara um að lög félagsins samræmist lög Pírata, mun ráðið koma á framfæri athugasemdum fyrir næsta aðalfund Pírata (haust 2020) og fær aðildarfélagið frest til síns næsta aðalfundar til að bæta úr athugasemdum ef einhverjar eru)
 
 **1. Heiti félagsins**
 
