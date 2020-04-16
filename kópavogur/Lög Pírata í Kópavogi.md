@@ -1,4 +1,4 @@
-##Lög Pírata í Kópavogi 
+## Lög Pírata í Kópavogi 
 
 **1. Heiti félagsins**
 
