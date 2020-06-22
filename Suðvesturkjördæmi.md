@@ -1,8 +1,8 @@
 ### Lög Pírata í Suðvesturkjördæmi
 
-*Lögum félagsins var breytt á aðalfundi félagsins 21. júní 2020, með þeim hætti að gildandi lög voru lögð niður í heild sinni og drög unnin uppúr lögum annarra félaga samþykkt í heild á aðalfundi, eftir minniháttar breytingar.
+*Lögum félagsins var breytt á aðalfundi félagsins 21. júní 2020, með þeim hætti að gildandi lög voru lögð niður í heild sinni og drög unnin uppúr lögum annarra félaga samþykkt í heild á aðalfundi, eftir minniháttar breytingar.*
 
-Nánar: https://x.piratar.is/polity/219/issue/433/*
+*Nánar: https://x.piratar.is/polity/219/issue/433/*
 
 **1. Heiti félagsins**
 
