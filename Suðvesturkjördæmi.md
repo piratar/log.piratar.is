@@ -1,168 +1,143 @@
 ### Lög Pírata í Suðvesturkjördæmi
 
-**1. Heiti**
+*Lögum félagsins var breytt á aðalfundi félagsins 21. júní 2020, með þeim hætti að gildandi lög voru lögð niður í heild sinni og drög unnin uppúr lögum annarra félaga samþykkt í heild á aðalfundi, eftir minniháttar breytingar.
 
-1.1. Heiti félagsins er Píratar í Suðvesturkjördæmi. Aðsetur þess er í Reykjavík en varnarþing Héraðsdómur Reykjaness.
+Nánar: https://x.piratar.is/polity/219/issue/433/*
 
-1.2. Skammstöfun félagsins er PíSuv.
+**1. Heiti félagsins**
 
+1.1. Heiti félagsins er Píratar í Suðvesturkjördæmi skammstafað PXXX. Varnarþing þess er Héraðsdómur Reykjaness.
 
-**2. Hlutverk**
+**2. Hlutverk félagsins**
 
-2.1. Markmið félagsins er að bjóða fram og auglýsa lista til Alþingiskosninga fyrir hönd aðildarfélaga Pírata í Suðvesturkjördæmi.
+2.1. Félagið er aðildarfélag stjórnmálaflokksins Pírata. Starfssvæði félagsins afmarkast af Suðvesturkjördæmi, eins og það er skilgreint hverju sinni skv. lögum um kosningar til Alþingis, nr. 24/2000.
 
-2.2. PíSuv er aðildarfélag Pírata. Starfssvæði þess er Suðvesturkjördæmi; það er Kópavogur, Hafnarfjörður, Garðabær, Mosfellsbær, Seltjarnarnes og Kjósarhreppur.
+2.2. Félagið setur sér stefnu í opnu lýðræðislegu ferli og vinnur að framgangi hennar og grunnstefnu Pírata.
 
-2.3. Aðild að PíSuv er opin öllum öðrum svæðisbundnum aðildarfélögum Pírata sem starfa innan Suðvesturkjördæmis.
+2.3. Félagið ber ábyrgð á framboði undir nafni Pírata til Alþingiskosninga í Suðvesturkjördæmi
 
-2.4 PíSuv skal stuðla að samvinnu svæðisfélaga Pírata í Suðvesturkjördæmi, til að mynda í málefnastarfi.
+2.4 Félagið skal eftir fremsta megni aðstoða aðildarfélög og félagsdeildir innan kjördæmisins við þátttöku í sveitastjórarkosningum óski þau eftir því. Félagið skal einnig eftir fremsta megni aðstoða við stofnun aðildarfélaga innan Suðvesturkjördæmis og/eða aðstoða einstaklinga við að bjóða fram undir merkjum Pírata til sveitastjórnarkosninga, ef óþarfi er að stofna sérstakt aðildarfélag.
 
+**3. Aðild að félaginu**
 
-**3. Félagsmenn**
+3.1. Aðild að félaginu eiga svæðisbundin aðildarfélög Pírata í Suðvesturkjördæmi, einnig getur stjórn samþykkt aðildarfélög sem ekki eru svæðisbundin.
 
-3.1. Einstaklingur með íslenska kennitölu, og lögheimili eða fasta búsetu í Suðvesturkjördæmi, sem er 16 ára á árinu eða eldri er félagsmaður frá sendingu inntökubeiðnar fram að úrsögn eða andláti. Inntökubeiðni annarra er borin undir stjórn félagsins til samþykktar.
+3.2. Hver sem er 16 ára á árinu eða eldri og hefur lögheimili eða fasta búsetu á starfssvæði félagsins getur fengið fulla aðild að félaginu. Stjórn félagsins er einnig heimilt að samþykkja aðild einstaklinga á grundvelli annarra tengsla við svæðið.
 
-3.2. Inntökubeiðnir í félagið skulu vera skriflegar eða rafrænar. Inntökubeiðni skal send annaðhvort stjórn félagjsins eða félagatali Pírata. Félagsmaður er sjálfkrafa aðili að Pírötum.
+3.3. Starfi ekki virkt aðildarfélag á starfssvæði, skal heimilt er að stofna svæðisbundnar félagsdeildir innan Pírata í Suðvesturkjördæmi.
 
-3.3. Félagsmenn aðildarfélaga skulu sjálfkrafa vera félagsmenn PíSuv.
+3.3.1. Félagsdeild skal stofnuð með einfaldri atkvæðagreiðslu meðal þeirra sem ættu kost á aðild að deildinni. Slík atkvæðagreiðsla skal fara fram óski minnst tveir félagsmenn þess skriflega við stjórn. Skrifi helmingur væntanlegra deildarmeðlima eða fleiri undir slíka beiðni skal óþarft að láta atkvæðagreiðslu fara fram.
 
+3.3.2. Félagsdeild hefur sjálfstæða stefnumótun.
 
+3.3.3. Fyrir hverri félagsdeild skal fara kjörinn ábyrgðarmaður. Ábyrgðarmaður skal kjörinn innan félagsdeildar með Schulze-aðferð.
 
-**4. Aðalfundur**
+3.3.4. Starfssvæði félagsdeildar skal vera minnst eitt sveitarfélag, einungis skal ein félagsdeild starfa í hverju sveitarfélagi.
 
-4.1. Að minnsta kosti einn aðalfundur skal haldinn fyrir lok maí ár hvert. Að öðrum kosti getur framkvæmdaráð Pírata boðað aðalfund.
+3.3.5. Að öðru leyti ákvarðar félagsdeild eigin lög. Félagsdeild er heimilt að halda aðskilda sjóði. Félagsdeild skal lögð niður samþykki þrír fjórðu hlutar þátttakenda í kosningu meðal meðlima félagsdeildarinnar ályktun þess efnis.
 
+**4. Stjórn félagsins**
 
+4.1. Stjórn félagsins annast almenna stjórnun og rekstur þess. Firmaritun er í höndum meirihluta stjórnar.
 
-4.2. Boða skal til aðalfundar með þriggja vikna fyrirvara og með óvefengjanlegum hætti. Aðalfundur er löglegur, sé rétt til hans boðað.
+4.2 Kjósa skal með Schulze forgangskosningu á aðalfundi félagsins að lágmarki þrjá einstaklinga í aðalstjórn og að hámarki fimm. Í varastjórn er hægt að kjósa allt að þrjá einstaklinga. Stjórnin skiptir með sér verkum.
 
+4.3 Aðilar í varastjórn hafa eingöngu atkvæðarétt í fjarveru aðalmanns. Varamenn taka sæti eftir röðun þeirra á lista við forföll aðalmanna.
 
-4.3. Einfaldur meirihluti skráðra félagsmanna PíSuv sem viðstaddir eru aðalfund ræður úrslitum mála nema um annað hlutfall sé kveðið í lögum þessum. Allir viðstaddir skulu hafa málfrelsi og tillögurétt.
 
+**5. Aðalfundur**
 
-4.4. Dagskrá aðalfundar skal vera sem hér segir:
+5.1. Boða skal til aðalfundar með tveggja vikna fyrirvara með tölvupósti á félagatal og/eða með öðrum sannanlegum hætti. Aðalfundur er löglegur sé rétt til hans boðað. Aðalfund skal halda einu sinni á almanaksári.
 
-* Kosning fundarstjóra og fundarritara
-* Skýrsla stjórnar lögð fram
-* Reikningar lagðir fram til samþykktar
-* Lagabreytingar
-* Kosning stjórnar
-* Kosning í önnur embætti samkvæmt lögum þessum
-* Önnur mál
+5.2. Meirihluti skráðra aðila félagins sem viðstaddir eru hvort sem eru í sal eða í gegnum fjarfund ræður úrslitum mála, nema um annað hlutfall sé kveðið í lögum þessum. Öll þau sem eru viðstödd skulu hafa málfrelsi og tillögurétt.
 
-4.5. Stjórn félagsins boðar til aðalfundar.
+5.3. Dagskrá aðalfundar skulu að minnsta kosti vera þessi atriði:
 
-4.6. Á félagsfundi skv. 6. kafla er hægt að leggja fram tillögu um að boða til aukaaðalfundar. Sé hún samþykkt á félagsfundinum skal hún sett beint í kosningu í rafrænu kosningakerfi Pírata til samþykktar eða synjunar. Sé hún samþykkt af meirihluta þátttakenda í rafrænu kosningakerfi Pírata er stjórn félagsins rétt og skylt að boða aukaaðalfund eins fljótt og mögulegt er. Einungis skráðum félagsmönnum PíSuv er heimilt að taka þátt í kosningunni.
+• Skýrsla stjórnar lögð fram
 
-4.7. Starfsár stjórnar er frá aðalfundi til aðalfundar. Á aðalfundi skal stjórn gera upp árangur liðins árs og leggja fram reikninga. Reikningsár PíSuv er almanaksár.
+• Reikningar lagðir fram til samþykktar
 
-4.8. Á aðalfundi skulu kosnir tveir skoðunarmenn reikninga.
+• Kosning stjórnar
 
-**5. Stjórn**
+• Kosning í önnur embætti samkvæmt lögum þessum
 
-5.1. Stjórn félagsins annast almenna stjórn og rekstur félagsins. Hún, ásamt félagsfundum skv. 6. kafla, fer með málefni félagsins milli aðalfunda. Firmaritun er í höndum meirihluta stjórnar.
+• Önnur mál
 
-5.2. Formaður og varaformaður stjórnar er kjörinn á aðalfundi með Schulze aðferð.
+5.4. Félagsfundur eða stjórn félagsins getur ákveðið að boða til aukaaðalfundar, samanber 5.1.
 
-5.3 Hvert aðildarfélag PíSuv skipar einn stjórnarmann ásamt varamanni. Aðildarfélag má skipta út stjórnarmanni eða varmanni með viku fyrirvara.
+5.5. Starfstímabil félagsins er almanaksárið. Á aðalfundi skal stjórn gera upp árangur liðins árs.
 
-5.4. Stjórn velur ritara og gjaldkera og skiptir með sér verkum.
+5.6. Á aðalfundi skal kosinn einn skoðunaraðili reikninga.
 
-5.5. Missi stjórnarmaður kjörgengi í stjórn félagsins á meðan kjörtímabilinu stendur skal hann víkja tímabundið úr henni þar til hann öðlast aftur kjörgengi og skal varamaður koma í hans stað.
-Varamaðurinn skal öðlast þau réttindi sem aðalmaður fékk við sitt kjör.
+5.7 Aðalfundi Pírata er heimilt að boða aðalfund Pírata í Suðvesturkjördæmi.
 
-5.6. Séu færri en þrír með réttindi aðalmanns í stjórn skal boða til aukaaðalfundar eins fljótt og mögulegt er og kjósa í stjórn að nýju.
+**6. Lög, stefnumál og atkvæðagreiðslur**
 
-5.7. Kjörgengur til stjórnar félagsins er hver sá félagsmaður PíSuv sem ekki gegnir kjörnum embættum til sveitarstjórnar eða Alþingis.
+6.1. Félagið telst starfhæft svo lengi sem ekki meira en 18 mánuðir hafa liðið frá því að síðasti aðalfundur þess var haldinn.
 
-5.8. Alla stjórnarmeðlimi og varamenn skal boða á stjórnarfund með minnst viku fyrirvara. Stjórnarfundir skulu vera opnir félagsmönnum nema undir þeim liðum er fjallað er um einka- eða fjárhagsmálefni einstaklinga sem sanngjarnt er og eðlilegt að leynt fari. Slík mál skulu afgreidd í upphafi eða lok fundar, eftir því sem kostur er.
+6.2. Lögum félagsins má breyta á aðalfundi með meirihluta atkvæða félagsfólks sem sitja fundinn hvort sem er í sal eða í gegnum fjarfund.
+Tillaga að lagabreytingu á aðalfundi kjördæmafélagsins skal eigi afgreidd nema hún sé skýr, lögð fram skriflega í það minnsta einni viku fyrir fundinn.
 
-5.9. Þó má boða stjórnarfund með minna en viku fyrirvara ef svo skjót afgreiðsla máls er brýn. Ákvarðun er ekki tekin á slíkum stjórnarfundi nema aukinn meirihluti stjórnar veiti henni brautargengi. Sé ákvörðun samþykkt með þessum hætti tekur hún gildi án tafar. Stjórn skal þó á næsta fundi þess, boðuðum með venjulegum fyrirvara, taka málið aftur til afgreiðslu: til staðfestingar eða afturköllunar. Við töku ákvarðana á grundvelli þessarar greinar skal gæta meðalhófs.
+6.3. Lögum félagsins má einnig breyta með samþykki meirihluta greiddra atkvæða í rafrænni kosningu. Slík atkvæðagreiðsla skal standa í samræmi við lög Pírata um kosningu vegna lagabreytinga. Boða skal til atkvæðagreiðslunnar með sannarlegum hætti að undangengnum félagsfundi.
 
-**6. Félagsfundur**
+6.4. Atkvæðarétt innan rafræns kosningakerfis hafa þeir meðlimir aðildarfélaga með aðild að PXXX sem jafnframt hafa verið félagar í Pírötum í að minnsta kosti 30 daga samfellt.
 
-6.1. Félagsmaður má boða til félagsfundar með viku fyrirvara. Fundarboð skal sent á póstlista sérhvers aðildarfélags og póstlista Pírata. Í fundarboði skal koma fram fundarstaður og tímasetning. Stjórn er skylt að boða til félagsfundar samkvæmt skriflegri beiðni fjögurra eða fleiri félagsmanna og taka fram á fundarboði dagskrárefni það sem þeir félagsmenn vilja rætt.
+6.5. Stefnumál Pírata í Suðvesturkjördæmi skal ákveða með meirihluta í gegnum rafrænt kosningakerfi.
 
-6.2. Félagsfundur er haldinn í Suðvesturkjördæmi eða í Reykjavík nema brýn nauðsyn krefjist að félagsfundur fari fram annarsstaðar.
+6.5. Hver tillaga að stefnumáli félagsins skal innihalda greinargerð með rökstuðningi, ásamt því að hafa beina stoð í áður samþykktri stefnu Pírata og/eða grunnstefnu Pírata.
 
-6.3. Fundarmenn hafa tillögufrelsi, málfrelsi og atkvæðisrétt. Félagsfundur má taka ákvörðun um að tillaga einhvers utan fundarins sé afgreidd en þær skulu vera skriflegar og eintak afhent fundarritara til varðveislu.
+6.6. Píratar í Suðvesturkjördæmi geta samþykkt að stefnumál gangi framar öðrum stefnum Pírata. Stefna félagsins má þó aldrei ganga gegn grunnstefnu Pírata.
 
-6.4. Allar ákvarðanir félagsfundar skulu teknar með einföldum meirihluta en þó með stuðningi að lágmarki þriggja atkvæða. Óski 5% fundarmanna, og eigi færri en þrír, eftir því að tiltekin kosning skuli vera leynileg, skal verða við því. Annars skulu atkvæði vera greidd fyrir opnum tjöldum nema um annað sé sérstaklega kveðið í lögum þessum.
+6.7. Þegar stefnumál fara til afgreiðslu í rafrænt kosningakerfi félagsins skal vera settur 5 sólarhringa umræðutími og fer atkvæðagreiðsla fram um leið og honum lýkur. Atkvæðagreiðsla skal standa yfir í 5 sólarhringa.
 
-6.5 Fundur boðaður með fyrirvara skemmri en viku er ekki félagsfundur.
+6.8. Sé þörf á skjótri ákvarðanatöku um stefnur félagsins má leggja til, með samþykki meirihluta stjórnar, hraðkosningu á tillögu, stendur hún þá yfir í sólarhring.
+Slíka ákvörðun þarf að staðfesta með hefðbundinni rafrænni kosningu sem fer af stað samtímis. Skulu sérstök boð vera send til félagsmanna um að slík tillaga sé til kosningar. Sé niðurstaða kosningar á þá leið að fyrri ákvörðun sé felld, skal sú niðurstaða gilda, sé ákvörðunin afturkræf. Með tillögunni þarf að fylgja rökstuðningur fyrir hraðmeðferð.
 
-**7. Lög, stefnumál og atkvæðagreiðslur**
 
-7.1. Félagið telst starfhæft nema 18 mánuðir séu liðnir frá síðasta aðalfundi enda sitji enginn kjörinn fulltrúi í opinberu embætti fyrir hönd félagins.
+**7. Framboð til alþingiskosninga, kjördæmisráð, prófkjör og umboðsmenn**
 
-7.2. Lögum félagsins má breyta á aðalfundi með auknum meirihluta atkvæða félagsmanna sem sitja aðalfund. Tillaga að lagabreytingu á aðalfundi skal eigi afgreidd nema hún sé skýr og lögð fram skriflega.
+7.1. Allir félagar í Pírötum sem kjörgengir eru í Suðvesturkjördæmi við Alþingiskosningarnar eiga rétt á að bjóða sig fram í prófkjörinu.
 
-7.3. Lögum félagsins má einnig breyta með samþykki aukins meirihluta greiddra atkvæða í rafrænu kosningakerfi Pírata. Slík atkvæðagreiðsla skal standa í 7 sólarhringa. Sérstök boð skulu send út til félagsmanna um að lagabreytingatillaga sé til kosningar þegar hún hefst.
+7.2. Kjördæmisráð skal skipað á aðalfundi kjördæmafélagsins í samræmi við lög Pírata.
 
-7.4. Atkvæðarétt innan rafræns kosningakerfis Pírata hafa bæði stofnfélagar félagsins og þeir félagsmenn sem jafnframt hafa verið félagar í Pírötum í að minnsta kosti 30 daga samfellt.
+7.2.1. Náist ekki að skipa kjördæmisráð á aðalfundi skal stjórn finna kjörgenga aðila til setu í kjördæmisráði. Kjósi meirihlutar stjórnar um það getur kosning kjördæmisráðs farið í gegnum rafrænt kosningarkerfi Pírata.
 
-7.5. Stefnu má ákveða með einföldum meirihluta í gegnum rafrænt kosningakerfi Pírata.
+7.2.2. Í kjördæmisráði skulu vera þrír einstaklingar sem starfa óháð stjórn. Aðilar í kjördæmisráði geta ekki átt samtímis sæti í stjórn kjördæmisfélagsins.
 
-7.6. Stefna skal alltaf rökstudd og hafa tilvísun í fyrri ákvarðanir félagsins eða Pírata. Stefna Pírata er sjálfkrafa stefna félagsins nema stefna félagsins tiltaki annað.
+7.2.3. Aðilar í kjördæmisráði geta ekki boðið sig fram í prófkjöri.
 
-7.7. Með samþykki 5% fundarmanna á almennum félagsfundi, en lágmark þriggja, skal vísa tillögu að stefnu til rafrænna kosninga.
+7.3. Kjördæmisráð skal alfarið sjá um prófkjör, prófkjörsreglur, undirbúning prófkjörs og framvindu þeirra, skal leggja prófkjörsreglur og framkvæmd prófkjörs fram að lágmarki fjórum vikum fyrir áætlað upphaf prófkjörs.
+Frambjóðendur, stjórn félagsins og stjórnir aðildarfélaga/félagsdeilda skulu veita kjördæmisráði gögn og upplýsingar sé þess óskað eftir því sem persónuverndarlög heimila.
+Óski kjördæmisráð eftir því, þá getur það óskað eftir aðstoð frá framkæmdaráði Pírata í samræmi við lög Pírata.
 
-7.8. Þegar mál ratar inn í rafrænt kosningakerfi Pírata skal vera settur 7 sólarhringa umræðutími og fer kosning fram um leið og honum lýkur. Kosning skal standa yfir í 7 sólarhringa.
+7.4. Atkvæðagreiðslur um frambjóðendur í prófkjöri, skulu fara fram í rafrænu kosningakerfi og skal atkvæðagreiðsla standa yfir í að minnsta kosti 7 sólarhringa.
 
-7.9. Sé þörf á skjótri ákvarðanatöku má leggja til, með samþykki stjórnar, hraðmeðferð á tillögu, en hún stendur þá yfir í sólarhring. Slíka ákvörðun þarf að staðfesta með hefðbundnum kosningum sem fara af stað samtímis. Skulu sérstök boð vera send til félagsmanna um að slík tillaga sé til kosningar.
+7.5. Atkvæðisrétt í prófkjöri hafa félagar sem uppfylla grein 3.2 og hafa verið skráðir í Pírata í 30 daga. Kjördæmisráð getur ákveðið að útvíkka kosningarétt í prófkjöri til alls skráðs félagsfólks Pírata náist ekki fyrirframskilgreind lágmarks kosningaþátttaka.
 
-7.10. Grunnstefna Pírata skal höfð að leiðarljósi í starfsemi félagsins og grunnstefnu þess. Stefna félagsins má aldrei ganga gegn grunnstefnu Pírata.
+7.6. Kjördæmisráð sendir tilkynningu til allra félaga sem hafa atkvæðisrétt við upphaf prófkjörs. Við framkvæmd prófkjörsins skal að öllu leyti fylgja landslögum og þeim prófkjörsreglum sem kjördæmisráð hefur sett áður en prófkjör var auglýst. Frambjóðendum skal tilkynna um hvort gögn úr prófkjöri verði birt áður en prófkjör hefst.
 
-**8. Framboð**
+7.7. Frambjóðandi hefur rétt, allt fram að þeim tíma sem framboðslisti er lagður fram til kjörstjórnar að óska eftir því skriflega til kjördæmisráðs að vera felldur út af listanum. Þeir frambjóðendur sem eru neðar á framboðslistanum, ef einhverjir, skulu færðir upp eftir sem því nemur.
 
-8.1. Félagsfundur getur óskað eftir frambjóðendum til þingkosninga í Suðvesturkjördæmi eða hrepps- eða bæjarstjórnarkosninga í sveitarfélagi þar sem ekkert annað virkt svæðisbundið aðildarfélag Pírata starfar. Stjórn félagsins auglýsir þá opinberlega eftir frambjóðendum til prófkjörs.
+7.8. Kjördæmisráð skal tilnefna tvo umboðsmenn fyrir framboðslista. Að prófkjöri loknu bera umboðsmenn ábyrgð á að skila framboðsgögnum til kjörstjórnar.
 
-8.2. Auglýsing eftir frambjóðendum skal send hið minnsta jafn víða og fundarboð félagsfundar. Félagsmenn í Pírötum, sem kjörgengir eru til Alþingis, eiga rétt á að bjóða sig fram á lista.
+7.9. Umboðsmenn skulu sjá til þess að framboðslistinn uppfylli öll þau skilyrði sem sett eru svo framboðið sé gilt í kjördæminu. Sé framboðslistanum hafnað af yfirvöldum og félaginu gefið færi á að skila inn leiðréttum framboðslista eða að öðru leyti bæta úr annmörkum, skal kjördæmisráð í samráði við umboðsmenn hafa heimild til slíks en ekki ganga lengra en nauðsyn krefur í því sambandi.
 
-8.3. Atkvæðagreiðslur um framboðslista skulu fara fram í rafrænu kosningakerfi Pírata sem standa skulu yfir í að minnsta kosti 7 sólarhringa en þó aldrei lengur en 10 sólarhringa. Með atkvæðarétt skal fara eftir grein 7.4 og skal þeim félögum er atkvæðarétt hafa tilkynnt að slík framboðslistakosning sé í gangi. Við framkvæmd kosninganna skal að öðru leyti fara eftir lögum Pírata um framboðslistakosningar.
+**8. Rekstur og fjármál**
 
-8.4. Á félagsfundi er heimilt að leggja fram tillögu um að kjósa skuli aftur um framboðslista samkvæmt grein 8.3. Sé sú tillaga samþykkt á þeim félagsfundi skal hún borin undir atkvæðagreiðslu í rafrænu kosningakerfi Pírata til samþykktar eða synjunar. Hljóti hún samþykki þar skal auglýst eftir framboðum samkvæmt grein 8.2 og framboðslistakosning endurtekin samkvæmt grein
+8.1. Hagnaður af starfsemi félagsins í lok starfstímabils skal fluttur óskertur til þess næsta.
 
-8.5. Á löglegum félagsfundi er heimilt að leggja fram tillögu um að draga framboðslista félagsins til baka. Sé sú tillaga samþykkt á þeim félagsfundi skal hún sett í atkvæðagreiðslu í rafrænu kosningakerfi Pírata til samþykktar eða synjunar. Sé hún samþykkt í rafrænu kosningakerfi Pírata skal framboðslisti félagsins dreginn tilbaka hafi hann verið lagður fram en ella skal honum ekki skilað inn. Það skal gjört án tafar en þó eigi fyrr en sólarhringur er liðinn frá því úrslitin voru opinberlega tilkynnt. Hafi ágreiningi um lögmæti ákvörðunarinnar verið tilkynntur stjórn félagsins með formlegum hætti innan sólarhrings frá því úrslitin voru tilkynnt skal bíða með þá framkvæmd þar til endanleg niðurstaða málsins liggur fyrir. Félagsfundur þar sem tillaga samkvæmt þessari grein er borin upp þarf að fara fram að minnsta kosti 21 sólarhring áður en auglýstur kjördagur hefst, fyrsti kjördagur ef þeir eru fleiri en einn. Hafi framboðslisti verið dreginn til baka samkvæmt þessari grein er þó heimilt að kjósa annan framboðslista samkvæmt lögum þessum.
+8.2. Samþykkja skal á aðalfundi félagsins fjárhagsáætlun fyrir næsta starfsár.
 
-8.6. Hafi ekki nógu margir frambjóðendur boðið sig fram á framboðslistann til að fylla þann lágmarksfjölda sem kveðið er á um í landslögum skal samt sem áður halda framboðslistakosninguna. Stjórn félagsins er þá heimilt að raða í neðstu sæti listans eftir að kosningin var haldin, upp að þeim lágmarksfjölda sæta sem landslög kveða á um. Notfæri hún sér þá heimild má hún eingöngu raða þeim sem hafa veitt henni skriflegt leyfi til þess ásamt því að uppfylla kjörskilyrði þau sem aðrir frambjóðendur á listann þurftu að uppfylla.
-
-8.7. Þegar framboðslistakosningu lýkur skal stjórn félagsins skila framboðslista félagsins inn til þeirra yfirvalda sem taka við framboðslista fyrir kosningar áður en framboðsfresti lýkur. Skal stjórn félagsins, eftir hennar bestu getu, sjá til þess að framboðslistinn uppfylli öll þau skilyrði sem sett eru svo framboðið sé gilt. Sé framboðslistanum hafnað af yfirvöldum og félaginu gefið færi á að skila inn leiðréttum framboðslista eða að öðru leyti bæta úr annmörkum, skal hún hafa heimild til þess en ekki ganga lengra en nauðsyn krefur í því sambandi. Til þess er stjórn félagsins heimilt að fella út frambjóðendur af listanum vegna skorts á kjörgengi, færa neðri frambjóðendur í efri sæti sem útfellingum nemur og bæta við frambjóðendum neðst á listann. Stjórn félagsins hefur eigi heimild til að endurraða frambjóðendum innbyrðis.
-
-8.8. Atkvæðagreiðslur samkvæmt þessum kafla skulu ætíð vera leynilegar. Fari þær fram á félagsfundi skulu þær vera skriflegar og að öðru leiti fara þær eftir tilhögun félagsfunda samkvæmt lögum þessum. Ákvarðanir samkvæmt þessum kafla má eingöngu taka þegar tilgreint er í fundarboði um að tiltekin tillaga liggi fyrir. Frá því að niðurstaða félagsfundar samkvæmt þessum kafla liggur fyrir skal tilkynna hana, þar sem þess er krafist, innan tveggja sólarhringa frá því fundi var slitið. Framboðslistakosningar sem félagsfundur ákveður á grundvelli þessa kafla skulu hefjast innan tveggja mánaða frá því að tilkynning barst.
-
-8.9. Ekki má halda atkvæðagreiðslu um auglýsingu eftir frambjóðendum til sömu kosninga oftar en einu sinni á sama félagsfundi ef öll formskilyrði atkvæðagreiðslunnar hafi verið uppfyllt. Sama gildir um tillögur um að kjósa aftur á framboðslista eða draga framboð tilbaka. Sé ágreiningur um lögmæti atkvæðagreiðslunnar tekur fundarstjóri ákvörðun um lögmæti hennar en niðurstöðunni má áfrýja samkvæmt 9. kafla. Sé atkvæðagreiðsla dæmd ólögmæt skal hún ógilduð sem og aðrar atkvæðagreiðslur sem niðurstaðan heimilaði.
-
-8.10. Frambjóðendur til lista skulu vera skráðir í Pírata þegar framboð þeirra er lagt fram, ellegar telst framboð þeirra ógilt. Þeir þurfa, áður en framboðslistakosning hefst, að minnsta kosti að skila þeim lágmarksupplýsingum um sig sem þarf til að skila inn framboði í þeim kosningum sem framboðslistinn er fyrir. Séu þeir staðsettir á starfssvæðinu þurfa þeir einnig að skila inn annarri pappírsvinnu áður en framboðslistakosning hefst innan Pírata, eins og undirritaðri yfirlýsingu, sem kjörstjórn krefst á grundvelli landslaga, ellegar þurfa þeir að skila þeim eins fljótt og auðið er. Hafi frambjóðandi ekki skilað inn framangreindum upplýsingum tveim vikum áður en skila á framboðslista er stjórn félagsins heimilt að fella hann út af honum. Þá mega þeir skila inn kynningu á sjálfum sér sem koma skal á framfæri til allra atkvæðisbærra aðila í félaginu áður en framboðslistakosning hefst.
-
-8.11. Frambjóðandi hefur rétt, allt fram að þeim tíma sem framboðslisti er lagður fram á grundvelli greinar 8.7, til þess að óska eftir að hann sjálfur verði felldur út af listanum. Þeir frambjóðendur sem eru neðar á framboðslistanum en sá frambjóðandi, ef einhverjir, skulu færðir upp um eitt sæti.
-
-8.12. Leitast skal við að bjóða fram með sama listabókstaf og önnur félög pírata.
+8.3. Birta skal fyrir aðalfund, ársreikning og ársskýrslu stjórnar. Fundargerð aðalfundar skal birt 2 vikum eftir aðalfund. Fjárhagsupplýsingar félagsins skulu vera aðgengilegar öllum.
 
 **9. Ágreiningur**
 
-9.1. Ágreining um túlkun laga þessara og grunnstefnu Pírata má bera undir úrskurðarnefnd Pírata. Um starfshætti úrskurðarnefndar Pírata fer eftir hennar eigin reglum sem og lögum Pírata og grunnstefnu. Til hennar má einnig áfrýja ákvörðunum fundarstjóra og stjórnar félagsins er varðar formskilyrði.
+9.1. Úrskurðarnefnd Pírata sker úr um ágreining á túlkun þessa laga.
 
-9.2. Ágreiningi um formskilyrði atkvæðagreiðslu skal komið á framfæri innan þriggja sólarhringa frá því hún fór fram eða frá því niðurstaða hennar ætti að verið tilkynnt kvartanda, hvort sem kemur síðar. Hafi kvartandi ekki verið á fundinum þar sem niðurstaðan varð ljós skal miða við frá og með þeim tíma sem tilkynningin ætti að hafa borist til hans, bréfleiðis eða rafrænt, hafi niðurstaðan verið tilkynnt með þeim hætti.
+**10. Slit félagsins**
 
-**10. Innkoma og rekstraratriði**
+10.1. Á aðalfundi má bera upp tillögu um slit félagsins. Hún skal eingöngu afgreidd hafi hún verið tilkynnt í fundarboði. Samþykki ⅔ viðstaddra fundarmanna tillöguna skal félaginu slitið. Einnig er hægt að leggja fram tillögu um slit félagsins á félagsfundi sem lögð verður fram í kosningakerfi Pírata að undangengu samþykkir meirihluta félagsfólks á félagsfundi. Skal atkvæðagreðisla standa í 7 sólarhringu og ræður einfaldur meirihluti úrslitum.
 
-10.1. Félaginu er heimilt að safna og taka á móti styrkjum ásamt því að stunda sölu á vörum og þjónustu eftir því sem landslög leyfa.
+10.2. Félaginu skal slitið sé það ekki lengur starfhæft samkvæmt grein 6.1. í lögum þessum. Tilkynning um slitin skulu send til allra skráða aðila í félaginu.
 
-10.2. Rekstrarafgangur/hagnaður af starfsemi félagsins í lok starfstímabils skal fluttur óskertur til þess næsta.
-
-10.3. Stjórn félagsins skal, fyrir lok júnímánaðar hvert ár, skila Pírötum fundargerð aðalfundar, ársskýrslu og bókhaldsgögnum síðastliðins árs til framkvæmdaráðs Pírata.
-
-10.4. Skipti félagið starfsemi sinni frekar skal framkvæmdaráði Pírata gerð grein fyrir þeirri skiptingu að því leyti sem hún hefur áhrif á félagaskráningu.
-
-**11. Slit félagsins**
-
-11.1. Á félagsfundi skv. 6. kafla má bera upp tillögu um slit félagsins. Hún skal eingöngu afgreidd hafi hún verið tilkynnt í fundarboði. Samþykki aukinn meirihluti viðstaddra fundarmanna tillöguna skal kosið um hana í rafrænu kosningakerfi Pírata í 7 sólarhringa þar sem þarf aukinn meirihluta greiddra atkvæða til að slitin skoðist samþykkt.
-
-11.2. Á aðalfundi skal heimilt að bera upp tillögu um slit félagsins. Hún skal eingöngu afgreidd hafi hún verið tilkynnt í fundarboði. Samþykki aukinn meirihluti atkvæðabærra aðila tillöguna skoðast slitin samþykkt.
-
-11.3. Aðalfundur Pírata skal hafa heimild til þess að slíta félaginu.
-
-11.4. Félaginu skal slitið sé það ekki lengur starfhæft samkvæmt lögum þessum. Tilkynning um slitin skulu send til allra skráða aðila í félaginu ásamt Pírötum.
-
-11.5. Við slit félagsins skulu eignir þess, ef þeim er að dreifa, renna til Pírata.
+10.3. Við slit félagsins skulu eignir þess, sé þeim til að dreifa, renna til stjórnmálahreyfingarinnar Píratar.
