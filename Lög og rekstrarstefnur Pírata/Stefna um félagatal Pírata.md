@@ -54,13 +54,13 @@ Framkvæmdaráð Pírata og framkvæmdastjóri bera sameiginlega ábyrgð á end
 
 Allar breytingar sem kunna að verða gerðar á stefnunni taka gildi eftir að uppfærð útgáfa hefur verið birt á heimasíðu Pírata (www.piratar.is). 
 
-Stefna þessi var síðast endurskoðuð 25. febrúar 2020, sjá fundargerð > https://github.com/piratar/fundargerdir/blob/master/2020/Framkv%C3%A6mdar%C3%A1%C3%B0/2020.02.25.md
+Þessi persónuverndarstefna var uppfærð þann 1. ágúst 2019. 
 
 *Hafir þú spurningar eða athugasemdir sendu þá vinsamlegast tölvupóst á gdpr@piratar.is*
 
 Að öðru leyti vísast til Persónuverndarstefnu Pírata.
 
-
+Stefna þessi var samþykkt af framkvæmdaráði Pírata 25. febrúar 2020, sjá fundargerð > https://github.com/piratar/fundargerdir/blob/master/2020/Framkv%C3%A6mdar%C3%A1%C3%B0/2020.02.25.md
 
 
 
