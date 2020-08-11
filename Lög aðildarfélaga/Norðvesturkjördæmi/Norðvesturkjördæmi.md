@@ -30,9 +30,9 @@
 
 *4.1.* Stjórn félagsins annast almenna stjórnun og rekstur þess. Firmaritun er í höndum meirihluta stjórnar.
 
-*4.2* Kjósa skal með Schulze forgangskosningu á aðalfundi félagsins þrjá aðalmenn í stjórn og allt að þrjá til vara. Stjórnin skiptir með sér verkum. 
+*4.2* Kjósa skal með Schulze forgangskosningu á aðalfundi félagsins þrjá aðalmenn í stjórn og allt að þrjá til vara. Stjórnin skiptir með sér verkum, setur sér starfsreglur og siðareglur. 
 
-*4.3* Varamenn skulu eingöngu hafa atkvæðarétt í fjarveru aðalmanns. Varamenn taka sæti eftir röðun þeirra á lista við forföll aðalmanna.
+*4.3* Efstu fimm sætin á framboðslista fyrir alþingiskosninga geta ekki setið í stjórn félagsins meðan á framboði stendur.
 
 **5. Aðalfundur**
 
@@ -60,41 +60,47 @@ ræður úrslitum mála, nema um annað hlutfall sé kveðið í lögum þessum.
 
 *6.1.* Félagið telst starfhæft svo lengi sem ekki meira en 18 mánuðir hafa liðið frá því að síðasti aðalfundur þess var haldinn.
 
-*6.2.* Lögum félagsins má breyta á aðalfundi með meirihluta atkvæða félagsmanna sem sitja fundinn hvort sem er í sal eða í gegnum fjarfund.Tillaga að lagabreytingu á aðalfundi skal eigi afgreidd nema hún sé skýr, lögð fram skriflega í það minnsta 3 vikum fyrir fundinn og hafi borist með fundarboði. 
+*6.2.* Lögum félagsins má breyta á aðalfundi með meirihluta atkvæða félagsmanna sem sitja fundinn hvort sem er í sal eða í gegnum fjarfund.Tillaga að lagabreytingu á aðalfundi skal eigi afgreidd nema hún sé skýrt lög fram skriflega, í það minnsta 3 vikum fyrir fundinn og hafi borist með fundarboði.
 
-*6.3.* Lögum félagsins má einnig breyta með samþykki meirihluta greiddra atkvæða í rafrænni kosningu. Slík atkvæðagreiðsla skal standa í 7 sólarhringa. Boða skal til atkvæðagreiðslunnar með sannarlegum hætti að undangengnum félagsfundi. 
+*6.3.* Lögum félagsins má einnig breyta með samþykki meirihluta greiddra atkvæða í rafrænni kosningu. Slík atkvæðagreiðsla skal standa í 7 sólarhringa. Boða skal til atkvæðagreiðslunnar með sannanlegum hætti að undangengnu lagaþingi félagsins.
 
-*6.4.* Atkvæðarétt innan rafræns kosningakerfis hafa þeir meðlimir aðildarfélaga með aðild að PíNK sem jafnframt hafa verið félagar í Pírötum í að minnsta kosti 30 daga samfellt. 
+*6.4.* Lagaþing félagsins þarf að vera boðað með minsta viku fyrirvara og breytingartillögur samþykktar af meirihluta fundarmanna, áður en lagabreyting er send í rafræna kosningu.
 
-*6.5.* Stefnumál Pírata í Norðvesturkjördæmi skal ákveða með meirihluta í gegnum rafrænt kosningakerfi. 
+*6.5.* Atkvæðarétt innan rafræns kosningakerfis hafa þeir meðlimir aðildarfélaga með aðild að PíNK sem jafnframt hafa verið félagar í Pírötum í að minnsta kosti 30 daga samfellt.
 
-*6.5.* Hver tillaga að stefnumáli félagsins skal innihalda greinargerð með rökstuðningi, ásamt því að hafa beina stoð í áður samþykktri stefnu Pírata. 
+*6.6.* Stefnumál Pírata í Norðvesturkjördæmi skal ákveða með meirihluta í gegnum rafrænt kosningakerfi.
 
-*6.6.* Píratar í Norðvesturkjördæmi geta samþykkt að stefnumál gangi framar öðrum stefnum Pírata. Stefna félagsins má þó aldrei ganga gegn grunnstefnu Pírata. 
+*6.7.* Píratar í Norðvesturkjördæmi geta samþykkt að stefnumál gangi framar öðrum stefnum Pírata. Stefna félagsins má þó aldrei ganga gegn grunnstefnu Pírata.
 
-*6.7.* Þegar stefnumál fara til afgreiðslu í rafrænt kosningakerfi félagsins skal vera settur 7 sólarhringa umræðutími og fer atkvæðagreiðsla fram um leið og honum lýkur. Atkvæðagreiðsla skal standa yfir í 7 sólarhringa.
+*6.8.* Þegar stefnumál fara til afgreiðslu í rafrænt kosningakerfi félagsins skal vera settur 7 sólarhringa umræðutími og fer atkvæðagreiðsla fram um leið og honum lýkur. Atkvæðagreiðsla skal standa yfir í 7 sólarhringa.
 
-*6.8.* Sé þörf á skjótri ákvarðanatöku um stefnur félagsins má leggja til, með samþykki stjórnar, hraðkosningu á tillögu, en hún stendur þá yfir í sólarhring. Slíka ákvörðun þarf að staðfesta með hefðbundinni rafrænni kosningu sem fara af stað samtímis. Skulu sérstök boð vera send til félagsmanna um að slík tillaga sé til kosningar. Sé niðurstaða kosningar á þá leið að fyrri ákvörðun sé felld, skal sú niðurstaða gilda, sé ákvörðunin afturkræf. Með tillögunni þarf að fylgja rökstuðningur fyrir hraðmeðferð. 
+*6.9.* Sé þörf á skjótri ákvarðanatöku um stefnur félagsins má leggja til, með samþykki stjórnar, hraðkosningu á tillögu, en hún stendur þá yfir í sólarhring. Slíka ákvörðun þarf að staðfesta með hefðbundinni rafrænni kosningu sem fara af stað samtímis. Skulu sérstök boð vera send til félagsmanna um að slík tillaga sé til kosningar. Sé niðurstaða kosningar á þá leið að fyrri ákvörðun sé felld, skal sú niðurstaða gilda, sé ákvörðunin afturkræf. Með tillögunni þarf að fylgja rökstuðningur fyrir hraðmeðferð.
  
 **7. Framboð til alþingiskosninga, kjördæmisráð, prófkjör og umboðsmenn**
 
-*7.1.* Allir félagar í Pírötum sem kjörgengir eru í Norðvesturkjördæmi við Alþingiskosningarnar eiga rétt á að bjóða sig fram í prófkjörinu. 
+*7.1.* Allir félagar í Pírötum sem kjörgengir eru í Norðvesturkjördæmi við Alþingiskosningarnar eiga rétt á að bjóða sig fram í prófkjörinu.
 
-*7.2.* Kjósa skal kjördæmisráð í gegnum rafrænt kosningarkerfi Pírata. Í kjördæmisráði skulu vera 3 einstaklingar sem starfa óháð stjórn. Bæði er hægt að bjóða sig fram og einnig tilnefna.
+*7.2.* Kjósa skal kosninganefnd í gegnum rafrænt kosningarkerfi Pírata. Í kosninganefnd skulu vera 3-6 einstaklingar sem starfa óháð stjórn, þó getur nefndin hafið störf með minnst einum nefndar manni. Bæði er hægt að bjóða sig fram og einnig tilnefna.
 
-*7.3.* Kjördæmisráð skal alfarið sjá um prófkjör, prófkjörsreglur, undirbúning prófkjara og framvindu þeirra, í það minnsta 4 vikum fyrir upphaf prófkjörs. Frambjóðendum, stjórn félagsins og stjórnir aðildarfélaga skulu veita kjördæmisráði gögn og upplýsingar sé þess óskað. 
+*7.3.* Meðlimir kosningarnefndar geta ekki boðið sig fram í prófkjöri til alþingiskosninga.
 
-*7.4.* Atkvæðagreiðslur um frambjóðendur í prófkjöri, skulu fara fram í rafrænu kosningakerfi og skal atkvæðagreiðsla standa yfir í að minnsta kosti 7 sólarhringa. 
+*7.4.* Kosninganefnd skal alfarið sjá um prófkjör, prófkjörsreglur, undirbúning prófkjara og framvindu þeirra, í það minnsta 4 vikum fyrir upphaf prófkjörs og undirbúnings kosninga í samvinnu við frambjóðendur, stjórn, stafsfólk Pírata og grasrótar. Frambjóðendum, stjórn félagsins og stjórnir aðildarfélaga skulu veita kosninganefnd gögn og upplýsingar sé þess óskað.
 
-*7.5.* Atkvæðisrétt í prófkjöri hafa félagar sem uppfylla grein 3.2 og hafa verið skráðir í Pírata í 30 daga. 
+*7.5.* Atkvæðagreiðslur um frambjóðendur í prófkjöri, skulu fara fram í rafrænu kosningakerfi og skal atkvæðagreiðsla standa yfir í að minnsta kosti 7 sólarhringa.
 
-*7.6.* Kjördæmisráð sendir tilkynningu til allra félaga sem hafa atkvæðisrétt til að minna á að prófkjör sé í gangi. Við framkvæmd prófkjörsins skal að öllu leyti fylgja landslögum og þeim prófkjörsreglum sem kjördæmisráð hefur sett áður en prófkjör var auglýst. 
+*7.6.* Atkvæðisrétt í prófkjöri hafa félagar sem uppfylla grein 3.2 og hafa verið skráðir í Pírata í 30 daga. Nema að ekki uppfyllist lámarks fjöldi atkvæða í prófkjörskosningum.
 
-*7.7.* Frambjóðandi hefur rétt, allt fram að þeim tíma sem framboðslisti er lagður fram til kjörstjórnar að óska eftir því skriflega til kjördæmisráðs að hann sjálfur verði felldur út af listanum. Þeir frambjóðendur sem eru neðar á framboðslistanum, ef einhverjir, skulu færðir upp eftir sem því nemur. 
+*7.7.* Lámarksfjöldi atkvæða í prófkjöri skulu vera í það minnstakosti 100 atkvæði til að kosning um framboðslista teljist gild. Ef atkvæði eru undir lámarki þá framlengist prófkjörið sjálfkrafa um viku og opnast atkvæðisréttur til allra Pírata sem atkvæðisrétt hafa.
 
-*7.8.* Kjördæmisráð skal tilnefna tvo umboðsmenn fyrir framboðslista. Að prófkjöri loknu bera umboðsmenn ábyrgð á að skila framboðsgögnum til kjörstjórnar. 
+*7.8.* Kosninganefnd sendir tilkynningu til allra félaga sem hafa atkvæðisrétt til að minna á að prófkjör sé í gangi. Við framkvæmd prófkjörsins skal að öllu leyti fylgja landslögum og þeim prófkjörsreglum sem kosninganefnd hefur sett áður en prófkjör var auglýst.
 
-*7.9.* Umboðsmenn skulu sjá til þess að framboðslistinn uppfylli öll þau skilyrði sem sett eru svo framboðið sé gilt í kjördæminu. Sé framboðslistanum hafnað af yfirvöldum og félaginu gefið færi á að skila inn leiðréttum framboðslista eða að öðru leyti bæta úr annmörkum, skal kjördæmisráð í samráði við umboðsmenn hafa heimild til slíks en ekki ganga lengra en nauðsyn krefur í því sambandi. 
+*7.9.* Frambjóðandi hefur rétt, allt fram að þeim tíma sem framboðslisti er lagður fram til kjörstjórnar að óska eftir því skriflega til kosninganefndar að hann sjálfur verði felldur út af listanum. Þeir frambjóðendur sem eru neðar á framboðslistanum, ef einhverjir, skulu færðir upp eftir sem því nemur.
+
+*7.10.* Kosninganefnd skal tilnefna tvo umboðsmenn fyrir framboðslista. Að prófkjöri loknu bera umboðsmenn ábyrgð á að skila framboðsgögnum til kjörstjórnar.
+
+*7.11.* Umboðsmenn skulu sjá til þess að framboðslistinn uppfylli öll þau skilyrði sem sett eru svo framboðið sé gilt í kjördæminu. Sé framboðslistanum hafnað af yfirvöldum og félaginu gefið færi á að skila inn leiðréttum framboðslista eða að öðru leyti bæta úr annmörkum, skal kosninganefnd í samráði við umboðsmenn hafa heimild til slíks en ekki ganga lengra en nauðsyn krefur í því sambandi.
+
+*7.12.* Kosninganefnd skal halda utanum öll gögn hvað varða starf kosninganefndar og skila þeim af sér eigi síður en tveimur vikum eftir kosningar. Nefndin leysist sjálfkrafa upp eftir að skýrslu hefur verið skilað af sér.
  
 **8. Rekstur og fjármál**
 
@@ -103,6 +109,8 @@ ræður úrslitum mála, nema um annað hlutfall sé kveðið í lögum þessum.
 *8.2.* Samþykkja skal á aðalfundi félagsins fjárhagsáætlun fyrir næsta starfsár.
 
 *8.3.* Birta skal fyrir aðalfund, ársreikning og ársskýrslu stjórnar. Fundargerð aðalfundar skal birt 2 vikum eftir aðalfund. Fjárhagsupplýsingar félagsins skulu aðgengilegar öllum. 
+
+*8.4* Stjórnin óskar eftir að kosninganefndir afhendir skýrslur og önnur gögn frá alþingiskosningu sem og sveitastjórnarkosningum í það minnsta tveimur vikum eftir kosningu líkur til varðveislu og uppslýsingaöflun.
 
 
 **9. Ágreiningur**
