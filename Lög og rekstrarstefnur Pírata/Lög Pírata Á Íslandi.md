@@ -92,12 +92,12 @@ eftir köflum:
 
 4.13. Frambjóðendur í embætti skulu skila inn hagsmunaskráningu til kjörstjórnar, einni viku fyrir aðalfund.
 
-4.15. Hagsmunaskráningar eru birtar á vefsíðu félagsins.
+4.14. Hagsmunaskráningar eru birtar á vefsíðu félagsins.
 
-4.16. Nánari reglur um hagsmunaskráningu skulu útfærðar af framkvæmdastjórn og háðar samþykki samkvæmt kosningu í rafrænu kosningakerfi Pírata, er skal standa í sjö sólarhringa. Sé engum slíkum reglum að dreifa er hagsmunaskráning yfirlýsing viðkomandi þar sem hann lýsir helstu hagsmunum sínum þá stundina.
+4.15. Nánari reglur um hagsmunaskráningu skulu útfærðar af framkvæmdastjórn og háðar samþykki samkvæmt kosningu í rafrænu kosningakerfi Pírata, er skal standa í sjö sólarhringa. Sé engum slíkum reglum að dreifa er hagsmunaskráning yfirlýsing viðkomandi þar sem hann lýsir helstu hagsmunum sínum þá stundina.
 
 
-4.17. Annað hvert ár skal á aðalfundi kjósa þriggja manna kjörstjórn er tekur til starfa að loknum aðalfundi og þar til næsta kjörstjórn tekur við. Fulltrúinn sem hlýtur besta kosningu skal vera formaður nema kjörstjórn ákveði annað. Aðilar í kjörstjórn skulu ekki gegna öðrum trúnaðarstöðum á vegum félagsins eða aðildarfélaga á meðan setu þeirra stendur. Kjörstjórn ber ábyrgð á framkvæmd kosningar í stjórnir, nefndir og ráð sem kveðið er á um í 7. kafla laga þessara, ásamt öðrum hlutverkum sem henni er falið með lögum. Ákvarðanir hennar skulu teknar með óháðum og óhlutdrægum hætti.
+4.16. Annað hvert ár skal á aðalfundi kjósa þriggja manna kjörstjórn er tekur til starfa að loknum aðalfundi og þar til næsta kjörstjórn tekur við. Fulltrúinn sem hlýtur besta kosningu skal vera formaður nema kjörstjórn ákveði annað. Aðilar í kjörstjórn skulu ekki gegna öðrum trúnaðarstöðum á vegum félagsins eða aðildarfélaga á meðan setu þeirra stendur. Kjörstjórn ber ábyrgð á framkvæmd kosningar í stjórnir, nefndir og ráð sem kveðið er á um í 7. kafla laga þessara, ásamt öðrum hlutverkum sem henni er falið með lögum. Ákvarðanir hennar skulu teknar með óháðum og óhlutdrægum hætti.
 
 
 ## 5. Fundahald (félagsfundir)
