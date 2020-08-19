@@ -22,9 +22,8 @@ eftir köflum:
 12. Fjármál
 13. Þátttaka í kosningum
 14. Störf þingflokks og annarra kjörinna fulltrúa
-15. Framfarafundur
-16. Félagsslit
-[síðast uppfært]
+15. Félagsslit
+
 
 ## 1. Heiti
 
@@ -158,46 +157,47 @@ eftir köflum:
 
 7.1. Framkvæmdastjórn annast almenna stjórn og rekstur félagsins að svo miklu leyti sem hún er ekki í höndum aðildarfélaga. 
 
-7.1.1 Í framkvæmdastjórn sitja þrír einstaklingar sem kosnir eru beinni kosningu á aðalfundi. Kjörtímabil þeirra er tvö ár. Sá meðlimur framkvæmdastjórnar sem hlýtur besta kosningu skal stýra störfum hennar nema viðkomandi biðjist undan. 
+7.1.1. Í framkvæmdastjórn sitja þrír einstaklingar sem kosnir eru beinni kosningu á aðalfundi. Kjörtímabil þeirra er tvö ár. Sá meðlimur framkvæmdastjórnar sem hlýtur besta kosningu skal stýra störfum hennar nema viðkomandi biðjist undan. 
 
 Framkvæmdastjórn velur sjálf einnig gjaldkera og ritara.
 
-7.1.2 Þau eru kjörgeng til framkvæmdastjórnar sem setið hafa að lágmarki eitt kjörtímabil í skilgreindri trúnaðarstöðu á vegum félagsins eða aðildarfélaga.
+7.1.2. Þau eru kjörgeng til framkvæmdastjórnar sem setið hafa að lágmarki eitt kjörtímabil í skilgreindri trúnaðarstöðu á vegum félagsins eða aðildarfélaga.
 
-7.1.3 Framkvæmdastjórn setur stefnu um rekstur félagsins.
+7.1.3. Framkvæmdastjórn setur stefnu um rekstur félagsins.
 
 **Stefnu- og málefnanefnd**
 
-7.2 Stefnu- og málefnanefnd skal vera félagsfólki, kjörnum fulltrúum og nefndum, stjórnum, ráðum og aðildarfélögum Pírata til aðstoðar varðandi stefnumótun og málefnastarf innan flokksins. Þá getur hún haft frumkvæði að viðbrögðum við stóratburðum í samfélaginu, t.d. með skipulagningu viðburða og funda. 
+7.2. Stefnu- og málefnanefnd skal vera félagsfólki, kjörnum fulltrúum og nefndum, stjórnum, ráðum og aðildarfélögum Pírata til aðstoðar varðandi stefnumótun og málefnastarf innan flokksins. Þá getur hún haft frumkvæði að viðbrögðum við stóratburðum í samfélaginu, t.d. með skipulagningu viðburða og funda. 
 
-7.2.1 Í stefnu- og málefnanefnd sitja fimm einstaklingar sem kosin eru beinni kosningu á aðalfundi. Kjörtímabil þeirra er eitt ár. Sá meðlimur nefndarinnar sem hlýtur besta kosningu skal stýra störfum hennar nema viðkomandi biðjist undan.
+7.2.1. Í stefnu- og málefnanefnd sitja fimm einstaklingar sem kosin eru beinni kosningu á aðalfundi. Kjörtímabil þeirra er eitt ár. Sá meðlimur nefndarinnar sem hlýtur besta kosningu skal stýra störfum hennar nema viðkomandi biðjist undan.
 
-7.2.2 Stefnu- og málefnanefnd skipuleggur Pírataþing, sem haldin skulu tvisvar á ári. 
+7.2.2. Stefnu- og málefnanefnd skipuleggur Pírataþing, sem haldin skulu tvisvar á ári. 
 
-7.2.3 Í aðdraganda kosninga starfar stefnu- og málefnanefnd með frambjóðendum við undirbúning kosninga.
+7.2.3. Í aðdraganda kosninga starfar stefnu- og málefnanefnd með frambjóðendum við undirbúning kosninga.
 
-7.2.4 Í aðdraganda alþingiskosninga skal stefnu- og málefnanefnd útbúa kosningastefnuskrá sem byggir á samþykktri stefnu flokksins að höfðu samráði við frambjóðendur. Kosningastefnuskrá skal samþykkt með atkvæðagreiðslu í rafrænu kosningakerfi flokksins.
+7.2.4. Í aðdraganda alþingiskosninga skal stefnu- og málefnanefnd útbúa kosningastefnuskrá sem byggir á samþykktri stefnu flokksins að höfðu samráði við frambjóðendur. Kosningastefnuskrá skal samþykkt með atkvæðagreiðslu í rafrænu kosningakerfi flokksins.
 
-7.2.5 Í aðdraganda sveitarstjórnarkosninga aðstoðar stefnu- og málefnanefnd aðildarfélög sem taka þátt í kosningum eftir þörfum.
+7.2.5. Í aðdraganda sveitarstjórnarkosninga aðstoðar stefnu- og málefnanefnd aðildarfélög sem taka þátt í kosningum eftir þörfum.
 
 **Fjármálaráð**
 
-7.3 Fjármálaráð tryggir gegnsæi, valddreifingu og vönduð bókhaldsvinnubrögð í fjármálum. Ber það ábyrgð á gerð fjárhagsáætlunar Pírata.
+7.3. Fjármálaráð tryggir gegnsæi, valddreifingu og vönduð bókhaldsvinnubrögð í fjármálum. Ber það ábyrgð á gerð fjárhagsáætlunar Pírata.
 
-7.3.1 Í fjármálaráði sitja þrír einstaklingar sem kosin eru beinni kosningu á aðalfundi. Kjörtímabil þeirra er tvö ár. Sá meðlimur fjármálaráðs sem hlýtur besta kosningu skal stýra störfum þess nema viðkomandi biðjist undan.
+7.3.1. Í fjármálaráði sitja þrír einstaklingar sem kosin eru beinni kosningu á aðalfundi. Kjörtímabil þeirra er tvö ár. Sá meðlimur fjármálaráðs sem hlýtur besta kosningu skal stýra störfum þess nema viðkomandi biðjist undan.
 
-7.3.2 Fjármálaráð skal setja verklagsreglur um fjármálaumsjón félagsins og stofnana þess. Í reglunum sé að lágmarki kveðið á um:
-að tvöföld undirritun sé á reikningum, 
-að haldið sé vel um kvittanir og önnur bókhaldsgögn, 
-að bókhaldi sé skilað til framkvæmdastjórnar a.m.k. ársfjórðungslega, 
-að lögum félagsins um opið bókhald sé framfylgt og; 
-fjárveitingar til svæðisbundinna aðildarfélaga samkvæmt skilgreindri reikniaðferð í 11. kafla laganna.
+7.3.2. Fjármálaráð skal setja verklagsreglur um fjármálaumsjón félagsins og stofnana þess. Í reglunum sé að lágmarki kveðið á um:
 
-7.3.3 Fjármálaráð hefur umsjón með eftirfylgni við verklagsreglur um fjármálaumsjón félagsins.
+* að tvöföld undirritun sé á reikningum, 
+* að haldið sé vel um kvittanir og önnur bókhaldsgögn, 
+* að bókhaldi sé skilað til framkvæmdastjórnar a.m.k. ársfjórðungslega, 
+* að lögum félagsins um opið bókhald sé framfylgt og; 
+* fjárveitingar til svæðisbundinna aðildarfélaga samkvæmt skilgreindri reikniaðferð í 11. kafla laganna.
+
+7.3.3. Fjármálaráð hefur umsjón með eftirfylgni við verklagsreglur um fjármálaumsjón félagsins.
 
 **Samráðsvettvangur**
 
-7.4 Samráðsfundir skulu haldnir á þriggja mánaða fresti. Eftirfarandi skulu eiga að lágmarki eitt sæti á samráðsfundi:
+7.4. Samráðsfundir skulu haldnir á þriggja mánaða fresti. Eftirfarandi skulu eiga að lágmarki eitt sæti á samráðsfundi:
 
 * Framkvæmdastjórn
 * Stefnu- og málefnanefnd
@@ -207,38 +207,38 @@ fjárveitingar til svæðisbundinna aðildarfélaga samkvæmt skilgreindri reikn
 * Þingflokkur
 * Fulltrúar úr hverri sveitarstjórn þar sem Píratar eiga fulltrúa
 
-7.4.1 Framkvæmdastjóri sér til þess að samráðsfundir skuli haldnir og skal sitja þá.
+7.4.1. Framkvæmdastjóri sér til þess að samráðsfundir skuli haldnir og skal sitja þá.
 
-7.4.2 Samráðsfundir skulu setja sér reglur um fundarsköp og ritun fundargerða.
+7.4.2. Samráðsfundir skulu setja sér reglur um fundarsköp og ritun fundargerða.
 
 **Önnur ákvæði**
 
-7.5 Framkvæmdastjórn skal ráða framkvæmdastjóra til að annast daglegan rekstur Pírata. Framkvæmdastjóri ræður annað starfsfólk Pírata. Um störf framkvæmdastjóra og annars 
+7.5. Framkvæmdastjórn skal ráða framkvæmdastjóra til að annast daglegan rekstur Pírata. Framkvæmdastjóri ræður annað starfsfólk Pírata. Um störf framkvæmdastjóra og annars 
 starfsfólks fer nánar samkvæmt 9. kafla. 
 
-7.6 Framkvæmdastjórn og fjármálaráð skulu viðhafa reglubundið samráð við framkvæmdastjóra hvað varðar fjármál og rekstur félagsins.
+7.6. Framkvæmdastjórn og fjármálaráð skulu viðhafa reglubundið samráð við framkvæmdastjóra hvað varðar fjármál og rekstur félagsins.
 
-7.7 Framkvæmdastjórn, stefnu- og málefnanefnd og fjármálaráði er heimilt að skipa nefndir, starfshópa og málefnahópa. Skal viðkomandi ráð setja þeim hópum og nefndum sem það skipar reglur.
+7.7. Framkvæmdastjórn, stefnu- og málefnanefnd og fjármálaráði er heimilt að skipa nefndir, starfshópa og málefnahópa. Skal viðkomandi ráð setja þeim hópum og nefndum sem það skipar reglur.
 
-7.7.1 Nefndir, starfshópar eða málefnahópar skulu hafa ábyrgðaraðila og skila reglubundinni skýrslu ef um varanlega nefnd, starfshóp eða málefnahóp er að ræða, en við lok starfsins ef um tímabundna nefnd, starfshóp eða málefnahóp er að ræða.
+7.7.1. Nefndir, starfshópar eða málefnahópar skulu hafa ábyrgðaraðila og skila reglubundinni skýrslu ef um varanlega nefnd, starfshóp eða málefnahóp er að ræða, en við lok starfsins ef um tímabundna nefnd, starfshóp eða málefnahóp er að ræða.
 
-7.7.2 Gera skal grein fyrir störfum slíkra nefnda, starfshópa og/eða málefnahópa í ársskýrslu félagsins sbr. grein 4.8.
+7.7.2. Gera skal grein fyrir störfum slíkra nefnda, starfshópa og/eða málefnahópa í ársskýrslu félagsins sbr. grein 4.8.
 
 **Kjör í stjórnir, nefndir og ráð**
 
-7.8 Kosningar í framkvæmdastjórn, stefnu- og málefnanefnd og fjármálaráð skulu skila raðaðri niðurstöðu. Að öðru leyti fer um kjörið samkvæmt 4. kafla um aðalfund.
+7.8. Kosningar í framkvæmdastjórn, stefnu- og málefnanefnd og fjármálaráð skulu skila raðaðri niðurstöðu. Að öðru leyti fer um kjörið samkvæmt 4. kafla um aðalfund.
 
-7.8.1 Þeir einir eru kjörgengir til stjórna, nefnda og ráða Pírata sem hafa verið í félaginu í að lágmarki 30 daga áður en kosning hefst. Óheimilt er að sitja lengur en tvö kjörtímabil samfleytt í sömu stjórn eða ráði. 
+7.8.1. Þeir einir eru kjörgengir til stjórna, nefnda og ráða Pírata sem hafa verið í félaginu í að lágmarki 30 daga áður en kosning hefst. Óheimilt er að sitja lengur en tvö kjörtímabil samfleytt í sömu stjórn eða ráði. 
 
-7.8.2 Heimilt er að sitja í fleiri en einni nefnd, stjórn eða ráði.
+7.8.2. Heimilt er að sitja í fleiri en einni nefnd, stjórn eða ráði.
 
 **Almenn ákvæði um stjórnir, nefndir og ráð**
 
-7.9 Halda skal fundargerðir fyrir fundi stjórna, nefnda og ráða og skulu þær birtar innan mánaðar frá fundi.
+7.9. Halda skal fundargerðir fyrir fundi stjórna, nefnda og ráða og skulu þær birtar innan mánaðar frá fundi.
 
 7.10. Fundir stjórna og ráða skulu að jafnaði vera opnir öllum. Þó er heimilt að loka fundi eða hluta úr fundi þegar ræða á trúnaðarmál. Meirihluta ráðsfólks/stjórnarmeðlima sem sitja fundinn þarf til þess að ákveða að loka fundum.
 
-7.11 Heimild til að rita firma félagsins hefur fulltrúi framkvæmdastjórnar og framkvæmdastjóri.
+7.11. Heimild til að rita firma félagsins hefur fulltrúi framkvæmdastjórnar og framkvæmdastjóri.
 
 
 ## 8. Úrskurðarnefnd
@@ -289,31 +289,31 @@ starfsfólks fer nánar samkvæmt 9. kafla.
 
 ## 10. Umboðsmenn Pírata
 
-10.1 Píratar geta á almennum félagsfundum og Aðalfundi skipað umboðsmenn, einn eða fleiri, til að sinna ákveðnum, vel skilgreindum og tímabundnum verkefnum í umboði flokksins.
+10.1. Píratar geta á almennum félagsfundum og Aðalfundi skipað umboðsmenn, einn eða fleiri, til að sinna ákveðnum, vel skilgreindum og tímabundnum verkefnum í umboði flokksins.
 
-10.2 Verkefni umboðsmanna, skyldur þeirra til skýrslugjafar og tímamörk verkefnisins skal skilgreint í erindisbréfi sem lagt er fram á Aðalfundi flokksins eða almennum félagsfundi. Tímamörk verkefnis skal samsvara gildistima erindisbréfs.
+10.2. Verkefni umboðsmanna, skyldur þeirra til skýrslugjafar og tímamörk verkefnisins skal skilgreint í erindisbréfi sem lagt er fram á Aðalfundi flokksins eða almennum félagsfundi. Tímamörk verkefnis skal samsvara gildistima erindisbréfs.
 
-10.3 Tímabinding skipunar skal vera eins þröng og kostur er og aldrei lengra en eitt ár. Hægt er að endurnýja erindisbréf þegar mest einn mánuður er eftir af gildistima fyrra erindisbréfs. Endurnýjun fer fram eins og um nýtt erindisbréf væri að ræða.
+10.3. Tímabinding skipunar skal vera eins þröng og kostur er og aldrei lengra en eitt ár. Hægt er að endurnýja erindisbréf þegar mest einn mánuður er eftir af gildistima fyrra erindisbréfs. Endurnýjun fer fram eins og um nýtt erindisbréf væri að ræða.
 
-10.4 Framkvæmdastjóri skal setja erindisbréf í rafrænt atkvæðagreiðslukerfi Pírata innan sólarhrings frá samþykkt félagsfundar eða Aðalfundar.
+10.4. Framkvæmdastjóri skal setja erindisbréf í rafrænt atkvæðagreiðslukerfi Pírata innan sólarhrings frá samþykkt félagsfundar eða Aðalfundar.
 
-10.5 Erindisbréf öðlast gildi þegar það hefur verið staðfest á þrennan hátt. Fyrst með einföldum meirihluta í atkvæðagreiðslu meðal allra Pírata í rafrænu atkvæðagreiðslukerfi flokksins og svo af einföldum meirihluta aðalmanna í framkvæmdastjórn og einföldum meirihluta þingflokks Pírata þegar slíkum flokki er til að dreifa.
+10.5. Erindisbréf öðlast gildi þegar það hefur verið staðfest á þrennan hátt. Fyrst með einföldum meirihluta í atkvæðagreiðslu meðal allra Pírata í rafrænu atkvæðagreiðslukerfi flokksins og svo af einföldum meirihluta aðalmanna í framkvæmdastjórn og einföldum meirihluta þingflokks Pírata þegar slíkum flokki er til að dreifa.
 
-10.6 Framkvæmdastjórn og þingflokkur skulu greiða atkvæði um afdrif erindisbréfs innan 7 daga frá samþykkt erindisbréfs í rafrænni atkvæðagreiðslu. Láti framkvæmdastjórneða þingflokkur undir höfuð leggjast að greiða atkvæði um erindisbréf innan 7 daga frá samþykkt í rafrænni atkvæðagreiðslu skal það tákna samþykkt erindisbréfsins af þeirra hálfu.
+10.6. Framkvæmdastjórn og þingflokkur skulu greiða atkvæði um afdrif erindisbréfs innan 7 daga frá samþykkt erindisbréfs í rafrænni atkvæðagreiðslu. Láti framkvæmdastjórneða þingflokkur undir höfuð leggjast að greiða atkvæði um erindisbréf innan 7 daga frá samþykkt í rafrænni atkvæðagreiðslu skal það tákna samþykkt erindisbréfsins af þeirra hálfu.
 
-10.7 Erindisbréf skal vera til umræðu í atkvæðagreiðslukerfi Pírata í sjö daga og atkvæðagreiðsla skal standa aðra sjö daga.
+10.7. Erindisbréf skal vera til umræðu í atkvæðagreiðslukerfi Pírata í sjö daga og atkvæðagreiðsla skal standa aðra sjö daga.
 
-10.8 Fjöldi umboðsmanna verkefnis skal vera oddatala og skal hver umboðsmaður velja sér sinn varamann.
+10.8. Fjöldi umboðsmanna verkefnis skal vera oddatala og skal hver umboðsmaður velja sér sinn varamann.
 
-10.9 Umboðsmenn þurfa ekki að vera Píratar en geta verið sérfræðingar á því sviði sem verkefnið krefst eða eftir atvikum aðrir þeir sem sinnt geta verkinu.
+10.9. Umboðsmenn þurfa ekki að vera Píratar en geta verið sérfræðingar á því sviði sem verkefnið krefst eða eftir atvikum aðrir þeir sem sinnt geta verkinu.
 
-10.10 Séu umboðsmenn verkefnis fleiri en einn skal þeirra fyrsta verk vera að skipta með sér verkum og kjósa sér fyrsta umboðsmann og einnig annan umboðsmann ef umboðsmenn eru fleiri en einn, úr sínum hópi.
+10.10. Séu umboðsmenn verkefnis fleiri en einn skal þeirra fyrsta verk vera að skipta með sér verkum og kjósa sér fyrsta umboðsmann og einnig annan umboðsmann ef umboðsmenn eru fleiri en einn, úr sínum hópi.
 
-10.11 Fyrsti umboðsmaður skal jafnan stýra fundum hópsins og sinna almennri verkstjórn hópsins en annar umboðsmaður skal rita fundi og taka við verkstjórn í forföllum fyrsta umboðsmanns.
+10.11. Fyrsti umboðsmaður skal jafnan stýra fundum hópsins og sinna almennri verkstjórn hópsins en annar umboðsmaður skal rita fundi og taka við verkstjórn í forföllum fyrsta umboðsmanns.
 
-10.12 Almennur félagsfundur eða Aðalfundur geta krafið umboðsmenn um skýrslu um stöðu verkefnis og skal henni skilað innan þriggja vikna frá þvi að hennar er krafist.
+10.12. Almennur félagsfundur eða Aðalfundur geta krafið umboðsmenn um skýrslu um stöðu verkefnis og skal henni skilað innan þriggja vikna frá þvi að hennar er krafist.
 
-10.13 Hægt er að afturkalla erindisbréf umboðsmanna fyrir þau tímamörk sem bréfið kveður á um með sama hætti og þau eru búin til, sbr. 1. gr. og öðlast afturköllun gildi með sama hætti og erindisbréf, sbr. 5. gr.
+10.13. Hægt er að afturkalla erindisbréf umboðsmanna fyrir þau tímamörk sem bréfið kveður á um með sama hætti og þau eru búin til, sbr. 1. gr. og öðlast afturköllun gildi með sama hætti og erindisbréf, sbr. 5. gr.
 
 
 ## 11. Aðildarfélög
