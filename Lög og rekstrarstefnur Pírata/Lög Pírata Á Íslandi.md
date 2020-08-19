@@ -169,7 +169,7 @@ Framkvæmdastjórn velur sjálf einnig gjaldkera og ritara.
 
 7.2. Stefnu- og málefnanefnd skal vera félagsfólki, kjörnum fulltrúum og nefndum, stjórnum, ráðum og aðildarfélögum Pírata til aðstoðar varðandi stefnumótun og málefnastarf innan flokksins. Þá getur hún haft frumkvæði að viðbrögðum við stóratburðum í samfélaginu, t.d. með skipulagningu viðburða og funda. 
 
-7.2.1. Í stefnu- og málefnanefnd sitja fimm einstaklingar sem kosin eru beinni kosningu á aðalfundi. Kjörtímabil þeirra er eitt ár. Sá meðlimur nefndarinnar sem hlýtur besta kosningu skal stýra störfum hennar nema viðkomandi biðjist undan.
+7.2.1. Í stefnu- og málefnanefnd sitja fimm einstaklingar sem kosin eru beinni kosningu á aðalfundi. Kjörtímabil þeirra er tvö ár. Sá meðlimur nefndarinnar sem hlýtur besta kosningu skal stýra störfum hennar nema viðkomandi biðjist undan.
 
 7.2.2. Stefnu- og málefnanefnd skipuleggur Pírataþing, sem haldin skulu tvisvar á ári. 
 
@@ -257,7 +257,7 @@ starfsfólks fer nánar samkvæmt 9. kafla.
 
 8.7. Úrskurður úrskurðarnefndar er bindandi.
 
-8.a. Trúnaðarráð
+## 8.a. Trúnaðarráð
 
 8.a.1. Framkvæmdastjórn tekur við tilnefningum og skipar þrjá einstaklinga í trúnaðarráð. Skipun ráðsins skal staðfest á gildum félagsfundi.
 
@@ -396,6 +396,11 @@ Sveitarstjórnarfulltrúar skulu starfa í þágu þess svæðisbundna aðildarf
 
 15.2. Við félagsslit skal ráðstafa eða skipta eignum félagsins í samræmi við tilgang þess og grunnstefnu.
 
+## Ákvæði til bráðabirgða – 2020
+
+Við samþykkt þessarar tillögu skal boða til auka-aðalfundar þar sem fram fari kjör í framkvæmdastjórn, stefnu- og málefnanefnd og fjármálaráð. Við fyrsta kjör skal velja í framkvæmdastjórn og fjármálaráð tvo fulltrúa til tveggja ára en einn til eins árs. Í stefnu- og málefnanefnd skal velja þrjá fulltrúa til tveggja ára og tvo til eins árs. 
+
+Skipan í framkvæmdaráð helst þangað til að kosning á auka-aðalfundi er yfirstaðin og verkefnum framkvæmdaráðs hefur verið réttilega komið til þeirra sem taka við þeim.
 
 Lög þessi eru byggð á samþykktum lögum Pírata í kosningakerfi Pírata. Ef um misræmi milli útgáfa af lögum er að ræða þá ræður textinn úr samþykktum lögum í kosningakerfinu: innra skipulag á x.piratar.is þó með fyrirvara um að númeraröð lagagreina hefur riðlast vegna viðbóta við lögin
 
