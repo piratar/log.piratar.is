@@ -1,6 +1,6 @@
  ## Lög Pírata í Norðvesturkjördæmi 
 
-(samþykkt á stofnfundi 29.2.2020)
+(samþykkt á stofnfundi 29.2.2020 - síðast uppfærð 04. sept 2020 skv. samþykktri lagabreytingatillögu: https://x.piratar.is/polity/298/issue/434/)
 
 (Beðið samþykktar framkvæmdaráðs Pírata)
 
@@ -20,11 +20,30 @@
 
 *2.4* Félagið skal eftir fremsta megni aðstoða aðildarfélög innan kjördæmisins við þátttöku í sveitastjórarkosningum óski þau eftir því. Félagið skal einnig eftir fremsta megni aðstoða við stofnun aðildarfélaga innan Norðvesturkjördæmis og/eða aðstoða einstaklinga við að bjóða fram undir merkjum Pírata til sveitarstjórnarkosninga, ef óþarfi er að stofna sérstakt aðildarfélag. . 
 
-**3. Aðild að félaginu**
 
-*3.1.* Aðild að félaginu eiga svæðisbundin aðildarfélög Pírata í Norðvesturkjördæmis eining getur stjórn samþykkt aðildarfélög sem ekki eru svæðisbundin.
+**3. Aðild að félaginu, aðildarfélög og félagsdeildir**
 
-*3.2.* Hver sem er 16 ára á árinu eða eldri og hefur lögheimili eða fasta búsetu á starfssvæði félagsins getur fengið fulla aðild að félaginu. Stjórn félagsins er einnig heimilt að samþykkja aðild einstaklinga á grundvelli annarra tengsla við svæðið.
+***3.1.* Aðild að félaginu**
+
+*3.1.1.* Aðild að félaginu eiga svæðisbundin aðildarfélög Pírata í Norðvesturkjördæmis einnig getur stjórn samþykkt aðildarfélög sem ekki eru svæðisbundin.
+
+*3.1.2.* Hver sem er 16 ára á árinu eða eldri og hefur lögheimili eða fasta búsetu á starfssvæði félagsins getur fengið fulla aðild að félaginu. Stjórn félagsins er einnig heimilt að samþykkja aðild einstaklinga á grundvelli annarra tengsla við svæðið.
+
+***3.2.* Stofnun félagsdeilda**
+
+*3.2.1.* Heimilt er að stofna svæðisbundnar félagsdeildir innan Pírata í Norðvesturkjördæmi. Félagsdeild skal stofnuð ef tvær félagsmanneskjur óska þess skriflega við stjórn Pírata í Norðvesturkjördæmi (Pínk).
+
+*3.2.2.* Félagsdeild hefur sjálfstæða stefnumótun. Stefna má ekki ganga gegn grunnstefnu Pírata eða lögum PíNK
+
+*3.2.3.* Fyrir hverri félagsdeild skal fara kjörin ábyrgðarmanneskja. Ábyrgðarmanneskja skal kjörin innan félagsdeildar til eins árs. Ef ábyrgðarmanneskjan er óvirk eða óínáanleg innan 4 vikna þá þarf að finna staðgengil.
+
+*3.2.4.* Félagsdeild sér sjálf um sveitarstjórnarkosningar innan síns sveitarfélags, nema óskað sé sérstaklega eftir aðstoð frá Pírötum í Norðvesturkjördæmi eða móðurfélagi Pírata.
+
+*3.2.5.* Að öðru leyti ákvarðar félagsdeild eigin lög. Félagsdeild er heimilt að halda aðskilda sjóði, einnig getur félagið fengið aðgengi að sérstökum reikning innan banka Pírata í Norðvesturkjördæmi, sem félagið þyrfti að standa skil á við gjaldkera Pínk.
+
+*3.2.6.* Félagsdeild skal lögð niður ef ekki fæst svar um virkni í meira en tólf vikur, eða þrír fjóðru félagmanna kjósi um það.
+
+*3.2.7.* Allar félagsdeildir geta orðið aðildarfélög óháð aðkomu Pínk.
 
 **4. Stjórn félagsins**
 
