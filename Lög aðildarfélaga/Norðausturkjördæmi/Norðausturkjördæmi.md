@@ -1,4 +1,4 @@
-## Drög - Lög Pírata í Norðausturkjördæmi
+## Lög Pírata í Norðausturkjördæmi
 
 **1. Heiti félagsins**
 
