@@ -15,6 +15,9 @@ Hverjum frambjóðanda er heimilt að verja, í tengslum við prófkjörið, fj�
 
 Með yfirlýsingu um framboð í prófkjöri í kosningakerfi Pírata telst frambjóðandi lýsa því yfir að hann sé kjörgengur í Alþingiskosningum á Íslandi allan septembermánuð 2021. Sér í lagi að komi til með að hafa náð 18 ára aldri 1. september og muni þá eiga lögheimili á Íslandi.
 
+##### Tölur
+Að prófkjöri loknu verða birta tölur um á hve mörgum kjörseðlum hver frambjóðandi var settur í hvaða sæti.
+
 ###### Tímasetningar og kosningaréttur
 Opnað verður fyrir framboð á [þingi Pírata í Suðvesturkjördæmi](https://x.piratar.is/polity/219/) þriðjudaginn 1. desember 2020 kl. 15:00.
 Lokað verður fyrir framboð mánudaginn 1. mars 2021 kl. 14:00. Þá hefst kosningin á [þingi Pírata í Suðvesturkjördæmi](https://x.piratar.is/polity/219/).  
