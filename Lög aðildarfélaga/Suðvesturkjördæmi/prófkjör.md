@@ -3,7 +3,7 @@
 ##### Framboð og kjörgengi
 Píratar í Suðvesturkjördæmi halda prófkjör til að raða frambjóðendum á efstu sæti framboðslista til Alþingiskosninga 2021.
 Frambjóðandi skal vera skráður í Pírata.
-Frambjóðandi tilkynni framboð sitt á [þingi Pírata í Suðvesturkjördæmi](https://x.piratar.is/polity/219/) og með tölvupósti til kjördæmaráðs á SV@piratar.is. Eftirfarandi atriði þurfa að koma fram í tölvupósti til kjördæmaráðs svo framboðið teljist löglegt er:
+Frambjóðandi tilkynni framboð sitt á [þingi Pírata í Suðvesturkjördæmi](https://x.piratar.is/polity/219/) og með tölvupósti til kjördæmaráðs á SVkjordaemi@piratar.is. Eftirfarandi atriði þurfa að koma fram í tölvupósti til kjördæmaráðs svo framboðið teljist löglegt er:
 * Nafn frambjóðanda
 * Kennitala
 * Lögheimili og aðsetur
