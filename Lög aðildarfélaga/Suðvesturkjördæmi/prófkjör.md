@@ -5,6 +5,7 @@ Píratar í Suðvesturkjördæmi („félagið“) halda prófkjör („prófkj�
 Frambjóðandi skal vera skráður í Pírata.
 Frambjóðandi tilkynni framboð sitt á [þingi Pírata í Suðvesturkjördæmi](https://x.piratar.is/polity/219/) og með tölvupósti til kjördæmisráðs Suðvesturkjördæmis („kjördæmisráðsins“) á SVkjordaemi@piratar.is. Eftirfarandi atriði þurfa að koma fram í tölvupósti til kjördæmisráðsins svo framboðið teljist löglegt er:
 * fullt nafn frambjóðanda,
+* starfsheiti eða staða,
 * kennitala,
 * lögheimili og aðsetur,
 * símanúmer,
