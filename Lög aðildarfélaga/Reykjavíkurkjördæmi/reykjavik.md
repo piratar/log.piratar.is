@@ -18,7 +18,7 @@ Til vara eru: Hermann Björgvin og Þórlaug.
 
 
 
-[Þú getur skráð þig í félagið hér](https://piratar.is/taka-thatt/hvernig-tek-eg-thatt/skraning-i-flokkinn/)
+[Þú getur skráð þig í félagið hér](https://x.piratar.is/polity/1/)
 
 
 <div class="">
