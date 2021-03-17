@@ -345,11 +345,13 @@ starfsfólks fer nánar samkvæmt 9. kafla.
 
 12.4. Samþykktir ársreikningar skulu liggja fyrir á vefsíðu félagsins.
 
-12.5. Félaginu er eingöngu heimilt að taka lán fyrir rekstri og öðrum útgjöldum félagsins ef áætlaðar tekjur eru fyrirsjáanlegar og öruggar. Engin lán sem binda félagið mega fara fram án samþykkis fjármálaráðs.
+12.5. Innkaup, aðgerðir og verkefni skulu framkvæmd með það í huga að þau skilji eftir eins lítil umhverfis og náttúruspjöll og kostur er, skal það haft í huga við samþykkt reikninga.
 
-12.6. Félaginu er ekki heimilt að lána öðrum lögaðilum fé.
+12.6. Félaginu er eingöngu heimilt að taka lán fyrir rekstri og öðrum útgjöldum félagsins ef áætlaðar tekjur eru fyrirsjáanlegar og öruggar. Engin lán sem binda félagið mega fara fram án samþykkis fjármálaráðs.
 
-12.7. Fé sem situr eftir í sjóðum eftir bókhaldsárið skal renna í sjóð næsta árs.
+12.7. Félaginu er ekki heimilt að lána öðrum lögaðilum fé.
+
+12.8. Fé sem situr eftir í sjóðum eftir bókhaldsárið skal renna í sjóð næsta árs.
 
 
 ## 13. Þátttaka í kosningum
