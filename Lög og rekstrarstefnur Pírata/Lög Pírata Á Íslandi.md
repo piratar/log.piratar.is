@@ -142,7 +142,7 @@ eftir köflum:
 6.9. Sé þörf á skjótri ákvarðanatöku má leggja til, með samþykki stefnu- og málefnanefndar, hraðmeðferð á tillögu, en hún stendur þá yfir í sólarhring. Slíka ákvörðun þarf að staðfesta með hefðbundnum kosningum sem fara af stað samtímis. Skulu sérstök boð vera send til félagsmanna um að slík tillaga sé til kosningar. Þó þarf ekki staðfestingarkosningu til að staðfesta yfirlýsingu félagsins í samræmi við lög um upplýsingaráð, enda er þar ekki um lög eða stefnu félagsins að ræða.
 
 
-6.10. Sérhver félagsmaður má stofna málefnahóp í kringum stefnumál. Tilkynna skal félagsmönnum um stofnun vinnuhóps.
+6.10. Sérhver félagsmaður má stofna málefnahóp í kringum stefnumál. Tilkynna skal félagsmönnum um stofnun málefnahóps.
 
 6.11. Öllum er heimilt að taka þátt í málefnahóp, fundir þeirra skulu alltaf vera opnir.
 
