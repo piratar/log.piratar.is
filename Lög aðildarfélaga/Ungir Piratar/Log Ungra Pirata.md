@@ -23,7 +23,7 @@ e) Að halda uppi virku félagsstarfi meðal félagsmanna sinna.
 
 #### 3. Aðild að félaginu
 
-3.1. Full aðild að félaginu er opin öllum á aldrinum 15 til 35 ára.
+3.1. Full aðild að félaginu er opin öllum á aldrinum 13 til 35 ára.
 
 3.2. Aðili að félaginu gerist sjálfkrafa aðili að Pírötum.
 
@@ -35,11 +35,11 @@ e) Að halda uppi virku félagsstarfi meðal félagsmanna sinna.
 
 4.1. Stjórn félagsins annast almenna stjórn og rekstur félagsins. Hún, ásamt félagsfundum skv. 7. kafla, fer með málefni félagsins milli aðalfunda. Firmaritun er í höndum meirihluta stjórnar.
 
-4.2. Í stjórn félagsins sitja fimm manns sem skipta með sér verkefnum. Formaður stjórnar eða meirihluti stjórnarmeðlima geta boðað til funda.
+4.2. Í stjórn félagsins sitja fimm einstaklingar sem skipta með sér verkefnum, en aðalfundi er heimilt að skipa annan fjölda. Forseti stjórnar eða meirihluti stjórnarmeðlima geta boðað til funda.
 
 4.3. Stjórn skal kjósa í eftirfarandi hlutverk úr hópi stjórnarmeðlima (sbr. gr. 4.6):
 
-**a) Formaður:**
+**a) Forseti:**
 
 *i) boðar stjórnarfundi*
 
@@ -47,11 +47,11 @@ e) Að halda uppi virku félagsstarfi meðal félagsmanna sinna.
 
 *iii) heldur prókúru ásamt gjaldkera*
 
-**b) Varaformaður/Ritari:**
+**b) Varaforseti/Ritari:**
 
-*i) er staðgengill formanns*
+*i) er staðgengill forseta*
 
-*ii) er reglu- og skjalavörður*
+*ii) skráir að jafnaði fundargerðir og heldur utan um skjöl félagsins.*
 
 **c) Gjaldkeri:**
 
@@ -71,7 +71,7 @@ e) Að halda uppi virku félagsstarfi meðal félagsmanna sinna.
 
 *i) mætir á þingflokksfundi samkvæmt fyrirkomulagi með þingflokki*
 
-**c) Viðburðarstjóri:**
+**c) Viðburðastjóri:**
 
 *i) skipuleggur viðburði*
 
@@ -80,14 +80,11 @@ e) Að halda uppi virku félagsstarfi meðal félagsmanna sinna.
 **d) Stjórn er heimilt að stofna til fleiri embætta en er ekki skyldug til þess.**
 
 
-4.5. Á aðalfundi Ungra Pírata skal skipa fimm manna stjórn félagsins auk jafnmargra varamanna. Séu fleiri en fimm félagsmenn í framboði til stjórnar skal kosið á milli þeirra. Kosning skal vera leynileg. Kosning skal fara fram með STV kosningu, nema aðalfundur ákveði annað. Þeir fimm frambjóðendur sem verða hlutskarpastir í þeirri kosningu skipa stjórn Ungra Pírata og næstu fimm eru varamenn í þeirri stjórn.
+4.5. Á aðalfundi Ungra Pírata skal skipa stjórn félagsins. Séu fleiri en fimm félagsmenn í framboði til stjórnar skal kosið á milli þeirra. Kosning skal vera leynileg. Kosning skal fara fram með STV kosningu, nema aðalfundur ákveði annað. Þeir fimm frambjóðendur sem verða hlutskarpastir í þeirri kosningu skipa stjórn Ungra Pírata og næstu fimm eru varamenn í þeirri stjórn.
 
 4.6. Gefi tveir meðlimir nýkjörinnar stjórnar kost á sér til formanns skal aðalfundur kjósa á milli þeirra með einfaldri meirihlutakosningu. Séu fleiri en tveir í framboði skal félagsfundur kjósa á milli þeirra með IRV (instantrun-off) forgangskosningu.
 
-4.7. Sá frambjóðandi til stjórnar sem lendir í 6. sæti í stjórnarkjöri telst 1. varamaður stjórnar, sá sem lendir í 7. sæti telst 2. varamaður og svo koll af kolli.
-
 4.8. Stjórn félagsins skal, innan mánaðar frá aðalfundi hvert ár, skila Pírötum fundargerð aðalfundar, ársskýrslu og bókhaldsgögnum síðastliðins árs til framkvæmdaráðs Pírata.
-
 
 
 #### 5. Aðalfundur
@@ -96,7 +93,7 @@ e) Að halda uppi virku félagsstarfi meðal félagsmanna sinna.
 
 5.2. Boða skal til aðalfundar með þriggja vikna fyrirvara og með sannanlegum hætti. Aðalfundur er löglegur, sé rétt til hans boðað og fundarboðið hafi verið öllum félagsmönnum aðgengilegt. Aðalfundur Pírata skal hafa rétt til þess að boða aðalfund í félaginu.
 
-5.3. Einfaldur meirihluti skráðra aðila félagins sem viðstaddir eru aðalfund ræður úrslitum mála nema um annað hlutfall sé kveðið í lögum þessum. Allir viðstaddir skulu hafa málfrelsi og tillögurétt.
+5.3. Einfaldur meirihluti skráðra aðila félagsins sem viðstaddir eru aðalfund ræður úrslitum mála nema um annað hlutfall sé kveðið í lögum þessum. Allir viðstaddir skulu hafa málfrelsi og tillögurétt.
 
 5.4. Dagskrá aðalfundar skal vera sem hér segir:
 
@@ -162,7 +159,7 @@ e) Að halda uppi virku félagsstarfi meðal félagsmanna sinna.
 
 #### 9. Fjármál
 
-9.1. Gjaldkeri og formaður félagsins eru prókúruhafar þess og fara með fjárreiður þess í samráð við stjórn félagsins en stjórn hefur endanlegt ákvörðunarvald.
+9.1. Gjaldkeri og forseti félagsins eru prókúruhafar þess og fara með fjárreiður þess í samráð við stjórn félagsins en stjórn hefur endanlegt ákvörðunarvald.
 
 9.2. Gjaldkeri félagsins hefur heimild fyrir fjárútlátum að hámarki 10.000 krónum. Hærri fjárútlát þurfa samþykki meirihluta stjórnarmanna.
 
@@ -172,7 +169,7 @@ e) Að halda uppi virku félagsstarfi meðal félagsmanna sinna.
 
 9.5. Rekstrarafgangur/hagnaður af starfsemi félagsins í lok starfstímabils skal fluttur óskertur til þess næsta.
 
-9.6. Stjórn er óhemilt að skilja við félagið í halla/skuld.
+9.6. Stjórn er óheimilt að skilja við félagið í halla/skuld.
 
 #### 10. Félagsdeildir Ungra Pírata
 
