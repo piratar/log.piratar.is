@@ -6,7 +6,7 @@ layout: default
 
 [Lög Pírata]({% link log/piratar.md %})
 
-## Aðildarfélaga Pírata
+## Aðildarfélög
 
 ### Svæðisfélög
 
