@@ -2,6 +2,6 @@
 layout: default
 ---
 
-[Lagasafn Pírata]({% link index.html %})
+[Lagasafn Pírata]({% link index.markdown %})
 
 ***
