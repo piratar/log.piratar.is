@@ -1,8 +1,8 @@
-description: "Vefur fyrir birtingu laga Pírata."
+description: "Vefur fyrir birtingu lagasafns Pírata."
 email: "piratar@piratar.is"
 github_username: "piratar"
 plugins: ["jekyll-feed"]
 repository: "https://github.com/piratar/log.piratar.is"
-title: "Lög Pírata"
+title: "Lagasafn Pírata"
 twitter_username: "piratarxp"
 url: "https://log.piratar.is"
