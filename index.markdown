@@ -4,7 +4,7 @@ layout: default
 
 # Lagasafn Pírata
 
-[Lög Píratar]({% link log/piratar.md %})
+[Lög Pírata]({% link log/piratar.md %})
 
 ## Aðildarfélaga Pírata
 
