@@ -1,8 +1,7 @@
 ---
 layout: home
+title: Aðildarfélög
 ---
-
-# Aðildarfélög
 
 * Svæðisfélög
   * Píratar í Hafnarfirði
