@@ -10,20 +10,20 @@ layout: default
 
 ### Svæðisfélög
 
-* [Lög Píratar í Hafnarfirði]({% link log/piratar-i-hafnarfirdi.md %})
-* [Lög Píratar í Kópavogi]({% link log/piratar-i-kopavogi.md %})
-* [Lög Píratar á Suðurlandi]({% link log/piratar-a-sudurlandi.md %})
-* [Lög Píratar á Suðurnesjum]({% link log/piratar-a-sudurnesjum.md %})
-* [Lög Píratar í Reykjavík]({% link log/piratar-i-reykjavik.md %})
+* [Lög Pírata í Hafnarfirði]({% link log/piratar-i-hafnarfirdi.md %})
+* [Lög Pírata í Kópavogi]({% link log/piratar-i-kopavogi.md %})
+* [Lög Pírata á Suðurlandi]({% link log/piratar-a-sudurlandi.md %})
+* [Lög Pírata á Suðurnesjum]({% link log/piratar-a-sudurnesjum.md %})
+* [Lög Pírata í Reykjavík]({% link log/piratar-i-reykjavik.md %})
 
 ### Kjördæmisfélög
 
-* [Lög Píratar í Suðvesturkjördæmi]({% link log/piratar-i-sudvesturkjordaemi.md %})
-* [Lög Píratar í Suðurkjördæmi]({% link log/piratar-i-sudurkjordaemi.md %})
-* [Lög Píratar í Norðausturkjördæmi]({% link log/piratar-i-nordausturkjordaemi.md %})
-* [Lög Píratar í Norðvesturkjördæmi]({% link log/piratar-i-nordvesturkjordaemi.md %})
+* [Lög Pírata í Suðvesturkjördæmi]({% link log/piratar-i-sudvesturkjordaemi.md %})
+* [Lög Pírata í Suðurkjördæmi]({% link log/piratar-i-sudurkjordaemi.md %})
+* [Lög Pírata í Norðausturkjördæmi]({% link log/piratar-i-nordausturkjordaemi.md %})
+* [Lög Pírata í Norðvesturkjördæmi]({% link log/piratar-i-nordvesturkjordaemi.md %})
 
 ### Málefnafélög
 
-* [Lög Femínistafélag Pírata]({% link log/feministafelag-pirata.md %})
-* [Lög Ungir Píratar]({% link log/ungir-piratar.md %})
+* [Lög Femínistafélags Pírata]({% link log/feministafelag-pirata.md %})
+* [Lög Ungra Píratar]({% link log/ungir-piratar.md %})
