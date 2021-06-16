@@ -342,7 +342,7 @@ Starfi engin aðildarfélög innan kjördæmis til alþingiskosninga er framkvæ
 
 Þrátt fyrir fyrstu málsgrein skal ábyrgðaraðilum tveggja eða fleiri kjördæma heimilt að halda sameiginlega framboðslistakosningu fyrir kjördæmi sín. Skal þá raðað á framboðslista kjördæmanna þannig að frambjóðendum sameiginlegu kosningarinnar sé dreift á framboðslistana í sem mestu samræmi við úrslit þeirra.
 
-13.6  Ábyrgðaraðila er heimilt að setja frekari reglur um framkvæmd kjörs á framboðslista. Í slíkum reglum er heimilt að kveða á um skilyrði atkvæðisréttar í kosningu á framboðslista.
+13.6 Ábyrgðaraðila er heimilt að setja frekari reglur um framkvæmd kjörs á framboðslista. Í slíkum reglum er heimilt að kveða á um skilyrði atkvæðisréttar í kosningu á framboðslista.
 Félagsmaður, sem getur sýnt fram á að hann muni að óbreyttu hafa kosningarrétt við Alþingiskosningar, skal ætíð hafa atkvæðisrétt í kosningum á framboðslista í kjördæmi sínu. Þó má gera kröfu um að félagsmaður hafi verið skráður um ákveðið tímabil áður en kosning fer fram.
 
 13.7. Framkvæmdastjórn skal sjá til þess að kynningarferli á þeim sem gefa kost á sér á framboðslista endurspegli sem best gagnrýna hugsun og vel upplýstar ákvarðanir.
