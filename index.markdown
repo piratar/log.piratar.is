@@ -1,6 +1,5 @@
 ---
-layout: home
-title: Aðildarfélög
+layout: page
 ---
 
 * Svæðisfélög
