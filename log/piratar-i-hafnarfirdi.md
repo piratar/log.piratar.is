@@ -49,13 +49,21 @@ title: Lög Pírata í Hafnarfirði
 
 5.2. Einfaldur meirihluti skráðra aðila félagsins sem viðstaddir eru aðalfund ræður úrslitum mála nema um annað hlutfall sé kveðið í lögum þessum. Allir viðstaddir skulu hafa málfrelsi og tillögurétt.
 
-5.3. Að minnsta kosti eftirfarandi dagskrárliðir skulu vera á dagskrá aðalfundar: 1. Kosning fundarstjóra og fundarritara 2. Skýrsla stjórnar lögð fram 3. Reikningar lagðir fram til samþykktar 4. Lagabreytingar 5. Kosning stjórnar 6. Kosning varamanna í stjórn 7. Kjörnir tveir skoðunarmenn reikninga 8. Kosning í önnur embætti samkvæmt lögum þessum 9. Önnur mál Að öðru leiti skipuleggur stjórn dagskrá aðalfundar
+5.3. Að minnsta kosti eftirfarandi dagskrárliðir skulu vera á dagskrá aðalfundar:
 
-5.4. Á félagsfundi samkvæmt sjöunda kafla er hægt að leggja fram tillögu um að boða til auka aðalfundar. Slík tillaga skal koma fram í fundarboði.
-Sé hún samþykkt á fundinum skal hún sett í kosningu í kosningarkerfi Pírata til samþykktar eða synjunar.
-Sé hún samþykkt með að minnsta kosti tveimur þriðja atkvæða er stjórn skylt að boða auka aðalfund eins fljótt og mögulegt er. Stjórn hefur einnig sjálfstæða heimild til að boða til auka aðalfundar.
+1. Kosning fundarstjóra og fundarritara
+2. Skýrsla stjórnar lögð fram
+3. Reikningar lagðir fram til samþykktar
+4. Lagabreytingar
+5. Kosning stjórnar
+6. Kosning varamanna í stjórn
+7. Kjörnir tveir skoðunarmenn reikninga
+8. Kosning í önnur embætti samkvæmt lögum þessum
+9. Önnur mál
 
-Á auka aðalfundi er ekki skylt að taka á dagskrá alla liði sem lög þessi segja fyrir um á aðalfundi. Hafi tillaga um boðun auka aðalfundar innifalið skilyrði um dagskrá fundarins skal stjórn þó fylgja þeim.
+Að öðru leiti skipuleggur stjórn dagskrá aðalfundar.
+
+5.4. Á félagsfundi samkvæmt sjöunda kafla er hægt að leggja fram tillögu um að boða til auka aðalfundar. Slík tillaga skal koma fram í fundarboði. Sé hún samþykkt á fundinum skal hún sett í kosningu í kosningarkerfi Pírata til samþykktar eða synjunar. Sé hún samþykkt með að minnsta kosti tveimur þriðja atkvæða er stjórn skylt að boða auka aðalfund eins fljótt og mögulegt er. Stjórn hefur einnig sjálfstæða heimild til að boða til auka aðalfundar. Á auka aðalfundi er ekki skylt að taka á dagskrá alla liði sem lög þessi segja fyrir um á aðalfundi. Hafi tillaga um boðun auka aðalfundar innifalið skilyrði um dagskrá fundarins skal stjórn þó fylgja þeim.
 
 5.5. Aðalfund Pírata í Hafnarfirði skal halda ár hvert.
 
@@ -93,9 +101,7 @@ Sé hún samþykkt með að minnsta kosti tveimur þriðja atkvæða er stjórn 
 
 7.2. Fundargestir skulu hafa tillögufrelsi, málfrelsi og atkvæðarétt.
 
-7.3. Allar ákvarðanir á fundum eru teknar með einföldum meirihluta en þó eigi færri en þremur atkvæðum nema annað sé tekið fram í lögum þessum og fara að jafnaði fram með handauppréttingu.
-
-Sé óskað eftir því má fundarstjóri ákveða að hafa atkvæðagreiðslu skriflegar. Sé óskað eftir því og 5% fundarmanna en aldrei færri en þrír skulu kosningar vera leynilegar.
+7.3. Allar ákvarðanir á fundum eru teknar með einföldum meirihluta en þó eigi færri en þremur atkvæðum nema annað sé tekið fram í lögum þessum og fara að jafnaði fram með handauppréttingu. Sé óskað eftir því má fundarstjóri ákveða að hafa atkvæðagreiðslu skriflegar. Sé óskað eftir því og 5% fundarmanna en aldrei færri en þrír skulu kosningar vera leynilegar.
 
 7.4. Boða skal til almennra félagsfunda með viku fyrirvara með óvéfengjanlegum hætti. Félagsfundur má taka ákvörðun um að tillaga einhvers utan fundarins sé afgreidd. Þær skulu skriflegar og eintak afhent fundarritara til varðveislu. Þó skal víkja frá þessu skilyrði ef tillaga barst með fundarboði.
 
