@@ -3,7 +3,7 @@ layout: default
 title: Lög Pírata í Hafnarfirði
 ---
 
-[Lagasafn Pírata]({% link index.markdown %})
+[Lagasafn Pírata]({% link index.markdown %}) | [Félagi slitið þann 20. júní 2020.](https://github.com/piratar/Skjalasafn/blob/master/Fundargerdir/Adildarfelog/(slit%20ovirkra%20adildarfelaga)/2020-06-20%20(Piratar%20i%20Hafnarfirdi).md)
 
 ***
 
