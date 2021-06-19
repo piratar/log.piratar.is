@@ -3,7 +3,7 @@ layout: default
 title: Lög Femínistafélags Pírata
 ---
 
-[Lagasafn Pírata]({% link index.markdown %})
+[Lagasafn Pírata]({% link index.markdown %}) \| [Óskráð í fyrirtækjaskrá]
 
 ***
 
