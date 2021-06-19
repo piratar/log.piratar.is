@@ -131,9 +131,9 @@ title: Lög Pírata
 
 **Framkvæmdastjórn**
 
-7.1. Framkvæmdastjórn annast almenna stjórn og rekstur félagsins að svo miklu leyti sem hún er ekki í höndum aðildarfélaga. 
+7.1. Framkvæmdastjórn annast almenna stjórn og rekstur félagsins að svo miklu leyti sem hún er ekki í höndum aðildarfélaga.
 
-7.1.1. Í framkvæmdastjórn sitja þrír einstaklingar sem kosnir eru beinni kosningu á aðalfundi. Kjörtímabil þeirra er tvö ár. Sá meðlimur framkvæmdastjórnar sem hlýtur besta kosningu skal stýra störfum hennar nema viðkomandi biðjist undan. 
+7.1.1. Í framkvæmdastjórn sitja þrír einstaklingar sem kosnir eru beinni kosningu á aðalfundi. Kjörtímabil þeirra er tvö ár. Sá meðlimur framkvæmdastjórnar sem hlýtur besta kosningu skal stýra störfum hennar nema viðkomandi biðjist undan.
 
 Framkvæmdastjórn velur sjálf einnig gjaldkera og ritara.
 
@@ -143,11 +143,11 @@ Framkvæmdastjórn velur sjálf einnig gjaldkera og ritara.
 
 **Stefnu- og málefnanefnd**
 
-7.2. Stefnu- og málefnanefnd skal vera félagsfólki, kjörnum fulltrúum og nefndum, stjórnum, ráðum og aðildarfélögum Pírata til aðstoðar varðandi stefnumótun og málefnastarf innan flokksins. Þá getur hún haft frumkvæði að viðbrögðum við stóratburðum í samfélaginu, t.d. með skipulagningu viðburða og funda. 
+7.2. Stefnu- og málefnanefnd skal vera félagsfólki, kjörnum fulltrúum og nefndum, stjórnum, ráðum og aðildarfélögum Pírata til aðstoðar varðandi stefnumótun og málefnastarf innan flokksins. Þá getur hún haft frumkvæði að viðbrögðum við stóratburðum í samfélaginu, t.d. með skipulagningu viðburða og funda.
 
 7.2.1. Í stefnu- og málefnanefnd sitja fimm einstaklingar sem kosin eru beinni kosningu á aðalfundi. Kjörtímabil þeirra er tvö ár. Sá meðlimur nefndarinnar sem hlýtur besta kosningu skal stýra störfum hennar nema viðkomandi biðjist undan.
 
-7.2.2. Stefnu- og málefnanefnd skipuleggur Pírataþing, sem haldin skulu tvisvar á ári. 
+7.2.2. Stefnu- og málefnanefnd skipuleggur Pírataþing, sem haldin skulu tvisvar á ári.
 
 7.2.3. Í aðdraganda kosninga starfar stefnu- og málefnanefnd með frambjóðendum við undirbúning kosninga.
 
@@ -163,10 +163,10 @@ Framkvæmdastjórn velur sjálf einnig gjaldkera og ritara.
 
 7.3.2. Fjármálaráð skal setja verklagsreglur um fjármálaumsjón félagsins og stofnana þess. Í reglunum sé að lágmarki kveðið á um:
 
-* að tvöföld undirritun sé á reikningum, 
-* að haldið sé vel um kvittanir og önnur bókhaldsgögn, 
-* að bókhaldi sé skilað til framkvæmdastjórnar a.m.k. ársfjórðungslega, 
-* að lögum félagsins um opið bókhald sé framfylgt og; 
+* að tvöföld undirritun sé á reikningum,
+* að haldið sé vel um kvittanir og önnur bókhaldsgögn,
+* að bókhaldi sé skilað til framkvæmdastjórnar a.m.k. ársfjórðungslega,
+* að lögum félagsins um opið bókhald sé framfylgt og;
 * fjárveitingar til svæðisbundinna aðildarfélaga samkvæmt skilgreindri reikniaðferð í 11. kafla laganna.
 
 7.3.3. Fjármálaráð hefur umsjón með eftirfylgni við verklagsreglur um fjármálaumsjón félagsins.
@@ -189,8 +189,7 @@ Framkvæmdastjórn velur sjálf einnig gjaldkera og ritara.
 
 **Önnur ákvæði**
 
-7.5. Framkvæmdastjórn skal ráða framkvæmdastjóra til að annast daglegan rekstur Pírata. Framkvæmdastjóri ræður annað starfsfólk Pírata. Um störf framkvæmdastjóra og annars 
-starfsfólks fer nánar samkvæmt 9. kafla. 
+7.5. Framkvæmdastjórn skal ráða framkvæmdastjóra til að annast daglegan rekstur Pírata. Framkvæmdastjóri ræður annað starfsfólk Pírata. Um störf framkvæmdastjóra og annars starfsfólks fer nánar samkvæmt 9. kafla.
 
 7.6. Framkvæmdastjórn og fjármálaráð skulu viðhafa reglubundið samráð við framkvæmdastjóra hvað varðar fjármál og rekstur félagsins.
 
@@ -204,7 +203,7 @@ starfsfólks fer nánar samkvæmt 9. kafla.
 
 7.8. Kosningar í framkvæmdastjórn, stefnu- og málefnanefnd og fjármálaráð skulu skila raðaðri niðurstöðu. Að öðru leyti fer um kjörið samkvæmt 4. kafla um aðalfund.
 
-7.8.1. Þeir einir eru kjörgengir til stjórna, nefnda og ráða Pírata sem hafa verið í félaginu í að lágmarki 30 daga áður en kosning hefst. Óheimilt er að sitja lengur en tvö kjörtímabil samfleytt í sömu stjórn eða ráði. 
+7.8.1. Þeir einir eru kjörgengir til stjórna, nefnda og ráða Pírata sem hafa verið í félaginu í að lágmarki 30 daga áður en kosning hefst. Óheimilt er að sitja lengur en tvö kjörtímabil samfleytt í sömu stjórn eða ráði.
 
 7.8.2. Heimilt er að sitja í fleiri en einni nefnd, stjórn eða ráði.
 
@@ -368,7 +367,7 @@ Sveitarstjórnarfulltrúar skulu starfa í þágu þess svæðisbundna aðildarf
 
 ## Ákvæði til bráðabirgða – 2020
 
-Við samþykkt þessarar tillögu skal boða til auka-aðalfundar þar sem fram fari kjör í framkvæmdastjórn, stefnu- og málefnanefnd og fjármálaráð. Við fyrsta kjör skal velja í framkvæmdastjórn og fjármálaráð tvo fulltrúa til tveggja ára en einn til eins árs. Í stefnu- og málefnanefnd skal velja þrjá fulltrúa til tveggja ára og tvo til eins árs. 
+Við samþykkt þessarar tillögu skal boða til auka-aðalfundar þar sem fram fari kjör í framkvæmdastjórn, stefnu- og málefnanefnd og fjármálaráð. Við fyrsta kjör skal velja í framkvæmdastjórn og fjármálaráð tvo fulltrúa til tveggja ára en einn til eins árs. Í stefnu- og málefnanefnd skal velja þrjá fulltrúa til tveggja ára og tvo til eins árs.
 
 Skipan í framkvæmdaráð helst þangað til að kosning á auka-aðalfundi er yfirstaðin og verkefnum framkvæmdaráðs hefur verið réttilega komið til þeirra sem taka við þeim.
 
