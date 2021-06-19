@@ -3,7 +3,7 @@ layout: default
 title: Lög Pírata í Reykjavík
 ---
 
-[Lagasafn Pírata]({% link index.markdown %})
+[Lagasafn Pírata]({% link index.markdown %}) \| [[Skráning í fyrirtækjaskrá]](https://skatturinn.is/fyrirtaekjaskra/leit/kennitala/5501140620)
 
 ***
 
