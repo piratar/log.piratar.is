@@ -3,7 +3,7 @@ layout: default
 title: Lög Pírata í Kópavogi
 ---
 
-[Lagasafn Pírata]({% link index.markdown %})
+[Lagasafn Pírata]({% link index.markdown %}) \| [[Skráning í fyrirtækjaskrá]](https://skatturinn.is/fyrirtaekjaskra/leit/kennitala/6403141170)
 
 ***
 
