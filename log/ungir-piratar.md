@@ -19,11 +19,11 @@ title: Lög Ungra Píratar
 
 Tilgangur félagsins er eftirfarandi:
 
-a. Að starfa sem aðildarfélag innan Pírata þegar kemur að málefnum ungs fólks.  
-b. Að starfa á vettvöngum ungliðahreyfinga stjórnmálaflokka og annarra félaga sem ungliðahreyfing Pírata á Íslandi.  
-c. Að halda sambandi og samvinnu við erlendar ungliðahreyfingar Pírata og eftir atvikum aðrar erlendar hreyfingar.  
-d. Að halda sambandi og samvinnu við ungliðahreyfingar annarra stjórnmálaflokka.  
-e. Að halda uppi virku félagsstarfi meðal félagsmanna sinna.
+1. Að starfa sem aðildarfélag innan Pírata þegar kemur að málefnum ungs fólks.
+2. Að starfa á vettvöngum ungliðahreyfinga stjórnmálaflokka og annarra félaga sem ungliðahreyfing Pírata á Íslandi.
+3. Að halda sambandi og samvinnu við erlendar ungliðahreyfingar Pírata og eftir atvikum aðrar erlendar hreyfingar.
+4. Að halda sambandi og samvinnu við ungliðahreyfingar annarra stjórnmálaflokka.
+5. Að halda uppi virku félagsstarfi meðal félagsmanna sinna.
 
 ## 3. Aðild að félaginu
 
@@ -153,7 +153,7 @@ e. Að halda uppi virku félagsstarfi meðal félagsmanna sinna.
 
 9.3. Gjaldkeri skal halda utan um kvittanir af öllum fjárútlátum félagsins þar sem kemur fram sundurliðun einstakra útgjaldaliða. Sé kvittun ekki fáanleg skulu útskýringar á því færðar til bókar í fundargerð á stjórnarfundi. Skoðunarmönnum reikninga skal veittur aðgangur að kvittunum jafnóðum.
 
-9.4. Félaginu er heimilt að safna og taka á móti styrkjum, ásamt því að stunda sölu á vörum og þjónustu eftir því sem landslög leyfa. 
+9.4. Félaginu er heimilt að safna og taka á móti styrkjum, ásamt því að stunda sölu á vörum og þjónustu eftir því sem landslög leyfa.
 
 9.5. Rekstrarafgangur/hagnaður af starfsemi félagsins í lok starfstímabils skal fluttur óskertur til þess næsta.
 
