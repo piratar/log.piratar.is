@@ -3,7 +3,7 @@ layout: default
 title: Lög Pírata
 ---
 
-[Lagasafn Pírata]({% link index.markdown %})
+[Lagasafn Pírata]({% link index.markdown %}) \| [[Skráning í fyrirtækjaskrá]](https://skatturinn.is/fyrirtaekjaskra/leit/kennitala/4612120690)
 
 ***
 
