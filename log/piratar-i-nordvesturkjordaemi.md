@@ -12,7 +12,7 @@ title: Lög Pírata í Norðvesturkjördæmi
 ## 1. Heiti félagsins
 
 1.1. Heiti félagsins er Píratar í Norðvesturkjördæmi skammstafað PíNK. Varnarþing þess er Héraðsdómur Vesturlands.
- 
+
 ## 2. Hlutverk félagsins
 
 2.1. Félagið er aðildarfélag stjórnmálaflokksins Pírata. Starfssvæði félagsins afmarkast af Norðvesturkjördæmi, eins og það er skilgreint hverju sinni skv. lögum um kosningar til Alþingis, nr. 24/2000.
@@ -76,7 +76,7 @@ title: Lög Pírata í Norðvesturkjördæmi
 5.6. Á aðalfundi skal kosinn einn skoðunaraðili reikninga.
 
 5.7. Aðalfundi Pírata er heimilt að boða aðalfund Pírata á Norðvesturkjördæmi.
- 
+
 ## 6. Lög, stefnumál og atkvæðagreiðslur
 
 6.1. Félagið telst starfhæft svo lengi sem ekki meira en 18 mánuðir hafa liðið frá því að síðasti aðalfundur þess var haldinn.
@@ -96,7 +96,7 @@ title: Lög Pírata í Norðvesturkjördæmi
 6.8. Þegar stefnumál fara til afgreiðslu í rafrænt kosningakerfi félagsins skal vera settur 7 sólarhringa umræðutími og fer atkvæðagreiðsla fram um leið og honum lýkur. Atkvæðagreiðsla skal standa yfir í 7 sólarhringa.
 
 6.9. Sé þörf á skjótri ákvarðanatöku um stefnur félagsins má leggja til, með samþykki stjórnar, hraðkosningu á tillögu, en hún stendur þá yfir í sólarhring. Slíka ákvörðun þarf að staðfesta með hefðbundinni rafrænni kosningu sem fara af stað samtímis. Skulu sérstök boð vera send til félagsmanna um að slík tillaga sé til kosningar. Sé niðurstaða kosningar á þá leið að fyrri ákvörðun sé felld, skal sú niðurstaða gilda, sé ákvörðunin afturkræf. Með tillögunni þarf að fylgja rökstuðningur fyrir hraðmeðferð.
- 
+
 ## 7. Framboð til alþingiskosninga, kjördæmisráð, prófkjör og umboðsmenn
 
 7.1. Allir félagar í Pírötum sem kjörgengir eru í Norðvesturkjördæmi við Alþingiskosningarnar eiga rétt á að bjóða sig fram í prófkjörinu.
