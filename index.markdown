@@ -14,7 +14,12 @@ layout: default
 * [Lög Pírata á Suðurlandi]({% link log/piratar-a-sudurlandi.md %})
 * [Lög Pírata á Suðurnesjum]({% link log/piratar-a-sudurnesjum.md %})
 * [Lög Pírata í Reykjavík]({% link log/piratar-i-reykjavik.md %})
+* [Lög Pírata á Austurlandi]({% link log/piratar-a-austurlandi.md %}) ([félagi slitið](https://github.com/piratar/Skjalasafn/blob/master/Fundargerdir/Adildarfelog/Piratar%20%C3%AD%20Nordausturkjordaemi/Felagsfundir/2020-04-16.md))
 * [Lög Pírata í Hafnarfirði]({% link log/piratar-i-hafnarfirdi.md %}) ([félagi slitið](https://github.com/piratar/Skjalasafn/blob/master/Fundargerdir/Adildarfelog/(slit%20ovirkra%20adildarfelaga)/2020-06-20%20(Piratar%20i%20Hafnarfirdi).md))
+* [Lög Pírata í Mosfellsbæ]({% link log/piratar-i-mosfellsbae.md %}) ([félagi slitið](https://github.com/piratar/Skjalasafn/blob/master/Fundargerdir/Adildarfelog/(slit%20ovirkra%20adildarfelaga)/2020-06-20%20(Piratar%20i%20Mosfellsbae).md))
+* [Lög Pírata á Seltjarnarnesi]({% link log/piratar-a-seltjarnarnesi.md %}) ([félagi slitið](https://github.com/piratar/Skjalasafn/blob/master/Fundargerdir/Adildarfelog/(slit%20ovirkra%20adildarfelaga)/2020-06-20%20(Piratar%20a%20Seltjarnarnesi).md))
+* [Lög Pírata á Vestfjörðum]({% link log/piratar-a-vestfjordum.md %}) ([félagi slitið](https://github.com/piratar/Skjalasafn/blob/master/Fundargerdir/Adildarfelog/(slit%20ovirkra%20adildarfelaga)/2020-09-12%20(adalfundir%20ovirkra%20adildarfelaga%20Pirata%20i%20Nordvesturkjordaemi).md))
+* [Lög Pírata á Vesturlandi]({% link log/piratar-a-vesturlandi.md %}) ([félagi slitið](https://github.com/piratar/Skjalasafn/blob/master/Fundargerdir/Adildarfelog/(slit%20ovirkra%20adildarfelaga)/2020-09-12%20(adalfundir%20ovirkra%20adildarfelaga%20Pirata%20i%20Nordvesturkjordaemi).md))
 
 ### Kjördæmisfélög
 
