@@ -8,3 +8,5 @@ title: Lög Pírata í Suðurkjördæmi
 ***
 
 # Lög Pírata í Suðurkjördæmi
+
+[Lög hafa ekki borist.]
