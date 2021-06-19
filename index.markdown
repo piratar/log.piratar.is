@@ -10,11 +10,12 @@ layout: default
 
 ### Svæðisfélög
 
-* [Lög Pírata í Hafnarfirði]({% link log/piratar-i-hafnarfirdi.md %}) ([félagi slitið](https://github.com/piratar/Skjalasafn/blob/master/Fundargerdir/Adildarfelog/(slit%20ovirkra%20adildarfelaga)/2020-06-20%20(Piratar%20i%20Hafnarfirdi).md))
 * [Lög Pírata í Kópavogi]({% link log/piratar-i-kopavogi.md %})
 * [Lög Pírata á Suðurlandi]({% link log/piratar-a-sudurlandi.md %})
 * [Lög Pírata á Suðurnesjum]({% link log/piratar-a-sudurnesjum.md %})
 * [Lög Pírata í Reykjavík]({% link log/piratar-i-reykjavik.md %})
+
+* [Lög Pírata í Hafnarfirði]({% link log/piratar-i-hafnarfirdi.md %}) ([félagi slitið](https://github.com/piratar/Skjalasafn/blob/master/Fundargerdir/Adildarfelog/(slit%20ovirkra%20adildarfelaga)/2020-06-20%20(Piratar%20i%20Hafnarfirdi).md))
 
 ### Kjördæmisfélög
 
