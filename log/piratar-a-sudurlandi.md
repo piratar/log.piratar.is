@@ -15,7 +15,7 @@ title: Lög Pírata á Suðurlandi
 
 ## 2. Hlutverk félagsins
 
-2.1. Félagið er aðildarfélag stjórnmálaflokksins Pírata. Starfssvæði félagsins eru sveitarfélögin Hornafjörður, Skaftárhreppur, Mýrdalshreppur, Rangárþing eystra, Rangárþing ytra, Ásahreppur, Vestmannaeyjabær, Flóahreppur, Sveitarfélagið Árborg, Skeiða- og Gnúpverjahreppur, Hrunamannahreppur, Bláskógabyggð, Grímsnes- og Grafningshreppur, Hveragerðisbær, Sveitarfélagið Ölfus.
+2.1. Félagið er aðildarfélag stjórnmálaflokksins Pírata. Starfssvæði félagsins eru sveitarfélögin Hornafjörður, Skaftárhreppur, Mýrdalshreppur, Rangárþing eystra, Rangárþing ytra, Ásahreppur, Vestmannaeyjabær, Flóahreppur, Sveitarfélagið Árborg, Skeiða- og Gnúpverjahreppur, Hrunamannahreppur, Bláskógabyggð, Grímsnes- og Grafningshreppur, Hveragerðisbær og Sveitarfélagið Ölfus.
 
 2.2. Félagið setur sér stefnu í opnu ferli og vinnur að framgangi hennar og stefnu Pírata með þeim aðferðum sem því standa til boða. Félagið ber ábyrgð á framboði undir nafni Pírata til sveitarstjórnarkosninga á starfssvæði sínu. Félagið ber einnig ábyrgð á framboði undir nafni Pírata til Alþingiskosninga í Suður-kjördæmi í samvinnu við önnur aðildarfélög Pírata í kjördæminu.
 
