@@ -131,7 +131,7 @@ title: Lög Pírata á Suðurlandi
 
 9.3. Þegar ákvörðun hefur verið tekin um að félagið bjóði fram í tilteknum kosningum skal tilkynna hana á vettvangi félagsins svo skjótt sem auðið er. Auglýst skal eftir framboðum innan viku frá slíkri ákvörðun.
 
-9.4. Með atkvæðisrétt við kosningar á framboðslista vegna sveitarstjórnakosninga skal fara eftir grein 6.4. Skal öllum félögum félagsins tilkynnt um framboðslistakosningu. Í tilkynningu skal tilgreina skilyrði atkvæðisréttar.
+9.4. Með atkvæðisrétt við kosningar á framboðslista vegna sveitarstjórnarkosninga skal fara eftir grein 6.4. Skal öllum félögum félagsins tilkynnt um framboðslistakosningu. Í tilkynningu skal tilgreina skilyrði atkvæðisréttar.
 
 9.5. Fari atkvæðagreiðslur um framboðslista fram í rafrænu kosningakerfi Pírata skal sú kosning standa yfir í að minnsta kosti 7 sólarhringa, en þó aldrei lengur en 10 sólarhringa.
 
