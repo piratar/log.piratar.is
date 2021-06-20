@@ -20,6 +20,7 @@ layout: default
 * [Lög Pírata á Austurlandi]({% link adildarfelog/svaedisfelog/slitin/log-pirata-a-austurlandi.md %})
 * [Lög Pírata í Hafnarfirði]({% link adildarfelog/svaedisfelog/slitin/log-pirata-i-hafnarfirdi.md %})
 * [Lög Pírata í Mosfellsbæ]({% link adildarfelog/svaedisfelog/slitin/log-pirata-i-mosfellsbae.md %})
+* [Lög Pírata á Norðausturlandi]({% link adildarfelog/svaedisfelog/slitin/log-pirata-a-nordausturlandi.md %})
 * [Lög Pírata á Seltjarnarnesi]({% link adildarfelog/svaedisfelog/slitin/log-pirata-a-seltjarnarnesi.md %})
 * [Lög Pírata á Vestfjörðum]({% link adildarfelog/svaedisfelog/slitin/log-pirata-a-vestfjordum.md %})
 * [Lög Pírata á Vesturlandi]({% link adildarfelog/svaedisfelog/slitin/log-pirata-a-vesturlandi.md %})
