@@ -34,4 +34,4 @@ layout: default
 ### Málefnafélög
 
 * [Lög Femínistafélags Pírata]({% link adildarfelog/malefnafelog/log-feministafelags-pirata.md %})
-* [Lög Ungra Píratar]({% link adildarfelog/malefnafelog/log-ungra-piratar.md %})
+* [Lög Ungra Píratar]({% link adildarfelog/malefnafelog/log-ungra-pirata.md %})
