@@ -12,7 +12,7 @@ layout: default
 * Persónuverndarstefna Pírata
 * [Stefna um félagatal Pírata]({% link modurfelag/stefna-um-felagatal-pirata.md %})
 * Verklagsreglur um bann við mismunun, einelti, áreitni, þar á meðal kynferðislegri áreitni og kynbundinni áreitni og ofbeldi
-* Ytri öryggisstefna Pírata
+* [Ytri öryggisstefna Pírata]({% link modurfelag/ytri-oryggisstefna-pirata.md %})
 
 ## Aðildarfélög
 
