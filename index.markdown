@@ -4,7 +4,15 @@ layout: default
 
 # Lagasafn Pírata
 
-* [Lög Pírata]({% link modurfelag/log-pirata.md %})
+* **[Lög Pírata]({% link modurfelag/log-pirata.md %})**
+* Innri persónuverndarstefna Pírata
+* Innri öryggisstefna Pírata
+* Mannauðsstefna Pírata
+* Málsmeðferðarreglur Úrskurðarnefndar
+* Persónuverndarstefna Pírata
+* Stefna um félagatal Pírata
+* Verklagsreglur um bann við mismunun, einelti, áreitni, þar á meðal kynferðislegri áreitni og kynbundinni áreitni og ofbeldi
+* Ytri öryggisstefna Pírata
 
 ## Aðildarfélög
 
