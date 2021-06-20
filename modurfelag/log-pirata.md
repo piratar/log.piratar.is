@@ -1,6 +1,5 @@
 ---
 layout: default
-permalink: /log-pirata.md
 title: Lög Pírata
 ---
 

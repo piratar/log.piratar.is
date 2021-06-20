@@ -4,8 +4,6 @@ layout: default
 
 # Lagasafn Pírata
 
-[Lög Pírata]({% link log-pirata.md %})
-
 ## Aðildarfélög
 
 ### Svæðisfélög
