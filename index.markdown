@@ -4,34 +4,34 @@ layout: default
 
 # Lagasafn Pírata
 
-* [Lög Pírata]({% link log-pirata.md %})
+* [Lög Pírata]({% link modurfelag/log-pirata.md %})
 
 ## Aðildarfélög
 
 ### Svæðisfélög
 
-* [Lög Pírata í Kópavogi]({% link adildarfelog/piratar-i-kopavogi.md %})
-* [Lög Pírata á Suðurlandi]({% link adildarfelog/piratar-a-sudurlandi.md %})
-* [Lög Pírata á Suðurnesjum]({% link adildarfelog/piratar-a-sudurnesjum.md %})
-* [Lög Pírata í Reykjavík]({% link adildarfelog/piratar-i-reykjavik.md %})
+* [Lög Pírata í Kópavogi]({% link /adildarfelog/svaedisfelog/log-pirata-i-kopavogi.md %})
+* [Lög Pírata á Suðurlandi]({% link /adildarfelog/svaedisfelog/log-pirata-a-sudurlandi.md %})
+* [Lög Pírata á Suðurnesjum]({% link /adildarfelog/svaedisfelog/log-pirata-a-sudurnesjum.md %})
+* [Lög Pírata í Reykjavík]({% link /adildarfelog/svaedisfelog/log-pirata-i-reykjavik.md %})
 
 #### Slitin svæðisfélög
 
-* [Lög Pírata á Austurlandi]({% link adildarfelog/piratar-a-austurlandi.md %})
-* [Lög Pírata í Hafnarfirði]({% link adildarfelog/piratar-i-hafnarfirdi.md %})
-* [Lög Pírata í Mosfellsbæ]({% link adildarfelog/piratar-i-mosfellsbae.md %})
-* [Lög Pírata á Seltjarnarnesi]({% link adildarfelog/piratar-a-seltjarnarnesi.md %})
-* [Lög Pírata á Vestfjörðum]({% link adildarfelog/piratar-a-vestfjordum.md %})
-* [Lög Pírata á Vesturlandi]({% link adildarfelog/piratar-a-vesturlandi.md %})
+* [Lög Pírata á Austurlandi]({% link /adildarfelog/svaedisfelog/slitin/log-pirata-a-austurlandi.md %})
+* [Lög Pírata í Hafnarfirði]({% link /adildarfelog/svaedisfelog/slitin/log-pirata-i-hafnarfirdi.md %})
+* [Lög Pírata í Mosfellsbæ]({% link /adildarfelog/svaedisfelog/slitin/log-pirata-i-mosfellsbae.md %})
+* [Lög Pírata á Seltjarnarnesi]({% link /adildarfelog/svaedisfelog/slitin/log-pirata-a-seltjarnarnesi.md %})
+* [Lög Pírata á Vestfjörðum]({% link /adildarfelog/svaedisfelog/slitin/log-pirata-a-vestfjordum.md %})
+* [Lög Pírata á Vesturlandi]({% link /adildarfelog/svaedisfelog/slitin/log-pirata-a-vesturlandi.md %})
 
 ### Kjördæmisfélög
 
-* [Lög Pírata í Norðausturkjördæmi]({% link adildarfelog/piratar-i-nordausturkjordaemi.md %})
-* [Lög Pírata í Norðvesturkjördæmi]({% link adildarfelog/piratar-i-nordvesturkjordaemi.md %})
-* [Lög Pírata í Suðurkjördæmi]({% link adildarfelog/piratar-i-sudurkjordaemi.md %})
-* [Lög Pírata í Suðvesturkjördæmi]({% link adildarfelog/piratar-i-sudvesturkjordaemi.md %})
+* [Lög Pírata í Norðausturkjördæmi]({% link /adildarfelog/kjordaemisfelog/log-pirata-i-nordausturkjordaemi.md %})
+* [Lög Pírata í Norðvesturkjördæmi]({% link /adildarfelog/kjordaemisfelog/log-pirata-i-nordvesturkjordaemi.md %})
+* [Lög Pírata í Suðurkjördæmi]({% link /adildarfelog/kjordaemisfelog/log-pirata-i-sudurkjordaemi.md %})
+* [Lög Pírata í Suðvesturkjördæmi]({% link /adildarfelog/kjordaemisfelog/log-pirata-i-sudvesturkjordaemi.md %})
 
 ### Málefnafélög
 
-* [Lög Femínistafélags Pírata]({% link adildarfelog/feministafelag-pirata.md %})
-* [Lög Ungra Píratar]({% link adildarfelog/ungir-piratar.md %})
+* [Lög Femínistafélags Pírata]({% link /adildarfelog/malefnafelog/log-feministafelags-pirata.md %})
+* [Lög Ungra Píratar]({% link /adildarfelog/malefnafelog/log-ungra-piratar.md %})
