@@ -5,7 +5,7 @@ layout: default
 # Lagasafn Pírata
 
 * **[Lög Pírata]({% link modurfelag/log-pirata.md %})**
-* Innri persónuverndarstefna Pírata
+* [Innri persónuverndarstefna Pírata]({% link modurfelag/innri-personuverndarstefna-pirata.md %})
 * [Innri öryggisstefna Pírata]({% link modurfelag/innri-oryggisstefna-pirata.md %})
 * [Mannauðsstefna Pírata]({% link modurfelag/mannaudsstefna-pirata.md %})
 * Málsmeðferðarreglur Úrskurðarnefndar
