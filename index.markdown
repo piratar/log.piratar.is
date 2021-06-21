@@ -8,7 +8,7 @@ layout: default
 * [Innri persónuverndarstefna Pírata]({% link modurfelag/innri-personuverndarstefna-pirata.md %})
 * [Innri öryggisstefna Pírata]({% link modurfelag/innri-oryggisstefna-pirata.md %})
 * [Mannauðsstefna Pírata]({% link modurfelag/mannaudsstefna-pirata.md %})
-* Málsmeðferðarreglur Úrskurðarnefndar
+* [Málsmeðferðarreglur Úrskurðarnefndar Pírata]({% link modurfelag/malsmedferdarreglur-urskurdarnefndar-pirata.md %})
 * [Persónuverndarstefna Pírata]({% link modurfelag/personuverndarstefna-pirata.md %})
 * [Stefna um félagatal Pírata]({% link modurfelag/stefna-um-felagatal-pirata.md %})
 * Verklagsreglur um bann við mismunun, einelti, áreitni, þar á meðal kynferðislegri áreitni og kynbundinni áreitni og ofbeldi
