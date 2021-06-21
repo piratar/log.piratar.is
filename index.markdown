@@ -2,7 +2,9 @@
 layout: default
 ---
 
-# Lagasafn Pírata
+# Lagasafn
+
+Lagasafn samanstendur af lögum Pírata og aðildarfélaga ásamt rekstrarstefnum og rekstrartengdum ályktunum eins og þau standa á hverjum tíma.
 
 * **[Lög Pírata]({% link modurfelag/log-pirata.md %})**
 * [Innri persónuverndarstefna Pírata]({% link modurfelag/innri-personuverndarstefna-pirata.md %})

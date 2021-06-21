@@ -1,6 +1,5 @@
-# 2021-06-15: Tilkynning
+# Lagasafn
 
-Framkvæmdastjóri hefur fengið mér það verkefni að sjá um uppfærslu á log.piratar.is. Vinsamlegast sýnið biðlund.
+Lagasafn samanstendur af lögum Pírata og aðildarfélaga ásamt rekstrarstefnum og rekstrartengdum ályktunum eins og þau standa á hverjum tíma.
 
-Með þökk,  
-Stefán Örvar Sigmundsson
+Þessi geymsla hýsir vefinn [log.piratar.is](log.piratar.is) (lagasafnið) og keyrir á [Jekyll](https://jekyllrb.com).
