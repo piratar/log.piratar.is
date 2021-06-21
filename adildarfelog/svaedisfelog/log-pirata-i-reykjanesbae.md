@@ -9,6 +9,8 @@ title: Lög Pírata á Suðurnesjum
 
 # Lög Pírata á Suðurnesjum
 
+[Lög eru úreld. Félag heitir nú Píratar í Reykjanesbæ.]
+
 ## 1. Heiti félagsins
 
 1.1. Heiti félagsins er Píratar á Suðurnesjum (sveitarfélögin Garður, Grindavíkurbær, Reykjanesbær, Sandgerðisbær og Vogar). Aðsetur þess og varnarþing er í Reykjanesbæ.
