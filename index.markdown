@@ -20,9 +20,9 @@ Lagasafn samanstendur af lögum Pírata og aðildarfélaga ásamt rekstrarstefnu
 
 ### Svæðisfélög
 
-* [Lög Pírata í Kópavogi]({% link adildarfelog/svaedisfelog/log-pirata-i-kopavogi.md %})
+* [Lög Pírata í Kópavogi]({% link adildarfelog/svaedisfelog/log-pirata-i-kopavogi.md %}) (lög úreld)
 * [Lög Pírata á Suðurlandi]({% link adildarfelog/svaedisfelog/log-pirata-a-sudurlandi.md %})
-* [Lög Pírata í Reykjanesbæ]({% link adildarfelog/svaedisfelog/log-pirata-i-reykjanesbae.md %}) (lög úrelt)
+* [Lög Pírata í Reykjanesbæ]({% link adildarfelog/svaedisfelog/log-pirata-i-reykjanesbae.md %}) (lög úreld)
 * [Lög Pírata í Reykjavík]({% link adildarfelog/svaedisfelog/log-pirata-i-reykjavik.md %})
 
 #### Slitin svæðisfélög
