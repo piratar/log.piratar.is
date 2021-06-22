@@ -39,7 +39,7 @@ Lagasafn samanstendur af lögum Pírata og aðildarfélaga ásamt rekstrarstefnu
 
 * [Lög Pírata í Norðausturkjördæmi]({% link adildarfelog/kjordaemisfelog/log-pirata-i-nordausturkjordaemi.md %})
 * [Lög Pírata í Norðvesturkjördæmi]({% link adildarfelog/kjordaemisfelog/log-pirata-i-nordvesturkjordaemi.md %})
-* ~~[Lög Pírata í Suðurkjördæmi]({% link adildarfelog/kjordaemisfelog/log-pirata-i-sudurkjordaemi.md %})~~ (lög vantar)
+* [Lög Pírata í Suðurkjördæmi]({% link adildarfelog/kjordaemisfelog/log-pirata-i-sudurkjordaemi.md %})
 * [Lög Pírata í Suðvesturkjördæmi]({% link adildarfelog/kjordaemisfelog/log-pirata-i-sudvesturkjordaemi.md %})
 
 ### Málefnafélög
