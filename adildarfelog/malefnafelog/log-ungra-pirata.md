@@ -17,17 +17,21 @@ title: Lög Ungra Píratar
 
 ## 2. Hlutverk félagsins
 
-Tilgangur félagsins er eftirfarandi:
+2.1. Tilgangur félagsins er eftirfarandi:
 
-1. Að starfa sem aðildarfélag innan Pírata þegar kemur að málefnum ungs fólks.
-2. Að starfa á vettvöngum ungliðahreyfinga stjórnmálaflokka og annarra félaga sem ungliðahreyfing Pírata á Íslandi.
-3. Að halda sambandi og samvinnu við erlendar ungliðahreyfingar Pírata og eftir atvikum aðrar erlendar hreyfingar.
-4. Að halda sambandi og samvinnu við ungliðahreyfingar annarra stjórnmálaflokka.
-5. Að halda uppi virku félagsstarfi meðal félagsmanna sinna.
+a) Að starfa sem aðildarfélag innan Pírata þegar kemur að málefnum ungs fólks.
+
+b) Að starfa á vettvöngum ungliðahreyfinga stjórnmálaflokka og annarra félaga sem ungliðahreyfing Pírata á Íslandi.
+
+c) Að halda sambandi og samvinnu við erlendar ungliðahreyfingar Pírata og eftir atvikum aðrar erlendar hreyfingar.
+
+d) Að halda sambandi og samvinnu við ungliðahreyfingar annarra stjórnmálaflokka.
+
+e) Að halda uppi virku félagsstarfi meðal félagsmanna sinna.
 
 ## 3. Aðild að félaginu
 
-3.1. Full aðild að félaginu er opin öllum á aldrinum 13 til 35 ára.
+3.1. Full aðild að félaginu er opin öllum á aldrinum 15 til 35 ára.
 
 3.2. Aðili að félaginu gerist sjálfkrafa aðili að Pírötum.
 
@@ -43,45 +47,53 @@ Tilgangur félagsins er eftirfarandi:
 
 4.3. Stjórn skal kjósa í eftirfarandi hlutverk úr hópi stjórnarmeðlima (sbr. gr. 4.6):
 
-**a. Forseti:**
+a) Forseti:
 
-* Boðar stjórnarfundi
-* Stýrir að jafnaði stjórnarfundum, nema meirihluti stjórnar ákveði annað
-* Heldur prókúru ásamt gjaldkera
+i) boðar stjórnarfundi
 
-**b. Varaforseti/Ritari:**
+ii) stýrir að jafnaði stjórnarfundum, nema meirihluti stjórnar ákveði annað
 
-* Er staðgengill forseta
-* Skráir að jafnaði fundargerðir og heldur utan um skjöl félagsins
+iii) heldur prókúru ásamt gjaldkera
 
-**c. Gjaldkeri:**
+b) Varaforseti/Ritari:
 
-* Sér um fjármál félagsins og prókúru
-* Sér um fjárhagsáætlun
+i) er staðgengill forseta
 
-4.4. Stjórn er heimilt að skipa hvaða félagsmeðlim sem er í eftirfarandi hlutverk. Stjórn er heimilt að skipa fleiri en einn í hvert hlutverk eða skipa einstakling sem sinnir öðrum hlutverkum (sbr. Gr. 4.5 og 4.6):
+ii) skráir að jafnaði fundargerðir og heldur utan um skjöl félagsins
 
-**a. Alþjóðafulltrúi:**
+4.4. Stjórn er heimilt, en ber enga skyldu til þess, að skipa hvaða félagsmeðlim sem er í eftirfarandi hlutverk. Stjórn er heimilt að skipa fleiri en einn í hvert hlutverk eða skipa einstakling sem sinnir öðrum hlutverkum (sbr. gr. 4.5 og 4.6):
 
-* Hefur samskipti fyrir hönd Ungra Pírata við ungmennahreyfingar erlendra Pírata, og eftir atvikum aðrar erlendar hreyfingar
-* Fulltrúi Ungra Pírata á erlendum samkomum
+a) Gjaldkeri:
 
-**b. Fulltrúi til þingflokks:**
+i) Sér um fjármál félagsins og heimilar útgjöld
 
-* Mætir á þingflokksfundi samkvæmt fyrirkomulagi með þingflokki
+ii) Sér um fjárhagsáætlun
 
-**c. Viðburðastjóri:**
+b) Alþjóðafulltrúi:
 
-* Skipuleggur viðburði
-* Hefur heimild og getur veitt heimild til þess að semja við þjónustuveitendur og gera innkaup samkvæmt fyrirmælum stjórnar
+i) hefur samskipti fyrir hönd Ungra Pírata við ungmennahreyfingar
 
-**d. Stjórn er heimilt að stofna til fleiri embætta en er ekki skyldug til þess.**
+erlendra Pírata, og eftir atvikum aðrar erlendar hreyfingar
+
+ii) Fulltrúi Ungra Pírata á erlendum samkomum.
+
+c) Fulltrúi til þingflokks:
+
+i) mætir á þingflokksfundi samkvæmt fyrirkomulagi með þingflokki
+
+d) Viðburðastjóri:
+
+i) skipuleggur viðburði
+
+ii) hefur heimild og getur veitt heimild til þess að semja við þjónustuveitendur og gera innkaup samkvæmt fyrirmælum stjórnar
+
+e) Stjórn er heimilt að stofna til fleiri embætta en er ekki skyldug til þess.
 
 4.5. Á aðalfundi Ungra Pírata skal skipa stjórn félagsins. Séu fleiri en fimm félagsmenn í framboði til stjórnar skal kosið á milli þeirra. Kosning skal vera leynileg. Kosning skal fara fram með STV-kosningu, nema aðalfundur ákveði annað. Þeir fimm frambjóðendur sem verða hlutskarpastir í þeirri kosningu skipa stjórn Ungra Pírata og næstu fimm eru varamenn í þeirri stjórn.
 
-4.6. Gefi tveir meðlimir nýkjörinnar stjórnar kost á sér til formanns skal aðalfundur kjósa á milli þeirra með einfaldri meirihlutakosningu. Séu fleiri en tveir í framboði skal félagsfundur kjósa á milli þeirra með IRV (e. *instant-runoff voting*) forgangskosningu.
+4.6. Gefi tveir meðlimir nýkjörinnar stjórnar kost á sér til formanns skal aðalfundur kjósa á milli þeirra með einfaldri meirihlutakosningu. Séu fleiri en tveir í framboði skal félagsfundur kjósa á milli þeirra með IRV-forgangskosningu (e. *instantrun-off*).
 
-4.8. Stjórn félagsins skal, innan mánaðar frá aðalfundi hvert ár, skila Pírötum fundargerð aðalfundar, ársskýrslu og bókhaldsgögnum síðastliðins árs til framkvæmdaráðs Pírata.
+4.7. Stjórn félagsins skal, innan mánaðar frá aðalfundi hvert ár, skila Pírötum fundargerð aðalfundar, ársskýrslu og bókhaldsgögnum síðastliðins árs til framkvæmdaráðs Pírata.
 
 ## 5. Aðalfundur
 
@@ -93,13 +105,17 @@ Tilgangur félagsins er eftirfarandi:
 
 5.4. Dagskrá aðalfundar skal vera sem hér segir:
 
-1. Kosning fundarstjóra og fundarritara
-2. Skýrsla stjórnar lögð fram
-3. Reikningar lagðir fram til samþykktar
-4. Lagabreytingar
-5. Kosning stjórnar
-6. Kosning tveggja skoðunarmanna reikninga
-7. Önnur mál
+i. Kosning fundarstjóra og fundarritara
+
+ii. Skýrsla stjórnar lögð fram
+
+iii. Reikningar lagðir fram til samþykktar
+
+iv. Lagabreytingar
+
+v. Kosning stjórnar
+
+vi. Önnur mál
 
 5.5. Stjórn félagsins getur ákveðið að boða til aukaaðalfundar. Um aukaaðalfund gilda ákvæði greina 5.2. og 5.3., en dagskrá hans getur brugðið út frá ákvæðum greinar 5.4.
 
@@ -117,7 +133,7 @@ Tilgangur félagsins er eftirfarandi:
 
 6.4. Atkvæðarétt innan rafræns kosningakerfis Pírata hafa þeir félagar í Ungum Pírötum sem jafnframt hafa verið félagar í Pírötum í að minnsta kosti 30 daga samfellt.
 
-6.5. Stefnu má ákveða með einföldum meirihluta í gegnum rafrænt kosningakerfi Pírata, eftir að hún hefur verið lögð fyrir félagsfund Ungra Pírata og samþykkt þaðan inn í kosningakerfið, sbr. greinar 6.7. og 6.8..
+6.5. Stefnu má ákveða með einföldum meirihluta í gegnum rafrænt kosningakerfi Pírata, eftir að hún hefur verið lögð fyrir félagsfund Ungra Pírata og samþykkt þaðan inn í kosningakerfið, sbr. greinar 6.7. og 6.8.
 
 6.6. Stefna Ungra Pírata skal alltaf rökstudd með tilvísun í grunnstefnu Pírata, fyrri stefnu Pírata og/eða fyrri stefnu Ungra Pírata. Stefnur Pírata skulu einnig hafa gildi sem stefna félagsins nema samþykkt hafi verið stefna Ungra Pírata í sama málaflokki, sem gildir þá ofar stefnu Pírata í þeim málaflokki.
 
@@ -147,17 +163,11 @@ Tilgangur félagsins er eftirfarandi:
 
 ## 9. Fjármál
 
-9.1. Gjaldkeri og forseti félagsins eru prókúruhafar þess og fara með fjárreiður þess í samráð við stjórn félagsins en stjórn hefur endanlegt ákvörðunarvald.
+9.1. Gjaldkeri og formaður félagsins fara með fjárreiður þess í samráði við stjórn félagsins en stjórn hefur endanlegt ákvörðunarvald.
 
 9.2. Gjaldkeri félagsins hefur heimild fyrir fjárútlátum að hámarki 10.000 krónum. Hærri fjárútlát þurfa samþykki meirihluta stjórnarmanna.
 
-9.3. Gjaldkeri skal halda utan um kvittanir af öllum fjárútlátum félagsins þar sem kemur fram sundurliðun einstakra útgjaldaliða. Sé kvittun ekki fáanleg skulu útskýringar á því færðar til bókar í fundargerð á stjórnarfundi. Skoðunarmönnum reikninga skal veittur aðgangur að kvittunum jafnóðum.
-
-9.4. Félaginu er heimilt að safna og taka á móti styrkjum, ásamt því að stunda sölu á vörum og þjónustu eftir því sem landslög leyfa.
-
-9.5. Rekstrarafgangur/hagnaður af starfsemi félagsins í lok starfstímabils skal fluttur óskertur til þess næsta.
-
-9.6. Stjórn er óheimilt að skilja við félagið í halla/skuld.
+9.3. Gjaldkeri eða forseti skal halda utan um kvittanir af öllum fjárútlátum félagsins þar sem kemur fram sundurliðun einstakra útgjaldaliða. Sé kvittun ekki fáanleg skulu útskýringar á því færðar til bókar í fundargerð á stjórnarfundi. Skoðunarmönnum reikninga skal veittur aðgangur að kvittunum jafnóðum.
 
 ## 10. Félagsdeildir Ungra Pírata
 
@@ -169,12 +179,14 @@ Tilgangur félagsins er eftirfarandi:
 
 10.4. Lög Ungra Pírata gilda einnig fyrir félagsdeildir.
 
-10.5. Félagsmenn félagsdeilda eru einnig félagsmenn Ungra Pírata og skal skráningin fara fram í gegnum skráningarkerfi Pírata.
-
-10.6. Félagsdeildir skulu kjósa stjórn á stofnfundi og svo á aðalfundi félagsdeildar ár hvert.
+10.5. Félagsdeildir skulu kjósa stjórn á stofnfundi og svo á aðalfundi félagsdeildar ár hvert.
 
 ## 11. Slit félagsins
 
 11.1. Á félagsfundi skv. 7. kafla eða aðalfundi eða aukaaðalfundi skv. 5. kafla má bera upp tillögu um slit félagsins. Hún skal eingöngu afgreidd hafi hún verið tilkynnt í fundarboði. Samþykki ⅔ hlutar viðstaddra félagsmanna tillöguna skal kosið um hana í rafrænu kosningakerfi Pírata í 7 sólarhringa, þar sem ⅔ hlutagreiddra atkvæða félagsmanna Ungra Pírata þarf til að slitin skoðist samþykkt.
 
 11.2. Við slit félagsins skulu eignir þess, ef þeim er að dreifa, renna til Pírata.
+
+## 12. Ýmis ákvæði
+
+12.1. Lög þessi öðlast þegar gildi.
