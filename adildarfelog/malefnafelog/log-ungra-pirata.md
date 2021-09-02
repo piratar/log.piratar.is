@@ -71,9 +71,7 @@ ii) Sér um fjárhagsáætlun
 
 b) Alþjóðafulltrúi:
 
-i) hefur samskipti fyrir hönd Ungra Pírata við ungmennahreyfingar
-
-erlendra Pírata, og eftir atvikum aðrar erlendar hreyfingar
+i) hefur samskipti fyrir hönd Ungra Pírata við ungmennahreyfingar erlendra Pírata, og eftir atvikum aðrar erlendar hreyfingar
 
 ii) Fulltrúi Ungra Pírata á erlendum samkomum.
 
