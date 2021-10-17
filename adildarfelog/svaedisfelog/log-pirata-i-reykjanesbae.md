@@ -1,23 +1,21 @@
 ---
 layout: default
-title: Lög Pírata á Suðurnesjum
+title: Lög Pírata í Reykjanesbæ
 ---
 
 [Lagasafn Pírata]({% link index.markdown %}) \| [[Skráning í fyrirtækjaskrá]](https://skatturinn.is/fyrirtaekjaskra/leit/kennitala/4403141120)
 
 ***
 
-# Lög Pírata á Suðurnesjum
-
-[Lög eru úreld. Félag heitir nú Píratar í Reykjanesbæ.]
+# Lög Pírata í Reykjanesbæ
 
 ## 1. Heiti félagsins
 
-1.1. Heiti félagsins er Píratar á Suðurnesjum (sveitarfélögin Garður, Grindavíkurbær, Reykjanesbær, Sandgerðisbær og Vogar). Aðsetur þess og varnarþing er í Reykjanesbæ.
+1.1. Heiti félagsins er Píratar í Reykjanesbæ. Aðsetur þess og varnarþing er í Reykjanesbæ.
 
 ## 2. Hlutverk félagsins
 
-2.1. Félagið er aðildarfélag Pírata. Starfssvæði þess eru Suðurnes.
+2.1. Félagið er aðildarfélag Pírata. Starfssvæði þess er Reykjanesbær.
 
 2.2. Félagið setur sér stefnu í opnu ferli og vinnur að framgangi hennar með öllum þeim aðferðum sem því standa til boða. Félaginu er heimilt að stuðla að og taka þátt í framboði til sveitarstjórnarkosninga innan starfssvæðis síns og alþingiskosninga í Suðurkjördæmi í samstarfi við önnur aðildarfélög í kjördæminu.
 
@@ -33,15 +31,15 @@ title: Lög Pírata á Suðurnesjum
 
 4.1. Stjórn félagsins annast almenna stjórn og rekstur þess. Hún, ásamt félagsfundum skv. 7. kafla, fer með málefni félagsins milli aðalfunda. Firmaritun er í höndum meirihluta stjórnar.
 
-4.2. Í stjórn félagsins sitja fimm manns. Formaður stjórnar eða meirihluti stjórnarmeðlima geta boðað til stjórnarfunda.
+4.2. Í stjórn félagsins sitja fimm manns. Formaður stjórnar eða meirihluti stjórnarmeðlima geta boðað til funda.
 
-4.3. Kjörgengur til stjórnar félagsins er hver sá aðili sem skráður er í félagið, uppfyllir samþykktar siðareglur og gegnir ekki kjörnum embættum til sveitarstjórnar eða á Alþingi. Siðareglur skulu samþykktar með meirihluta atkvæða á löglega boðuðum fundi félagsins eða með atkvæðagreiðslu í vefatkvæðagreiðslu.
+4.3. Stjórn félagsins skal kosin í vefkosningu sem fer fram fyrir aðalfund. Vefkosningin skal gefa niðurstöðu um fimm manna stjórn og uppröðun allt að fimm varmanna. Stjórnin skiptir með sér verkum. Stjórn og varamenn má einnig kjósa á aðalfundi sé niðurstaða vefkosningar ekki til staðar.
 
-4.4. Stjórn félagsins skal kosin í vefkosningu sem fer fram fyrir aðalfund. Vefkosningin skal gefa niðurstöðu um fimm manna stjórn og uppröðun fimm varamanna. Stjórnin skiptir með sér verkum. Stjórn og varamenn má einnig kjósa á aðalfundi sé niðurstaða vefkosningar ekki til staðar.
+4.4. Missi stjórnarmeðlimur kjörgengi í stjórn félagsins á meðan kjörtímabilinu stendur skal hann víkja tímabundið úr henni þar til hann öðlast aftur kjörgengi og skal varamaður koma í hans stað. Varamaðurinn skal öðlast þau réttindi sem aðalmaður fékk við sitt kjör.
 
-4.5. Missi stjórnarmeðlimur kjörgengi í stjórn félagsins á meðan kjörtímabilinu stendur skal hann víkja tímabundið úr henni þar til hann öðlast aftur kjörgengi og skal varamaður koma í hans stað. Varamaðurinn skal öðlast þau réttindi sem aðalmaður fékk við sitt kjör. Varamenn þeirra sem eru í kjörnum embættum eru kjörgengir í stjórn félagsins. En víkja frá þann tíma sem þeir taka við kjörnum embættum.
+4.5. Séu færri en þrír stjórnarmeðlimir með kjörgengi skal boða til aukaaðalfundar eins fljótt og mögulegt er og kjósa í stjórn að nýju. Séu aðalfundargestir ekki kjörgengir má kjósa þá í stjórn með fyrirvara um að þeir skrái sig í félagið á aðalfundinum og hefja formleg stjórnarstörf eftir mánuð.
 
-4.6. Séu færri en þrír stjórnarmeðlimir með kjörgengi skal boða til aukaaðalfundar eins fljótt og mögulegt er og kjósa í stjórn að nýju. Séu aðalfundargestir ekki kjörgengir má kjósa þá í stjórn með fyrirvara um að þeir skrái sig í félagið á aðalfundinum og hefja formleg stjórnarstörf eftir mánuð.
+4.6. Kjörgengur til stjórnar félagsins er hver sá aðili sem skráður er í félagið og gegnir ekki kjörnum embættum til sveitarstjórnar eða á Alþingi.
 
 4.7. Formenn og ritarar deilda hafa áheyrnaraðild og tillögurétt á stjórnarfundum félagsins.
 
@@ -95,7 +93,7 @@ title: Lög Pírata á Suðurnesjum
 
 ## 7. Félagsfundur
 
-7.1. Boða má til funda sem kallast félagsfundur í lögum þessum. Þeir skulu tilkynntir öllum skráðum aðilum félagsins með 7 sólarhringa fyrirvara á rafrænum vettvangi Pírata á Suðurnesjum. Í tilkynningunni skal standa hvar og hvenær fundur skal haldinn. Stjórn er skylt að boða til félagsfundar samkvæmt skriflegri beiðni fimm eða fleiri félaga og taka fram á fundarboði dagskrárefni það sem þeir félagar vilja að rætt sé um.
+7.1. Boða má til funda sem kallast félagsfundur í lögum þessum og varðar málefni Suðurnesja. Þeir skulu tilkynntir öllum aðilum félagsins með 7 sólarhringa fyrirvara á opinberum rafrænum vettvangi Pírata á Suðurnesjum. Í tilkynningunni skal standa hvar og hvenær fundur skal haldinn. Stjórn er skylt að boða til félagsfundar samkvæmt skriflegri beiðni fimm eða fleiri félaga og taka fram á fundarboði dagskrárefni það sem þeir félagar vilja að rætt sé um.
 
 7.2. Félagsfundi má eingöngu halda á starfssvæði félagsins nema brýn nauðsyn krefjist að félagsfundur fari fram utan þess.
 
@@ -131,7 +129,9 @@ title: Lög Pírata á Suðurnesjum
 
 9.1. Ágreining um túlkun laga þessara og grunnstefnu Pírata má bera undir úrskurðarnefnd Pírata. Um starfshætti úrskurðarnefndar Pírata fer eftir hennar eigin reglum sem og lögum Pírata og grunnstefnu. Til hennar má einnig áfrýja ákvörðunum fundarstjóra og stjórnar félagsins er varðar formskilyrði.
 
-9.2. Ágreiningi um formskilyrði atkvæðagreiðslu skal komið á framfæri innan þriggja sólarhringa frá því hún fór fram eða frá því niðurstaða hennar ætti að verið tilkynnt kvartanda, hvort sem kemur síðar. Hafi kvartandi ekki verið á fundinum þar sem niðurstaðan varð ljós skal miða við frá og með þeim tíma sem tilkynningin ætti að hafa borist til hans, bréfleiðis eða rafrænt, hafi niðurstaðan verið tilkynnt með þeim hætti. 9.3. Sé misræmi milli þessara laga og laga Pírata skulu lög Pírata gilda.
+9.2. Ágreiningi um formskilyrði atkvæðagreiðslu skal komið á framfæri innan þriggja sólarhringa frá því hún fór fram eða frá því niðurstaða hennar ætti að verið tilkynnt kvartanda, hvort sem kemur síðar. Hafi kvartandi ekki verið á fundinum þar sem niðurstaðan varð ljós skal miða við frá og með þeim tíma sem tilkynningin ætti að hafa borist til hans, bréfleiðis eða rafrænt, hafi niðurstaðan verið tilkynnt með þeim hætti.
+
+9.3. Sé misræmi milli þessara laga og laga Pírata skulu lög Pírata gilda.
 
 ## 10. Innkoma og rekstraratriði
 
