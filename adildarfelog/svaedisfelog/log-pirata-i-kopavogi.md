@@ -9,8 +9,6 @@ title: Lög Pírata í Kópavogi
 
 # Lög Pírata í Kópavogi
 
-[Lög eru úreld.]
-
 ## 1. Heiti félagsins
 
 1.1. Heiti félagsins er Píratar í Kópavogi. Aðsetur þess og varnarþing er í Kópavogi.
