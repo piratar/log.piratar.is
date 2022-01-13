@@ -25,7 +25,7 @@ title: Lög Pírata
 
 ## 3. Félagsmenn
 
-3.1. Hver sem er 16 ára á árinu eða eldri getur fengið fulla aðild að félaginu.
+3.1. Hver sem er 15 ára á árinu eða eldri getur fengið fulla aðild að félaginu.
 
 3.2. Félagatal skal teljast til viðkvæmra persónuupplýsinga og skal meðhöndlun þess vera í samræmi við landslög. Aðildarfélög skulu eiga rétt á afriti af félagatali sínu gegn undirritun lagalega bindandi yfirlýsingar af hálfu stjórnarmanna þess um að það verði einvörðungu notað vegna starfa innan aðildarfélagsins í samræmi við lög þessi og landslög. Framkvæmdastjórn er þó rétt og skylt að sjá til þess að listi yfir trúnaðarmenn félagsins og aðildarfélaga sé aðgengilegur almenningi.
 
@@ -42,6 +42,8 @@ title: Lög Pírata
 3.8. Eingöngu félagsmenn mega gegna trúnaðarstöðum innan félagsins og aðildarfélaga. Nú hefur félagsmaður sagt sig úr Pírötum og fellur þá umboð hans til að gegna trúnaðarstöðum innan Pírata og aðildarfélaga þess sjálfkrafa úr gildi. Sama gildir ef félagsmaður gegnir á sama tíma, samkvæmt hans samþykki, trúnaðarstöðum hjá öðrum stjórnmálaflokki. Til trúnaðarstaða telst seta í stjórnum, nefndum, ráðum eða aðrar stöður þar sem einstaklingi er treyst, stöðu sinnar vegna, fyrir upplýsingum og/eða ákvarðanatöku sem er ekki í boði fyrir almenna félagsmenn þess sama félags. Framangreind umboð falla ekki sjálfkrafa niður ef félagið er bersýnilega stofnað í þeim tilgangi að gerast aðildarfélag Pírata og tekst það innan fjögurra mánaða frá stofnun þess. Aðildarfélög skulu sjá til þess að framkvæmdastjórn sé upplýst um það hvaða trúnaðarstöður eru hjá því og hverjir gegna þeim.
 
 3.9. Launað starfsfólk félagsins er undanþegið kröfu um félagsaðild. Allt starfsfólk félagsins skal skrifa undir trúnaðaryfirlýsingu.
+
+3.10. Allt starf Pírata skal vera laust við mismunun, einelti, áreitni, þar á meðal kynferðislega áreitni og kynbundna áreitni, og ofbeldi, og er slíkt framferði brotlegt. Félagsmenn samþykkja í þeim tilgangi verklagsreglur sem gilda fyrir félagið og aðildarfélög þess.
 
 ## 4. Aðalfundur
 
@@ -247,6 +249,8 @@ Framkvæmdastjórn velur sjálf einnig gjaldkera og ritara.
 
 8.a.7. Skipunartími fulltrúa í trúnaðarráði skal vera eitt ár.
 
+8.a.8. Trúnaðarráðsfulltrúar eru bundnir skilyrðislausum trúnaði í störfum sínum að undanskildum staðfestingu eða rökstuddum grun um tilvonandi háska einstaklinga og/eða verið skyldugir að veita upplýsingar samkvæmt landslögum.
+
 ## 9. Starfsmenn
 
 9.1. Framkvæmdastjóra er eingöngu heimilt að ráða starfsfólk að undangenginni auglýsingu um stöðuna, þar sem fram kemur starfslýsing og þær kröfur sem gerðar eru til starfsfólksins.
@@ -305,70 +309,71 @@ Framkvæmdastjórn velur sjálf einnig gjaldkera og ritara.
 
 11.8. Aðildarfélögum skal heimilt að kveða á um í lögum sínum að kjörstjórn Pírata hafi yfirumsjón með persónukjöri á vegum aðildarfélagsins. Sé heimildin nýtt skal kjörstjórn Pírata þá taka að sér það hlutverk í samræmi við lög aðildarfélagsins. Nú er kosningarferli innan aðildarfélags í gangi þegar ný kjörstjórn Pírata er valin og skal hún þá taka við framkvæmd þeirra kosninga sem í gangi eru ásamt þeim gögnum er fyrri kjörstjórn höfðu borist.
 
-## 12. Fjármál
+## 12. Ungir Píratar
+
+12.1 Ungir Píratar eru sjálfstætt aðildarfélag, rekið sem deild innan Pírata með
+eigin lög og bankareikning, en ekki eigin kennitölu.
+
+## 13. Fjármál
 
 13.1. Bókhaldsár félagsins er almanaksárið.
 
-12.2. Félagið skal lúta lögum um fjármál stjórnmálasamtaka og frambjóðenda og um upplýsingaskyldu þeirra.
+13.2. Félagið skal lúta lögum um fjármál stjórnmálasamtaka og frambjóðenda og um upplýsingaskyldu þeirra.
 
-12.3. Bókhald félagsins skal vera opið almenningi á vefsíðu félagsins. Það skal uppfært jafn óðum, með fyrirvara um villur og samþykki aðalfundar.
+13.3. Bókhald félagsins skal vera opið almenningi á vefsíðu félagsins. Það skal uppfært jafn óðum, með fyrirvara um villur og samþykki aðalfundar.
 
-12.4. Samþykktir ársreikningar skulu liggja fyrir á vefsíðu félagsins.
+13.4. Samþykktir ársreikningar skulu liggja fyrir á vefsíðu félagsins.
 
-12.5. Innkaup, aðgerðir og verkefni skulu framkvæmd með það í huga að þau skilji eftir eins lítil umhverfis og náttúruspjöll og kostur er, skal það haft í huga við samþykkt reikninga.
+13.5. Innkaup, aðgerðir og verkefni skulu framkvæmd með það í huga að þau skilji eftir eins lítil umhverfis og náttúruspjöll og kostur er, skal það haft í huga við samþykkt reikninga.
 
-12.6. Félaginu er eingöngu heimilt að taka lán fyrir rekstri og öðrum útgjöldum félagsins ef áætlaðar tekjur eru fyrirsjáanlegar og öruggar. Engin lán sem binda félagið mega fara fram án samþykkis fjármálaráðs.
+13.6. Félaginu er eingöngu heimilt að taka lán fyrir rekstri og öðrum útgjöldum félagsins ef áætlaðar tekjur eru fyrirsjáanlegar og öruggar. Engin lán sem binda félagið mega fara fram án samþykkis fjármálaráðs.
 
-12.7. Félaginu er ekki heimilt að lána öðrum lögaðilum fé.
+13.7. Félaginu er ekki heimilt að lána öðrum lögaðilum fé.
 
-12.8. Fé sem situr eftir í sjóðum eftir bókhaldsárið skal renna í sjóð næsta árs.
+13.8. Fé sem situr eftir í sjóðum eftir bókhaldsárið skal renna í sjóð næsta árs.
 
-## 13. Þátttaka í kosningum
+## 14. Þátttaka í kosningum
 
-13.1. Þátttaka í kosningum er á ábyrgð aðildarfélaga á kjörsvæði. Ábyrgðaraðila ber að setja skýrar reglur um framboð Pírata.
+14.1. Þátttaka í kosningum er á ábyrgð aðildarfélaga á kjörsvæði. Ábyrgðaraðila ber að setja skýrar reglur um framboð Pírata.
 
 Hafi aðildarfélögum innan kjördæmis til Alþingiskosninga ekki komist saman um annað skal starfa kjördæmisráð skipað einum fulltrúa fyrir hvert sveitarfélag þar sem Píratar hafa starfsemi. Kjördæmisráð, sé það starfandi, ber alfarið ábyrgð á þátttöku Pírata í kosningum til Alþingis innan kjördæmis síns.
 
 Starfi engin aðildarfélög innan kjördæmis til alþingiskosninga er framkvæmdastjórn í samráði stefnu- og málefnanefnd heimilt að standa fyrir kjöri á lista fyrir það kjördæmi. Skulu allir félagsmenn Pírata hafa kosningarétt í slíku kjöri. Þeir sem raðast í fimm efstu sæti listans bera ábyrgð á þátttöku hans í kosningum.
 
-13.2. Stefnu- og málefnanefnd annast samræmingu kosningabaráttu á landsvísu í samráði við aðildarfélögin. Stefnu- og málefnanefnd er heimilt að útbúa kosningastefnuskrá fyrir Alþingiskosningar út frá samþykktri stefnu.
+14.2. Stefnu- og málefnanefnd annast samræmingu kosningabaráttu á landsvísu í samráði við aðildarfélögin. Stefnu- og málefnanefnd er heimilt að útbúa kosningastefnuskrá fyrir Alþingiskosningar út frá samþykktri stefnu.
 
-13.3. Heimilt er að stofna til kosningabandalags við Alþingiskosningar. Aðildarfélögum er heimilt að veita samskonar heimild í lögum sínum hvað varðar sveitarstjórnarkosningar.
+14.3. Heimilt er að stofna til kosningabandalags við Alþingiskosningar. Aðildarfélögum er heimilt að veita samskonar heimild í lögum sínum hvað varðar sveitarstjórnarkosningar.
 
-13.4. Allir félagsmenn, sem kjörgengir eru til þeirra kosninga sem um ræðir, geta gefið kost á sér á framboðslista.
+14.4. Allir félagsmenn, sem kjörgengir eru til þeirra kosninga sem um ræðir, geta gefið kost á sér á framboðslista.
 
-13.5. Raða skal á framboðslista samkvæmt úrslitum forgangskosningar með Schulze-aðferð. Þó skal frambjóðendum heimilt að víkja sæti og taka lægra sæti á lista en kjör hans segir til um, og færast þá aðrir frambjóðendur ofar á lista. Starfsmanni er ekki heimilt að taka fyrsta eða annað sæti. Hafni frambjóðandi sæti eða geti af öðrum sökum ekki tekið því skal afmá nafn hans af listanum og færa þá sem á eftir koma upp um eitt sæti. Nægi fjöldi frambjóðenda að þessum breytingum loknum ekki lögbundnu lágmarki fyrir fullskipaðan framboðslista er ábyrgðaraðila listans heimilt að bæta nöfnum þeirra sem það samþykkja í sæti á eftir þeim sem kjörnir hafa verið á framboðslistann.
+14.5. Raða skal á framboðslista samkvæmt úrslitum forgangskosningar með Schulze-aðferð. Þó skal frambjóðendum heimilt að víkja sæti og taka lægra sæti á lista en kjör hans segir til um, og færast þá aðrir frambjóðendur ofar á lista. Starfsmanni er ekki heimilt að taka fyrsta eða annað sæti. Hafni frambjóðandi sæti eða geti af öðrum sökum ekki tekið því skal afmá nafn hans af listanum og færa þá sem á eftir koma upp um eitt sæti. Nægi fjöldi frambjóðenda að þessum breytingum loknum ekki lögbundnu lágmarki fyrir fullskipaðan framboðslista er ábyrgðaraðila listans heimilt að bæta nöfnum þeirra sem það samþykkja í sæti á eftir þeim sem kjörnir hafa verið á framboðslistann.
 
 Þrátt fyrir fyrstu málsgrein skal ábyrgðaraðilum tveggja eða fleiri kjördæma heimilt að halda sameiginlega framboðslistakosningu fyrir kjördæmi sín. Skal þá raðað á framboðslista kjördæmanna þannig að frambjóðendum sameiginlegu kosningarinnar sé dreift á framboðslistana í sem mestu samræmi við úrslit þeirra.
 
-13.6 Ábyrgðaraðila er heimilt að setja frekari reglur um framkvæmd kjörs á framboðslista. Í slíkum reglum er heimilt að kveða á um skilyrði atkvæðisréttar í kosningu á framboðslista.
+14.6 Ábyrgðaraðila er heimilt að setja frekari reglur um framkvæmd kjörs á framboðslista. Í slíkum reglum er heimilt að kveða á um skilyrði atkvæðisréttar í kosningu á framboðslista.
 Félagsmaður, sem getur sýnt fram á að hann muni að óbreyttu hafa kosningarrétt við Alþingiskosningar, skal ætíð hafa atkvæðisrétt í kosningum á framboðslista í kjördæmi sínu. Þó má gera kröfu um að félagsmaður hafi verið skráður um ákveðið tímabil áður en kosning fer fram.
 
-13.7. Framkvæmdastjórn skal sjá til þess að kynningarferli á þeim sem gefa kost á sér á framboðslista endurspegli sem best gagnrýna hugsun og vel upplýstar ákvarðanir.
+14.7. Framkvæmdastjórn skal sjá til þess að kynningarferli á þeim sem gefa kost á sér á framboðslista endurspegli sem best gagnrýna hugsun og vel upplýstar ákvarðanir.
 
-## 14. Störf þingflokks og annarra kjörinna fulltrúa
+## 15. Störf þingflokks og annarra kjörinna fulltrúa
 
-14.1. Þingmenn Pírata skulu starfa í þágu alls félagsins. Þingmönnum ber ekki aðeins að taka tillit til stefnu heildarfélagsins, heldur einnig til stefnu aðildarfélaga sem málin varða.
+15.1. Þingmenn Pírata skulu starfa í þágu alls félagsins. Þingmönnum ber ekki aðeins að taka tillit til stefnu heildarfélagsins, heldur einnig til stefnu aðildarfélaga sem málin varða.
 Sveitarstjórnarfulltrúar skulu starfa í þágu þess svæðisbundna aðildarfélags sem starfar í sveitarfélagi þeirra. Svæðisbundin aðildarfélög skilgreina með hvaða hætti sveitarstjórnarfulltrúar eiga að taka mið af stefnumálum félagsins. Stefna heildarfélagsins skal aðeins geta talist leggja skyldur á sveitarstjórnarfulltrúa ef engin stefna aðildarfélags fjallar um málefnið.
 
-14.2. Haldi þingflokkur eða sveitarstjórnarflokkur lokaðan fund hefur hann tilkynningarskyldu til félagsmanna um efni fundarins og ástæður fyrir lokun.
+15.2. Haldi þingflokkur eða sveitarstjórnarflokkur lokaðan fund hefur hann tilkynningarskyldu til félagsmanna um efni fundarins og ástæður fyrir lokun.
 
-14.3. Fulltrúar í þingflokkum og sveitarstjórnarflokkum skiptast á að gegna þeim embættum sem skylt er að þau taki sér, eigi lengur en til árs í senn.
+15.3. Fulltrúar í þingflokkum og sveitarstjórnarflokkum skiptast á að gegna þeim embættum sem skylt er að þau taki sér, eigi lengur en til árs í senn.
 
-14.4. Tilheyri þingflokkur minni hluta á Alþingi og geti ekki fengið aðstoðarmann til starfa á þinginu nema með því að hafa formann, skal einn þingmaður gegna embætti formanns félagsins, eitt þing í senn. Skal hann slembivalinn eftir þingkosningar, en gangi það í keðju þar eftir. Hann hafi ekki aukin pólitísk völd og afþakki formannsálag á þingfararkaup. Þingflokksformaður getur ekki einnig verið formaður félagsins.
+15.4. Tilheyri þingflokkur minni hluta á Alþingi og geti ekki fengið aðstoðarmann til starfa á þinginu nema með því að hafa formann, skal einn þingmaður gegna embætti formanns félagsins, eitt þing í senn. Skal hann slembivalinn eftir þingkosningar, en gangi það í keðju þar eftir. Hann hafi ekki aukin pólitísk völd og afþakki formannsálag á þingfararkaup. Þingflokksformaður getur ekki einnig verið formaður félagsins.
 
-14.5. Aðstoðarmenn þingflokka eða sveitarstjórnarflokka skulu að jafnaði starfa fyrir flokkinn sem heild.
+15.5. Aðstoðarmenn þingflokka eða sveitarstjórnarflokka skulu að jafnaði starfa fyrir flokkinn sem heild.
 
-## 15. Félagsslit
+## 16. Félagsslit
 
-15.1. Félagsslit geta aðeins farið fram sé tillaga um slíkt á auglýstri dagskrá löglegs aðalfundar og samþykkt með ¾ hluta fundarmanna.
+16.1. Félagsslit geta aðeins farið fram sé tillaga um slíkt á auglýstri dagskrá löglegs aðalfundar og samþykkt með ¾ hluta fundarmanna.
 
-15.2. Við félagsslit skal ráðstafa eða skipta eignum félagsins í samræmi við tilgang þess og grunnstefnu.
+16.2. Við félagsslit skal ráðstafa eða skipta eignum félagsins í samræmi við tilgang þess og grunnstefnu.
 
-## Ákvæði til bráðabirgða – 2020
 
-Við samþykkt þessarar tillögu skal boða til auka-aðalfundar þar sem fram fari kjör í framkvæmdastjórn, stefnu- og málefnanefnd og fjármálaráð. Við fyrsta kjör skal velja í framkvæmdastjórn og fjármálaráð tvo fulltrúa til tveggja ára en einn til eins árs. Í stefnu- og málefnanefnd skal velja þrjá fulltrúa til tveggja ára og tvo til eins árs.
-
-Skipan í framkvæmdaráð helst þangað til að kosning á auka-aðalfundi er yfirstaðin og verkefnum framkvæmdaráðs hefur verið réttilega komið til þeirra sem taka við þeim.
-
-Lög þessi eru byggð á samþykktum lögum Pírata í kosningakerfi Pírata. Ef um misræmi milli útgáfa af lögum er að ræða þá ræður textinn úr samþykktum lögum í kosningakerfinu: innra skipulag á x.piratar.is þó með fyrirvara um að númeraröð lagagreina hefur riðlast vegna viðbóta við lögin.
+---
+Lög þessi eru byggð á samþykktum lögum Pírata í kosningakerfi Pírata. Ef um misræmi milli útgáfa af lögum er að ræða þá ræður textinn úr samþykktum lögum í kosningakerfinu: innra skipulag á x.piratar.is þó með fyrirvara um að númeraröð lagagreina hefur riðlast vegna viðbóta við lögin
