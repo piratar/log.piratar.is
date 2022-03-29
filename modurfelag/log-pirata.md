@@ -103,7 +103,7 @@ title: Lög Pírata
 
 ## 6. Lög og stefnumál
 
-6.1. Lög þessi eru öll lög félagsins, en þeim má aðeins breyta með 2/3 meirihluta greiddra atkvæða félagsmanna í kosningakerfi flokksins.
+6.1. Lög þessi eru öll lög félagsins, en þeim má aðeins breyta með ⅔ meirihluta greiddra atkvæða félagsmanna í kosningakerfi flokksins.
 
 6.2. Samfara þessum lögum skal vera grunnstefnuskjal félagsins. Gilda sömu reglur um breytingar á grunnstefnu og á lögum.
 
