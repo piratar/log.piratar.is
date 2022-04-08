@@ -19,7 +19,7 @@ Einnig notum við tengiliðaupplýsingar í félagatalinu til að tilkynna aðal
 
 ## Hvaða persónuupplýsingar eru í félagatalinu?
 
-Við geymum persónuupplýsingar um þig sem þú gefur upp þegar þú skráir þig í félagið. Það er nafn, kennitala, netfang og aðildarfélag sem þú ákveður að skrá þig í.
+Við geymum persónuupplýsingar um þig sem þú gefur upp þegar þú skráir þig í félagið. Það er nafn, kennitala, netfang, heimilisfang, símanúmer og aðildarfélag sem þú ákveður að skrá þig í.
 
 **Nafn:** Þú getur skráð þig með hvaða nafni sem er. Það mun samt uppfærast þegar við samkeyrum félagatalið við Þjóðskrá.
 
@@ -29,9 +29,13 @@ Við geymum persónuupplýsingar um þig sem þú gefur upp þegar þú skráir 
 
 **Heimilisfang:** Í einhverjum tilvikum gætum við haft samband við þig með bréfapósti. Við höfum þó oftast samskipti við félaga okkar með rafrænum hætti.
 
+**Símanúmer:** Við gætum hringt í þig til að upplýsa þig um starfsemi félagsins, til dæmis í tengslum við aðalfund og kosningabaráttu; til þess að upplýsa þig um sjálfboðaliðaverkefni, minna þig á kjördag o.sv.frv.*
+
 **Aðildarfélag:** Það er misjafnt hvernig þátttöku í prófkjörum er háttað hjá okkur. Stundum er þátttaka í prófkjöri í tilteknu kjördæmi bundin við skráningu í aðildarfélag þess kjördæmis. Í þeim tilfellum þurfum við að takmarka kosningarétt í prófkjörinu út frá skráðu aðildarfélagi.
 
 Skráning í félög og skoðanafrelsi eru þín réttindi sem eru vernduð af Stjórnarskrá Íslands og öðrum alþjóðasáttmálum. Af því leiðir að persónuupplýsingar í félagatali teljast til viðkvæmra persónuupplýsingar. Píratar gera sér grein fyrir þessu og leggja sig fram við að virða friðhelgi einkalífs og tryggja öryggi þessara upplýsinga.
+
+*Þú ræður hvort símanúmerið þitt sé skráð í félagatalið. Við gætum nýtt heimild skv. 2.gr. laga 162/2006 um stjórnmálasamtök til að fletta upp símanúmerinu þínu í skrám sem eru opinberar. Við munum þó ekki vista símanúmerið þitt í félagatalinu nema með þínu leyfi.
 
 ## Hverjir hafa aðgang að félagatalinu?
 
@@ -53,7 +57,7 @@ Við munum aldrei birta opinberlega upplýsingar úr félagatalinu.
 
 ## Ég vil ekki vera í félagatalinu
 
-Þær upplýsingar sem þú veitir okkur til að skrá þig í félagið byggja á því að þú gefur okkur þitt samþykki fyrir því að halda utan um þær. Viljir þú segja þig úr félaginu getur þú haft samband við okkur framkvaemdarad@piratar.is. Þegar þú segir þig úr félaginu þá eyðum við upplýsingum um þig úr félagatalinu.
+Þær upplýsingar sem þú veitir okkur til að skrá þig í félagið byggja á því að þú gefur okkur þitt samþykki fyrir því að halda utan um þær. Viljir þú segja þig úr félaginu getur þú haft samband við okkur piratar@piratar.is. Þegar þú segir þig úr félaginu þá eyðum við upplýsingum um þig úr félagatalinu.
 
 ## Endurskoðun
 
@@ -63,7 +67,7 @@ Framkvæmdaráð Pírata og framkvæmdastjóri bera sameiginlega ábyrgð á end
 
 Allar breytingar sem kunna að verða gerðar á stefnunni taka gildi eftir að uppfærð útgáfa hefur verið birt á heimasíðu Pírata (piratar.is).
 
-Þessi persónuverndarstefna var uppfærð þann 1. ágúst 2019.
+Þessi persónuverndarstefna var uppfærð þann 8. apríl 2022.
 
 *Hafir þú spurningar eða athugasemdir sendu þá vinsamlegast tölvupóst á gdpr@piratar.is*
 
