@@ -69,7 +69,7 @@ title: Lög Pírata
 
 4.10. Á aðalfundi skal fara fram kosning í framkvæmdastjórn, fjármálaráð og stefnu- og málefnanefnd eins og nánar er kveðið á um í 7. kafla.
 
-4.11. Á aðalfundi eru tveir skoðunarmenn reikninga kjörnir með STV-forgangskosningu.
+4.11. Á aðalfundi félagsins skal kjósa endurskoðunarfyrirtæki eða löggiltan endurskoðanda skv. tillögu framkæmdastjórnar. Einnig skal kjósa tvo skoðunarmenn reikninga með STV-forgangskosningu.
 
 4.12. Kjörstjórn tekur við framboðum í öll embætti og tryggir að allir frambjóðendur fái sanngjarna kynningu.
 
@@ -318,19 +318,21 @@ eigin lög og bankareikning, en ekki eigin kennitölu.
 
 13.1. Bókhaldsár félagsins er almanaksárið.
 
-13.2. Félagið skal lúta lögum um fjármál stjórnmálasamtaka og frambjóðenda og um upplýsingaskyldu þeirra.
+13.2. Félagið skal lúta lögum um starfsemi stjórnmálasamtaka og frambjóðenda og um upplýsingaskyldu þeirra.
 
 13.3. Bókhald félagsins skal vera opið almenningi á vefsíðu félagsins. Það skal uppfært jafn óðum, með fyrirvara um villur og samþykki aðalfundar.
 
 13.4. Samþykktir ársreikningar skulu liggja fyrir á vefsíðu félagsins.
 
-13.5. Innkaup, aðgerðir og verkefni skulu framkvæmd með það í huga að þau skilji eftir eins lítil umhverfis og náttúruspjöll og kostur er, skal það haft í huga við samþykkt reikninga.
+13.5 Kjörtímabil endurskoðenda er 1 ár.
 
-13.6. Félaginu er eingöngu heimilt að taka lán fyrir rekstri og öðrum útgjöldum félagsins ef áætlaðar tekjur eru fyrirsjáanlegar og öruggar. Engin lán sem binda félagið mega fara fram án samþykkis fjármálaráðs.
+13.6. Innkaup, aðgerðir og verkefni skulu framkvæmd með það í huga að þau skilji eftir eins lítil umhverfis og náttúruspjöll og kostur er, skal það haft í huga við samþykkt reikninga.
 
-13.7. Félaginu er ekki heimilt að lána öðrum lögaðilum fé.
+13.7. Félaginu er eingöngu heimilt að taka lán fyrir rekstri og öðrum útgjöldum félagsins ef áætlaðar tekjur eru fyrirsjáanlegar og öruggar. Engin lán sem binda félagið mega fara fram án samþykkis fjármálaráðs.
 
-13.8. Fé sem situr eftir í sjóðum eftir bókhaldsárið skal renna í sjóð næsta árs.
+13.8. Félaginu er ekki heimilt að lána öðrum lögaðilum fé.
+
+13.9. Fé sem situr eftir í sjóðum eftir bókhaldsárið skal renna í sjóð næsta árs.
 
 ## 14. Þátttaka í kosningum
 
