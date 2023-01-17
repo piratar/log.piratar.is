@@ -69,7 +69,7 @@ title: Lög Femínistafélags Pírata
 
 6.1. Félagið telst starfhæft svo lengi sem ekki meira en 18 mánuðir hafa liðið frá því að síðasti aðalfundur þess var haldinn.
 
-6.2. Lögum félagsins má breyta á aðalfundi með 2/3 hluta atkvæða aðila félagsins sem sitja aðalfund. Tillaga að lagabreytingu á aðalfundi skal eigi afgreidd nema hún sé skýr og lögð fram skriflega.
+6.2. Lögum félagsins má breyta á aðalfundi með ⅔ hluta atkvæða aðila félagsins sem sitja aðalfund. Tillaga að lagabreytingu á aðalfundi skal eigi afgreidd nema hún sé skýr og lögð fram skriflega.
 
 6.3. Grunnstefna Pírata skal höfð að leiðarljósi í starfsemi félagsins.
 

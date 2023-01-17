@@ -77,7 +77,7 @@ Að öðru leiti skipuleggur stjórn dagskrá aðalfundar.
 
 6.1. Félagið telst starfhæft svo lengi sem ekki meira en 18 mánuðir hafa liðið frá því að síðasti aðalfundur þess var haldinn og að auki séu engir kjörnir fulltrúar starfandi í embættum af hálfu félagsins.
 
-6.2. Lögum félagsins má breyta á aðalfundi með 2/3 atkvæða aðila félagsins sem sitja aðalfund. Einnig má breyta þeim með samþykki 2/3 greiddra atkvæða í rafrænu kosningakerfi Pírata og skulu boð send út til félagsmanna um að lagabreytingatillaga sé til kosningar þegar hún hefst.
+6.2. Lögum félagsins má breyta á aðalfundi með ⅔ atkvæða aðila félagsins sem sitja aðalfund. Einnig má breyta þeim með samþykki ⅔ greiddra atkvæða í rafrænu kosningakerfi Pírata og skulu boð send út til félagsmanna um að lagabreytingatillaga sé til kosningar þegar hún hefst.
 
 6.3. Tillögur að breytingum á lögum skal birta opinberlega á vettvangi flokksins minnst einni viku áður en kosið er um þær. Breytingatillögur að áður birtum tillögum að breytingum á lögum skal birta opinberlega minnst tveimur dögum áður en kosið er um þær. Ekki er hægt að leggja fram breytingatillögu að lagabreytingatillögum í kosningarkerfinu, aðeins á aðalfundi.
 

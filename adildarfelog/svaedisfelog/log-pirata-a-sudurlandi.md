@@ -95,9 +95,9 @@ title: Lög Pírata á Suðurlandi
 
 7.1. Félagið telst starfhæft svo lengi sem ekki meira en 18 mánuðir hafa liðið frá því að síðasti aðalfundur þess var haldinn og að auki séu engir kjörnir fulltrúar starfandi í embættum af hálfu félagsins.
 
-7.2. Lögum félagsins má breyta á aðalfundi með 2/3 atkvæða aðila félagsins sem sitja aðalfund. Tillaga að lagabreytingu á aðalfundi skal eigi afgreidd nema hún sé skýr og lögð fram skriflega.
+7.2. Lögum félagsins má breyta á aðalfundi með ⅔ atkvæða aðila félagsins sem sitja aðalfund. Tillaga að lagabreytingu á aðalfundi skal eigi afgreidd nema hún sé skýr og lögð fram skriflega.
 
-7.3. Lögum félagsins má einnig breyta með samþykki 2/3 greiddra atkvæða í rafrænu kosningakerfi Pírata. Sérstök boð skulu send út til félagsmanna um að lagabreytingatillaga sé til kosningar þegar hún hefst.
+7.3. Lögum félagsins má einnig breyta með samþykki ⅔ greiddra atkvæða í rafrænu kosningakerfi Pírata. Sérstök boð skulu send út til félagsmanna um að lagabreytingatillaga sé til kosningar þegar hún hefst.
 
 7.4. Atkvæðarétt innan rafræns kosningakerfis Pírata hafa þeir félagar í Pírötum á Suðurlandi sem jafnframt hafa verið félagar í Pírötum í að minnsta kosti 30 daga samfellt.
 
