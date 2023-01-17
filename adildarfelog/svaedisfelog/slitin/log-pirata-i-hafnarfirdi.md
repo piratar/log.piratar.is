@@ -79,7 +79,7 @@ Að öðru leiti skipuleggur stjórn dagskrá aðalfundar.
 
 6.2. Lögum félagsins má breyta á aðalfundi með 2/3 atkvæða aðila félagsins sem sitja aðalfund. Einnig má breyta þeim með samþykki 2/3 greiddra atkvæða í rafrænu kosningakerfi Pírata og skulu boð send út til félagsmanna um að lagabreytingatillaga sé til kosningar þegar hún hefst.
 
-6.3. Tillögur að breytingum á lögum skal birta opinberlega á vettvangi flokksins minnst einni viku áður en kosið er um þær. Breytingartillögur að áður birtum tillögur að breytingum á lögum skal birta opinberlega minnst tveimur dögum dögum áður en kosið er um þær. Ekki er hægt að leggja fram breytingartillögu að lagabreytingar tillögum í kosningarkerfinu, aðeins á aðalfundi.
+6.3. Tillögur að breytingum á lögum skal birta opinberlega á vettvangi flokksins minnst einni viku áður en kosið er um þær. Breytingatillögur að áður birtum tillögum að breytingum á lögum skal birta opinberlega minnst tveimur dögum áður en kosið er um þær. Ekki er hægt að leggja fram breytingatillögu að lagabreytingatillögum í kosningarkerfinu, aðeins á aðalfundi.
 
 6.4. Atkvæðarétt innan rafræns kosningakerfis Pírata hafa þeir félagar í Pírötum í Hafnarfirði sem jafnframt hafa verið félagar í Pírötum í að minnsta kosti 30 daga samfellt.
 
