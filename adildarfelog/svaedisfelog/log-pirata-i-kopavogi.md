@@ -61,7 +61,7 @@ title: Lög Pírata í Kópavogi
 8. Kosning í önnur embætti samkvæmt lögum þessum
 9. Önnur mál
 
-Að öðru leiti skipuleggur stjórn dagskrá aðalfundar
+Að öðru leiti skipuleggur stjórn dagskrá aðalfundar.
 
 5.4. Á félagsfundi samkvæmt sjöunda kafla er hægt að leggja fram tillögu um að boða til auka aðalfundar. Slík tillaga skal koma fram í fundarboði. Sé hún samþykkt á fundinum skal hún sett í kosningu í kosningarkerfi Pírata til samþykktar eða synjunar. Sé hún samþykkt með að minnsta kosti tveimur þriðja atkvæða er stjórn skylt að boða auka aðalfund eins fljótt og mögulegt er. Stjórn hefur einnig sjálfstæða heimild til að boða til auka aðalfundar. Á auka aðalfundi er ekki skylt að taka á dagskrá alla liði sem lög þessi segja fyrir um á aðalfundi. Hafi tillaga um boðun auka aðalfundar innifalið skilyrði um dagskrá fundarins skal stjórn þó fylgja þeim.
 
