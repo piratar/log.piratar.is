@@ -67,7 +67,7 @@ title: Lög Pírata
 
 4.9. Allir félagsmenn sem skráðir eru 30 dögum fyrir aðalfund hafa aðgang að honum. Allir félagsmenn skulu hafa möguleika á aðgangi að streymi af fundinum og/eða upptöku af honum. Mættum félagsmönnum skal gert ljóst að upptökur af fundinum verða gerðar opinberar um ókominn tíma.
 
-4.10. Á aðalfundi skal fara fram kosning í framkvæmdastjórn, fjármálaráð og stefnu- og málefnanefnd eins og nánar er kveðið á um í 7. kafla.
+4.10. Á aðalfundi skal fara fram kosning í framkvæmdastjórn og stefnu- og málefnanefnd, sem og kjör gjaldkera framkvæmdastjórnar, eins og nánar er kveðið á um í 7. kafla.
 
 4.11. Á aðalfundi félagsins skal kjósa endurskoðunarfyrirtæki eða löggiltan endurskoðanda skv. tillögu framkæmdastjórnar. Einnig skal kjósa tvo skoðunarmenn reikninga með STV-forgangskosningu.
 
@@ -135,19 +135,23 @@ title: Lög Pírata
 
 7.1. Framkvæmdastjórn annast almenna stjórn og rekstur félagsins að svo miklu leyti sem hún er ekki í höndum aðildarfélaga.
 
-7.1.1. Í framkvæmdastjórn sitja þrír einstaklingar sem kosnir eru beinni kosningu á aðalfundi. Kjörtímabil þeirra er tvö ár. Sá meðlimur framkvæmdastjórnar sem hlýtur besta kosningu skal stýra störfum hennar nema viðkomandi biðjist undan.
+7.1.1. Í framkvæmdastjórn sitja fimm einstaklingar. Tveir eru almennir stjórnarmenn. Einn er svo formaður, annar er ritari og þriðji gjaldkeri. Á aðalfundi eru fjórir kjörnir í framkvæmdastjórn af röðuðum lista, ásamt tveimur til vara, og gjaldkeri er að jafnaði kjörinn sérstaklega á aðalfundi í einstaklingskjöri. Kjörtímabil allra í framkvæmdastjórn er tvö ár. Listakosning fer fram um tvo aðila og einn til vara annað hvert ár og kosning um gjaldkera fer fram á tveggja ára fresti.
 
-Framkvæmdastjórn velur sjálf einnig gjaldkera og ritara.
+7.1.2.1. Sá meðlimur framkvæmdastjórnar sem hlýtur besta listakosningu ( sbr. gr. 7.1.1) skal stýra störfum hennar sem formaður. Vilji sitjandi formaður sem er ennþá kjörgengur til stjórnar halda formannsstöðu sinni þegar kjör til stjórnar fer fram skal hann þannig taka þátt í listakosningu upp á hver hlýtur formannssætið en heldur stjórnarsæti sínu óháð því hvernig listinn raðast. Ef sá meðlimur sem vinnur listakosningar biðst undan, missir kjörgengi eða staða hans losnar af öðrum ástæðum, þá velur framkvæmdastjórnin sér formann úr sínum röðum fram að næsta aðalfundi eða auka-aðalfundi.
 
-7.1.2. Þau eru kjörgeng til framkvæmdastjórnar sem setið hafa að lágmarki eitt kjörtímabil í skilgreindri trúnaðarstöðu á vegum félagsins eða aðildarfélaga.
+7.1.2.2. Framkvæmdastjórn kýs ritara úr sínum röðum og er sá aðili einnig varaformaður.
+
+7.1.2.3. Biðjist gjaldkeri lausnar, missi hann kjörgengi eða staða hans losnar af öðrum sökum á miðju kjörtímabili kýs framkvæmdastjórn nýjan gjaldkera úr sínum röðum fram að næsta aðalfundi eða auka-aðalfundi. Hið sama gildir ef engin framboð berast til kjör gjaldkera.
 
 7.1.3. Framkvæmdastjórn setur stefnu um rekstur félagsins.
+
+7.1.4. Framkvæmdastjórn telst starfhæf þó meðlimum hennar fækki niður í allt að þrjá, en þó ávallt þannig að skipað sé í stöðu formanns, gjaldkera og ritara út frá þeim reglum um kjörgengi sem kveðið er á um í lögum þessum (sbr. gr. 7.8.1). Ef framkvæmdastjórn er ófær um að manna þessar þrjár stöður telst hún óstarfhæf og skal hún þá boða til auka-aðalfundar við fyrsta mögulega tækifæri þar sem kosið er um lausar stöður í framkvæmdastjórn og um stöðu gjaldkera sé hún laus.
 
 **Stefnu- og málefnanefnd**
 
 7.2. Stefnu- og málefnanefnd skal vera félagsfólki, kjörnum fulltrúum og nefndum, stjórnum, ráðum og aðildarfélögum Pírata til aðstoðar varðandi stefnumótun og málefnastarf innan flokksins. Þá getur hún haft frumkvæði að viðbrögðum við stóratburðum í samfélaginu, t.d. með skipulagningu viðburða og funda.
 
-7.2.1. Í stefnu- og málefnanefnd sitja fimm einstaklingar sem kosin eru beinni kosningu á aðalfundi. Kjörtímabil þeirra er tvö ár. Sá meðlimur nefndarinnar sem hlýtur besta kosningu skal stýra störfum hennar nema viðkomandi biðjist undan.
+7.2.1. Í stefnu- og málefnanefnd sitja fimm einstaklingar sem kosnir eru beinni listakosningu á aðalfundi. Kjörtímabil þeirra er tvö ár. Sá meðlimur nefndarinnar sem hlýtur besta kosningu skal stýra störfum hennar sem formaður, nema viðkomandi biðjist undan eða sæti hans losnar af öðrum sökum, og skal stefnu- og málefnanefnd þá velja sér formann úr sínum röðum.
 
 7.2.2. Stefnu- og málefnanefnd skipuleggur Pírataþing, sem haldin skulu tvisvar á ári.
 
@@ -157,21 +161,22 @@ Framkvæmdastjórn velur sjálf einnig gjaldkera og ritara.
 
 7.2.5. Í aðdraganda sveitarstjórnarkosninga aðstoðar stefnu- og málefnanefnd aðildarfélög sem taka þátt í kosningum eftir þörfum.
 
-**Fjármálaráð**
+7.2.6. Stefnu- málefnanefnd telst starfhæf þó meðlimum hennar fækki niður í allt að þrjá. Ef stefnu- og málefnanefnd er ófær um að manna þrjár stöður telst hún óstarfhæf og skal framkvæmdastjórn þá boða til auka-aðalfundar við fyrsta mögulega tækifæri þar sem kosið er um lausar stöður í stefnu- og málefnanefnd.
 
-7.3. Fjármálaráð tryggir gegnsæi, valddreifingu og vönduð bókhaldsvinnubrögð í fjármálum. Ber það ábyrgð á gerð fjárhagsáætlunar Pírata.
+**Gjaldkeri**
 
-7.3.1. Í fjármálaráði sitja þrír einstaklingar sem kosin eru beinni kosningu á aðalfundi. Kjörtímabil þeirra er tvö ár. Sá meðlimur fjármálaráðs sem hlýtur besta kosningu skal stýra störfum þess nema viðkomandi biðjist undan.
+7.3. Gjaldkeri ber ábyrgð á gerð fjárhagsáætlunar Pírata fyrir hönd framkvæmdastjórnar félagsins og í samstarfi við hana.
 
-7.3.2. Fjármálaráð skal setja verklagsreglur um fjármálaumsjón félagsins og stofnana þess. Í reglunum sé að lágmarki kveðið á um:
+7.3.1. Gjaldkeri situr í framkvæmdastjórn en er kjörinn beinni kosningu á aðalfundi, sbr. gr. 7.1.1 og gr. 7.1.2.
 
+7.3.2. Gjaldkeri skal leggja verklagsreglur til samþykktar í framkvæmdastjórn um fjármálaumsjón félagsins og stofnana þess. Í reglunum sé að lágmarki kveðið á um:
 * að tvöföld undirritun sé á reikningum,
 * að haldið sé vel um kvittanir og önnur bókhaldsgögn,
 * að bókhaldi sé skilað til framkvæmdastjórnar a.m.k. ársfjórðungslega,
 * að lögum félagsins um opið bókhald sé framfylgt og;
 * fjárveitingar til svæðisbundinna aðildarfélaga samkvæmt skilgreindri reikniaðferð í 11. kafla laganna.
 
-7.3.3. Fjármálaráð hefur umsjón með eftirfylgni við verklagsreglur um fjármálaumsjón félagsins.
+7.3.3. Gjaldkeri hefur umsjón með eftirfylgni við verklagsreglur um fjármálaumsjón félagsins.
 
 **Samráðsvettvangur**
 
@@ -179,7 +184,6 @@ Framkvæmdastjórn velur sjálf einnig gjaldkera og ritara.
 
 * Framkvæmdastjórn
 * Stefnu- og málefnanefnd
-* Fjármálaráð
 * Kjördæmabundin aðildarfélög
 * Önnur aðildarfélög sem tilkynna um þátttöku
 * Þingflokkur
@@ -193,21 +197,21 @@ Framkvæmdastjórn velur sjálf einnig gjaldkera og ritara.
 
 7.5. Framkvæmdastjórn skal ráða framkvæmdastjóra til að annast daglegan rekstur Pírata. Framkvæmdastjóri ræður annað starfsfólk Pírata. Um störf framkvæmdastjóra og annars starfsfólks fer nánar samkvæmt 9. kafla.
 
-7.6. Framkvæmdastjórn og fjármálaráð skulu viðhafa reglubundið samráð við framkvæmdastjóra hvað varðar fjármál og rekstur félagsins.
+7.6. Framkvæmdastjórn skal viðhafa reglubundið samráð við framkvæmdastjóra um fjármál og rekstur félagsins.
 
-7.7. Framkvæmdastjórn, stefnu- og málefnanefnd og fjármálaráði er heimilt að skipa nefndir, starfshópa og málefnahópa. Skal viðkomandi ráð setja þeim hópum og nefndum sem það skipar reglur.
+7.7. Framkvæmdastjórn og stefnu- og málefnanefnd er heimilt að skipa nefndir, starfshópa og málefnahópa um afmörkuð verkefni. Skal viðkomandi stjórn eða nefnd setja þeim hópum og nefndum sem hún skipar reglur um hlutverk, ábyrgðarsvið og starfstímabil.
 
 7.7.1. Nefndir, starfshópar eða málefnahópar skulu hafa ábyrgðaraðila og skila reglubundinni skýrslu ef um varanlega nefnd, starfshóp eða málefnahóp er að ræða, en við lok starfsins ef um tímabundna nefnd, starfshóp eða málefnahóp er að ræða.
 
 7.7.2. Gera skal grein fyrir störfum slíkra nefnda, starfshópa og/eða málefnahópa í ársskýrslu félagsins sbr. grein 4.8.
 
-**Kjör í stjórnir, nefndir og ráð**
+**Kjör í stjórnir og nefndir og einstaklingskjör**
 
-7.8. Kosningar í framkvæmdastjórn, stefnu- og málefnanefnd og fjármálaráð skulu skila raðaðri niðurstöðu. Að öðru leyti fer um kjörið samkvæmt 4. kafla um aðalfund.
+7.8. Kosningar í framkvæmdastjórn og stefnu- og málefnanefnd skulu skila raðaðri niðurstöðu, þar sem röðun á lista ákvarðar hverjir hljóta sæti og hverjir hljóta varasæti. Einstaklingskjör fer fram með sama hætti, þar sem fyrsta sæti á röðuðum lista ákvarðar hver hlýtur viðkomandi stöðu. Að öðru leyti fer um kjörið samkvæmt 4. kafla um aðalfund.
 
-7.8.1. Þeir einir eru kjörgengir til stjórna, nefnda og ráða Pírata sem hafa verið í félaginu í að lágmarki 30 daga áður en kosning hefst. Óheimilt er að sitja lengur en tvö kjörtímabil samfleytt í sömu stjórn eða ráði.
+7.8.1. Aðilar þurfa að vera félagar í Pírötum til að vera kjörgengir til framkvæmdastjórnar, nefnda og til stöðu gjaldkera. Óheimilt er að sitja lengur en fjögur kjörtímabil samfleytt í sömu stjórn eða nefnd, eða gegna stöðu gjaldkera. Kjörnir fulltrúar mega sitja í framkvæmdastjórn en þau geta ekki tekið stöðu formanns. Varamenn teljast hér ekki kjörnir fulltrúar og geta því tekið sér stöðu formanns og sinnt henni, jafnvel meðan þau taka sæti tímabundið á Alþingi eða í sveitarstjórn. Kjörnum fulltrúum er að öðru leyti heimilt að taka sæti í nefndum innan félagsins, nema annað sé sérstaklega tekið fram í lögum þessum.
 
-7.8.2. Heimilt er að sitja í fleiri en einni nefnd, stjórn eða ráði.
+7.8.2. Engar takmarkanir gilda um samhliða setu einstaklinga í framkvæmdastjórn eða nefndum, sé viðkomandi kjörgengur til viðkomandi stöðu á annað borð.
 
 **Almenn ákvæði um stjórnir, nefndir og ráð**
 
@@ -215,7 +219,7 @@ Framkvæmdastjórn velur sjálf einnig gjaldkera og ritara.
 
 7.10. Fundir stjórna og ráða skulu að jafnaði vera opnir öllum. Þó er heimilt að loka fundi eða hluta úr fundi þegar ræða á trúnaðarmál. Meirihluta ráðsfólks/stjórnarmeðlima sem sitja fundinn þarf til þess að ákveða að loka fundum.
 
-7.11. Heimild til að rita firma félagsins hefur fulltrúi framkvæmdastjórnar og framkvæmdastjóri.
+7.11. Heimild til að rita firma félagsins hafa gjaldkeri og framkvæmdastjóri.
 
 ## 8. Úrskurðarnefnd
 
@@ -311,8 +315,7 @@ Framkvæmdastjórn velur sjálf einnig gjaldkera og ritara.
 
 ## 12. Ungir Píratar
 
-12.1 Ungir Píratar eru sjálfstætt aðildarfélag, rekið sem deild innan Pírata með
-eigin lög og bankareikning, en ekki eigin kennitölu.
+12.1 Ungir Píratar eru sjálfstætt aðildarfélag, rekið sem deild innan Pírata með eigin lög og bankareikning, en ekki eigin kennitölu.
 
 ## 13. Fjármál
 
@@ -328,7 +331,7 @@ eigin lög og bankareikning, en ekki eigin kennitölu.
 
 13.6. Innkaup, aðgerðir og verkefni skulu framkvæmd með það í huga að þau skilji eftir eins lítil umhverfis og náttúruspjöll og kostur er, skal það haft í huga við samþykkt reikninga.
 
-13.7. Félaginu er eingöngu heimilt að taka lán fyrir rekstri og öðrum útgjöldum félagsins ef áætlaðar tekjur eru fyrirsjáanlegar og öruggar. Engin lán sem binda félagið mega fara fram án samþykkis fjármálaráðs.
+13.7. Félaginu er eingöngu heimilt að taka lán fyrir rekstri og öðrum útgjöldum félagsins ef áætlaðar tekjur eru fyrirsjáanlegar og öruggar. Engin lán sem binda félagið mega fara fram án samþykkis framkvæmdastjórnar.
 
 13.8. Félaginu er ekki heimilt að lána öðrum lögaðilum fé.
 
